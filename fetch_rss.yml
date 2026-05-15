@@ -1,0 +1,41 @@
+name: RSS自動取得
+
+on:
+  # 毎朝8時（日本時間）に自動実行
+  schedule:
+    - cron: '0 23 * * *'  # UTC 23:00 = JST 8:00
+
+  # GitHubの画面から手動でも実行できる
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      # リポジトリのファイルを取得
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      # Pythonをセットアップ
+      - name: Pythonをセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 必要なライブラリをインストール
+      - name: ライブラリをインストール
+        run: pip install feedparser
+
+      # RSSを取得してJSONを更新（scheduleモードで1回だけ実行）
+      - name: RSSを取得
+        run: python rss_fetcher.py --once
+
+      # JSONが更新されていたらGitHubにコミット&プッシュ
+      - name: JSONをコミット
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add limited_menus.json
+          git diff --cached --quiet || git commit -m "chore: RSSフィード自動更新 $(date '+%Y-%m-%d')"
+          git push

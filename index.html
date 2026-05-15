@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>かぎりメシ — 期間限定メニューまとめ</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Kaisei+Decol:wght@400;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --red:    #C0392B;
+      --ink:    #1A1410;
+      --sand:   #F5F0E8;
+      --stone:  #E8E0D0;
+      --muted:  #7A6F64;
+      --white:  #FDFCF9;
+      --radius: 12px;
+      --shadow: 0 2px 12px rgba(26,20,16,.08);
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Noto Sans JP', sans-serif; background: var(--sand); color: var(--ink); min-height: 100vh; }
+
+    /* HEADER */
+    header {
+      background: var(--ink);
+      padding: 1.25rem 1.5rem;
+      position: sticky; top: 0; z-index: 100;
+    }
+    .logo { font-family: 'Kaisei Decol', serif; font-size: 1.5rem; color: var(--white); letter-spacing: .04em; }
+    .logo span { color: #E8A87C; }
+    .logo-sub { font-size: .7rem; color: #9A8F84; margin-top: 2px; letter-spacing: .06em; }
+
+    /* STATS */
+    .stats-bar { display: flex; gap: 1px; background: var(--stone); border-bottom: 1px solid var(--stone); }
+    .stat { flex: 1; background: var(--white); padding: .75rem 1rem; text-align: center; }
+    .stat-num { font-family: 'Kaisei Decol', serif; font-size: 1.6rem; color: var(--red); line-height: 1; }
+    .stat-label { font-size: .68rem; color: var(--muted); margin-top: 3px; letter-spacing: .04em; }
+
+    /* FILTERS */
+    .filter-section {
+      background: var(--white);
+      border-bottom: 1px solid var(--stone);
+      padding: .6rem 1rem;
+      display: flex;
+      gap: .4rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .filter-section + .filter-section { border-top: 1px solid var(--stone); }
+    .filter-label { font-size: .68rem; color: var(--muted); letter-spacing: .06em; margin-right: .2rem; white-space: nowrap; }
+    .filter-btn {
+      font-size: .73rem; font-family: 'Noto Sans JP', sans-serif;
+      padding: .3rem .85rem; border-radius: 99px;
+      border: 1.5px solid var(--stone); background: transparent; color: var(--muted);
+      cursor: pointer; transition: all .15s; white-space: nowrap;
+    }
+    .filter-btn:hover { border-color: var(--red); color: var(--red); }
+    .filter-btn.active { background: var(--red); border-color: var(--red); color: #fff; }
+
+    /* GRID */
+    main { padding: 1.25rem 1rem 3rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: .75rem; }
+
+    /* CARD */
+    .card {
+      background: var(--white); border-radius: var(--radius); overflow: hidden;
+      box-shadow: var(--shadow); display: flex; flex-direction: column;
+      text-decoration: none; color: inherit;
+      transition: transform .18s, box-shadow .18s;
+      animation: fadeUp .3s ease both;
+    }
+    .card:hover { transform: translateY(-3px); box-shadow: 0 6px 24px rgba(26,20,16,.13); }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .card-emoji { height: 90px; background: var(--sand); display: flex; align-items: center; justify-content: center; font-size: 2.6rem; }
+    .card-body { padding: .75rem; flex: 1; display: flex; flex-direction: column; gap: .4rem; }
+    .card-shop { font-size: .95rem; font-weight: 700; color: var(--muted); letter-spacing: .02em; }
+    .card-cat  { font-size: .6rem; color: var(--muted); background: var(--sand); padding: .1rem .45rem; border-radius: 99px; display: inline-block; }
+    .card-name { font-size: .82rem; font-weight: 400; line-height: 1.4; color: var(--ink); }
+    .card-footer { margin-top: auto; display: flex; align-items: center; justify-content: space-between; padding-top: .4rem; }
+    .card-price { font-size: .85rem; font-weight: 700; }
+
+    /* STATES */
+    .empty, .loading {
+      grid-column: 1 / -1; text-align: center;
+      padding: 4rem 1rem; color: var(--muted); font-size: .9rem;
+    }
+    .empty-icon { font-size: 3rem; display: block; margin-bottom: .75rem; }
+
+    /* FOOTER */
+    footer { text-align: center; padding: 1.5rem; font-size: .7rem; color: var(--muted); border-top: 1px solid var(--stone); }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">かぎり<span>メシ</span></div>
+  <div class="logo-sub">飲食チェーン 期間限定メニューまとめ</div>
+</header>
+
+<div class="stats-bar">
+  <div class="stat"><div class="stat-num" id="stat-total">—</div><div class="stat-label">掲載中</div></div>
+  <div class="stat"><div class="stat-num" id="stat-shops">—</div><div class="stat-label">店舗数</div></div>
+</div>
+
+<!-- カテゴリフィルター（JSONのcategoryから自動生成） -->
+<div class="filter-section" id="filter-category">
+  <span class="filter-label">カテゴリ</span>
+  <button class="filter-btn active" data-category="all">すべて</button>
+</div>
+
+<!-- 店舗フィルター（JSONのshopから自動生成） -->
+<div class="filter-section" id="filter-shop">
+  <span class="filter-label">店舗</span>
+  <button class="filter-btn active" data-shop="all">すべて</button>
+</div>
+
+<main>
+  <div class="grid" id="grid">
+    <div class="loading">読み込み中…</div>
+  </div>
+</main>
+
+<footer>
+  情報は各店舗の公式発表をもとに掲載しています。価格・期間は変更になる場合があります。
+</footer>
+
+<script src="load_menus.js"></script>
+</body>
+</html>
