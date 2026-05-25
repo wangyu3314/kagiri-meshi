@@ -7,13 +7,12 @@ const CATEGORY_CONFIG = {
   sushi:       { label: "回転寿司",      emoji: "🍣" },
   burger:      { label: "バーガー",      emoji: "🍔" },
   cafe:        { label: "カフェ",        emoji: "☕" },
-  fastfood:    { label: "ファストフード", emoji: "🍟" },
-  convenience: { label: "コンビニ",      emoji: "🏪" },
+  men:         { label: "うどん・そば",  emoji: "🍜" },
+  don:         { label: "丼もの",        emoji: "🍚" },
   family:      { label: "ファミレス",    emoji: "🍽️" },
-  ramen:       { label: "ラーメン",      emoji: "🍜" },
+  ramen:       { label: "ラーメン",      emoji: "🍥" },
   sweets:      { label: "スイーツ",      emoji: "🍰" },
 };
-
 let allItems    = [];
 let currentCat  = "all";
 let currentShop = "all";
@@ -96,6 +95,13 @@ function renderCards() {
   if (currentCat  !== "all") items = items.filter(i => i.category === currentCat);
   if (currentShop !== "all") items = items.filter(i => i.shop === currentShop);
 
+    // 記事投稿日順（新しいものを上に）
+  items = [...items].sort((a, b) => {
+    const dateA = new Date(a.published || a.fetched_at);
+    const dateB = new Date(b.published || b.fetched_at);
+    return dateB - dateA;
+  });
+  
   const grid = document.getElementById("grid");
 
   if (items.length === 0) {
