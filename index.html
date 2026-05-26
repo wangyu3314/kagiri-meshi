@@ -59,8 +59,17 @@
 
     /* GRID */
     main { padding: 1.25rem 1rem 3rem; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: .75rem; }
-
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);  /* スマホは2列固定 */
+      gap: .75rem;
+    }
+    
+    @media (min-width: 600px) {
+      .grid {
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));  /* PC・タブレットは可変 */
+      }
+    }
     /* CARD */
     .card {
       background: var(--white); border-radius: var(--radius); overflow: hidden;
@@ -91,6 +100,41 @@
 
     /* FOOTER */
     footer { text-align: center; padding: 1.5rem; font-size: .7rem; color: var(--muted); border-top: 1px solid var(--stone); }
+
+    /* 注意書き */
+    .notice {
+      background: #FFF8E7;
+      border-left: 3px solid #E8A87C;
+      padding: .6rem 1rem;
+      font-size: .72rem;
+      color: var(--muted);
+    }
+
+    /* タグ */
+    .card-tag {
+      font-size: .6rem;
+      padding: .1rem .45rem;
+      border-radius: 99px;
+      display: inline-block;
+      font-weight: 500;
+    }
+    .tag-collab  { background: #EDE7F6; color: #6A1B9A; }
+    .tag-fair    { background: #E3F2FD; color: #1565C0; }
+    .tag-season  { background: #E8F5E9; color: #2E7D32; }
+    .tag-default { background: var(--sand); color: var(--muted); }
+
+    /* 終了日 */
+    .card-enddate {
+      font-size: .65rem;
+      color: var(--muted);
+      margin-top: auto;
+      padding-top: .3rem;
+    }
+    .card-enddate span {
+      color: var(--red);
+      font-weight: 700;
+    }
+
   </style>
 </head>
 <body>
@@ -103,6 +147,10 @@
 <div class="stats-bar">
   <div class="stat"><div class="stat-num" id="stat-total">—</div><div class="stat-label">掲載中</div></div>
   <div class="stat"><div class="stat-num" id="stat-shops">—</div><div class="stat-label">店舗数</div></div>
+</div>
+
+<div class="notice">
+  ⚠️ 掲載情報はニュース記事をもとに自動取得しています。販売終了済みのメニューが含まれる場合があります。
 </div>
 
 <!-- カテゴリフィルター（JSONのcategoryから自動生成） -->
