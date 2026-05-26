@@ -29,122 +29,384 @@ FEEDS = [
         "category": "sushi",
     },
     {
+        "shop": "スシロー",
+        "url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "sushi",
+    },
+    {
+        "shop": "スシロー",
+        "url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "sushi",
+    },
+    # ── はま寿司 ──
+    {
         "shop": "はま寿司",
         "url": "https://news.google.com/rss/search?q=%E3%81%AF%E3%81%BE%E5%AF%BF%E5%8F%B8%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "sushi",
     },
+    {
+        "shop": "はま寿司",
+        "url": "https://news.google.com/rss/search?q=%E3%81%AF%E3%81%BE%E5%AF%BF%E5%8F%B8%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "sushi",
+    },
+    {
+        "shop": "はま寿司",
+        "url": "https://news.google.com/rss/search?q=%E3%81%AF%E3%81%BE%E5%AF%BF%E5%8F%B8%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "sushi",
+    },
+    # ── くら寿司 ──
     {
         "shop": "くら寿司",
         "url": "https://news.google.com/rss/search?q=%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "sushi",
     },
     {
+        "shop": "くら寿司",
+        "url": "https://news.google.com/rss/search?q=%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "sushi",
+    },
+    {
+        "shop": "くら寿司",
+        "url": "https://news.google.com/rss/search?q=%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "sushi",
+    },
+    # ── かっぱ寿司 ──
+    {
         "shop": "かっぱ寿司",
         "url": "https://news.google.com/rss/search?q=%E3%81%8B%E3%81%A3%E3%81%B1%E5%AF%BF%E5%8F%B8%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "sushi",
     },
+    {
+        "shop": "かっぱ寿司",
+        "url": "https://news.google.com/rss/search?q=%E3%81%8B%E3%81%A3%E3%81%B1%E5%AF%BF%E5%8F%B8%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "sushi",
+    },
+    {
+        "shop": "かっぱ寿司",
+        "url": "https://news.google.com/rss/search?q=%E3%81%8B%E3%81%A3%E3%81%B1%E5%AF%BF%E5%8F%B8%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "sushi",
+    },
+    # ── マクドナルド ──
     {
         "shop": "マクドナルド",
         "url": "https://news.google.com/rss/search?q=%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "burger",
     },
     {
+        "shop": "マクドナルド",
+        "url": "https://news.google.com/rss/search?q=%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    {
+        "shop": "マクドナルド",
+        "url": "https://news.google.com/rss/search?q=%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    # ── モスバーガー ──
+    {
         "shop": "モスバーガー",
         "url": "https://news.google.com/rss/search?q=%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "burger",
     },
+    {
+        "shop": "モスバーガー",
+        "url": "https://news.google.com/rss/search?q=%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    {
+        "shop": "モスバーガー",
+        "url": "https://news.google.com/rss/search?q=%E3%83%A2%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    # ── バーガーキング ──
     {
         "shop": "バーガーキング",
         "url": "https://news.google.com/rss/search?q=%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "burger",
     },
     {
+        "shop": "バーガーキング",
+        "url": "https://news.google.com/rss/search?q=%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    {
+        "shop": "バーガーキング",
+        "url": "https://news.google.com/rss/search?q=%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    # ── フレッシュネスバーガー ──
+    {
         "shop": "フレッシュネスバーガー",
         "url": "https://news.google.com/rss/search?q=%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%8D%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "burger",
     },
+    {
+        "shop": "フレッシュネスバーガー",
+        "url": "https://news.google.com/rss/search?q=%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%8D%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    {
+        "shop": "フレッシュネスバーガー",
+        "url": "https://news.google.com/rss/search?q=%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5%E3%83%8D%E3%82%B9%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    # ── ゼッテリア ──
     {
         "shop": "ゼッテリア",
         "url": "https://news.google.com/rss/search?q=%E3%82%BC%E3%83%83%E3%83%86%E3%83%AA%E3%82%A2%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "burger",
     },
     {
+        "shop": "ゼッテリア",
+        "url": "https://news.google.com/rss/search?q=%E3%82%BC%E3%83%83%E3%83%86%E3%83%AA%E3%82%A2%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    {
+        "shop": "ゼッテリア",
+        "url": "https://news.google.com/rss/search?q=%E3%82%BC%E3%83%83%E3%83%86%E3%83%AA%E3%82%A2%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "burger",
+    },
+    # ── スターバックス ──
+    {
         "shop": "スターバックス",
         "url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "cafe",
     },
-        {
+    {
+        "shop": "スターバックス",
+        "url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "cafe",
+    },
+    {
+        "shop": "スターバックス",
+        "url": "https://news.google.com/rss/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "cafe",
+    },
+    # ── ドトールコーヒー ──
+    {
         "shop": "ドトールコーヒー",
         "url": "https://news.google.com/rss/search?q=%E3%83%89%E3%83%88%E3%83%BC%E3%83%AB%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "cafe",
     },
-        {
+    {
+        "shop": "ドトールコーヒー",
+        "url": "https://news.google.com/rss/search?q=%E3%83%89%E3%83%88%E3%83%BC%E3%83%AB%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "cafe",
+    },
+    {
+        "shop": "ドトールコーヒー",
+        "url": "https://news.google.com/rss/search?q=%E3%83%89%E3%83%88%E3%83%BC%E3%83%AB%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "cafe",
+    },
+    # ── タリーズコーヒー ──
+    {
         "shop": "タリーズコーヒー",
         "url": "https://news.google.com/rss/search?q=%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "cafe",
     },
-        {
-        "shop": "すき屋",
+    {
+        "shop": "タリーズコーヒー",
+        "url": "https://news.google.com/rss/search?q=%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "cafe",
+    },
+    {
+        "shop": "タリーズコーヒー",
+        "url": "https://news.google.com/rss/search?q=%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "cafe",
+    },
+    # ── すき家 ──
+    {
+        "shop": "すき家",
         "url": "https://news.google.com/rss/search?q=%E3%81%99%E3%81%8D%E5%AE%B6%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "don",
     },
-        {
+    {
+        "shop": "すき家",
+        "url": "https://news.google.com/rss/search?q=%E3%81%99%E3%81%8D%E5%AE%B6%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    {
+        "shop": "すき家",
+        "url": "https://news.google.com/rss/search?q=%E3%81%99%E3%81%8D%E5%AE%B6%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    # ── 松屋 ──
+    {
         "shop": "松屋",
         "url": "https://news.google.com/rss/search?q=%E6%9D%BE%E5%B1%8B%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "don",
     },
-        {
+    {
+        "shop": "松屋",
+        "url": "https://news.google.com/rss/search?q=%E6%9D%BE%E5%B1%8B%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    {
+        "shop": "松屋",
+        "url": "https://news.google.com/rss/search?q=%E6%9D%BE%E5%B1%8B%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    # ── 吉野家 ──
+    {
         "shop": "吉野家",
         "url": "https://news.google.com/rss/search?q=%E5%90%89%E9%87%8E%E5%AE%B6%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "don",
     },
-        {
+    {
+        "shop": "吉野家",
+        "url": "https://news.google.com/rss/search?q=%E5%90%89%E9%87%8E%E5%AE%B6%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    {
+        "shop": "吉野家",
+        "url": "https://news.google.com/rss/search?q=%E5%90%89%E9%87%8E%E5%AE%B6%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    # ── なか卯 ──
+    {
         "shop": "なか卯",
         "url": "https://news.google.com/rss/search?q=%E3%81%AA%E3%81%8B%E5%8D%AF%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "don",
     },
+    {
+        "shop": "なか卯",
+        "url": "https://news.google.com/rss/search?q=%E3%81%AA%E3%81%8B%E5%8D%AF%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    {
+        "shop": "なか卯",
+        "url": "https://news.google.com/rss/search?q=%E3%81%AA%E3%81%8B%E5%8D%AF%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    # ── かつや ──
     {
         "shop": "かつや",
         "url": "https://news.google.com/rss/search?q=%E3%81%8B%E3%81%A4%E3%82%84%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "don",
     },
     {
+        "shop": "かつや",
+        "url": "https://news.google.com/rss/search?q=%E3%81%8B%E3%81%A4%E3%82%84%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    {
+        "shop": "かつや",
+        "url": "https://news.google.com/rss/search?q=%E3%81%8B%E3%81%A4%E3%82%84%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "don",
+    },
+    # ── ガスト ──
+    {
         "shop": "ガスト",
         "url": "https://news.google.com/rss/search?q=%E3%82%AC%E3%82%B9%E3%83%88%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "family",
     },
+    {
+        "shop": "ガスト",
+        "url": "https://news.google.com/rss/search?q=%E3%82%AC%E3%82%B9%E3%83%88%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "family",
+    },
+    {
+        "shop": "ガスト",
+        "url": "https://news.google.com/rss/search?q=%E3%82%AC%E3%82%B9%E3%83%88%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "family",
+    },
+    # ── デニーズ ──
     {
         "shop": "デニーズ",
         "url": "https://news.google.com/rss/search?q=%E3%83%87%E3%83%8B%E3%83%BC%E3%82%BA%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "family",
     },
     {
+        "shop": "デニーズ",
+        "url": "https://news.google.com/rss/search?q=%E3%83%87%E3%83%8B%E3%83%BC%E3%82%BA%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "family",
+    },
+    {
+        "shop": "デニーズ",
+        "url": "https://news.google.com/rss/search?q=%E3%83%87%E3%83%8B%E3%83%BC%E3%82%BA%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "family",
+    },
+    # ── ロイヤルホスト ──
+    {
         "shop": "ロイヤルホスト",
         "url": "https://news.google.com/rss/search?q=%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%9B%E3%82%B9%E3%83%88%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "family",
     },
+    {
+        "shop": "ロイヤルホスト",
+        "url": "https://news.google.com/rss/search?q=%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%9B%E3%82%B9%E3%83%88%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "family",
+    },
+    {
+        "shop": "ロイヤルホスト",
+        "url": "https://news.google.com/rss/search?q=%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%9B%E3%82%B9%E3%83%88%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "family",
+    },
+    # ── ココス ──
     {
         "shop": "ココス",
         "url": "https://news.google.com/rss/search?q=%E3%82%B3%E3%82%B3%E3%82%B9%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "family",
     },
     {
+        "shop": "ココス",
+        "url": "https://news.google.com/rss/search?q=%E3%82%B3%E3%82%B3%E3%82%B9%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "family",
+    },
+    {
+        "shop": "ココス",
+        "url": "https://news.google.com/rss/search?q=%E3%82%B3%E3%82%B3%E3%82%B9%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "family",
+    },
+    # ── 丸亀製麺 ──
+    {
         "shop": "丸亀製麵",
         "url": "https://news.google.com/rss/search?q=%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "men",
     },
+    {
+        "shop": "丸亀製麵",
+        "url": "https://news.google.com/rss/search?q=%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "men",
+    },
+    {
+        "shop": "丸亀製麵",
+        "url": "https://news.google.com/rss/search?q=%E4%B8%B8%E4%BA%80%E8%A3%BD%E9%BA%BA%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "men",
+    },
+    # ── はなまるうどん ──
     {
         "shop": "はなまるうどん",
         "url": "https://news.google.com/rss/search?q=%E3%81%AF%E3%81%AA%E3%81%BE%E3%82%8B%E3%81%86%E3%81%A9%E3%82%93%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "men",
     },
     {
+        "shop": "はなまるうどん",
+        "url": "https://news.google.com/rss/search?q=%E3%81%AF%E3%81%AA%E3%81%BE%E3%82%8B%E3%81%86%E3%81%A9%E3%82%93%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "men",
+    },
+    {
+        "shop": "はなまるうどん",
+        "url": "https://news.google.com/rss/search?q=%E3%81%AF%E3%81%AA%E3%81%BE%E3%82%8B%E3%81%86%E3%81%A9%E3%82%93%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "men",
+    },
+    # ── 富士そば ──
+    {
         "shop": "富士そば",
         "url": "https://news.google.com/rss/search?q=%E5%AF%8C%E5%A3%AB%E3%81%9D%E3%81%B0%20%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A&hl=ja&gl=JP&ceid=JP:ja",
         "category": "men",
     },
-
-
+    {
+        "shop": "富士そば",
+        "url": "https://news.google.com/rss/search?q=%E5%AF%8C%E5%A3%AB%E3%81%9D%E3%81%B0%20%E6%96%B0%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "men",
+    },
+    {
+        "shop": "富士そば",
+        "url": "https://news.google.com/rss/search?q=%E5%AF%8C%E5%A3%AB%E3%81%9D%E3%81%B0%20%E7%99%BB%E5%A0%B4%20%E7%99%BA%E5%A3%B2&hl=ja&gl=JP&ceid=JP:ja",
+        "category": "men",
+    },
+    
     # ── 新しいジャンルを追加するときはここに追記するだけ ──
     # 使えるカテゴリ: sushi / burger / cafe / fastfood / convenience / family / ramen / sweets
     #
@@ -165,7 +427,7 @@ LIMITED_KEYWORDS = [
     "期間限定", "数量限定", "季節限定", "〜まで", "まで販売",
     "新発売", "復刻", "フェア", "祭り", "limited", "seasonal",
     "登場", "販売開始", "新メニュー", "新商品",
-    "発売",  # ← 追加
+    "発売", 
 ]
 
 # 除外キーワード（1つでも含まれていれば除外）
@@ -185,7 +447,7 @@ EXCLUDE_KEYWORDS = [
 ]
 
 # 記事の有効期限（日数）。これより古い記事は除外する
-ARTICLE_MAX_AGE_DAYS = 30
+ARTICLE_MAX_AGE_DAYS = 44
 
 # データ保存先
 DATA_FILE = "limited_menus.json"
