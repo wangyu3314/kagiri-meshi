@@ -7,12 +7,26 @@ const CATEGORY_CONFIG = {
   sushi:       { label: "回転寿司",      emoji: "🍣" },
   burger:      { label: "バーガー",      emoji: "🍔" },
   cafe:        { label: "カフェ",        emoji: "☕" },
-  men:         { label: "うどん・そば",  emoji: "🍜" },
+  men:         { label: "麺類",          emoji: "🍜" },
   don:         { label: "丼もの",        emoji: "🍚" },
   family:      { label: "ファミレス",    emoji: "🍽️" },
   ramen:       { label: "ラーメン",      emoji: "🍥" },
   sweets:      { label: "スイーツ",      emoji: "🍰" },
+  pizza:       { label: "ピザ",          emoji: "🍕" },
 };
+const TAG_CONFIG = {
+  "コラボ":   "tag-collab",
+  "フェア":   "tag-fair",
+  "季節":     "tag-season",
+};
+
+function getTagClass(tag) {
+  for (const [key, cls] of Object.entries(TAG_CONFIG)) {
+    if (tag.includes(key)) return cls;
+  }
+  return "tag-default";
+}
+
 let allItems    = [];
 let currentCat  = "all";
 let currentShop = "all";
@@ -114,6 +128,14 @@ function renderCards() {
     const catLabel = cfg.label;
     const delay    = `animation-delay:${idx * 0.04}s`;
 
+    const tags = (item.tags || []).map(tag =>
+      `<span class="card-tag ${getTagClass(tag)}">${tag}</span>`
+    ).join("");
+
+    const endDate = item.end_date
+      ? `<div class="card-enddate">〜<span>${item.end_date}</span>まで</div>`
+      : "";
+
     return `
       <a class="card" href="${item.link || '#'}" target="_blank" rel="noopener" style="${delay}">
         <div class="card-emoji">${cfg.emoji}</div>
@@ -122,7 +144,9 @@ function renderCards() {
             <span class="card-shop">${item.shop}</span>
             ${catLabel ? `<span class="card-cat">${catLabel}</span>` : ""}
           </div>
+          ${tags ? `<div style="display:flex;gap:.3rem;flex-wrap:wrap">${tags}</div>` : ""}
           <div class="card-name">${item.name}</div>
+          ${endDate}
         </div>
       </a>`;
   }).join("");
