@@ -14,6 +14,57 @@ const CATEGORY_CONFIG = {
   sweets:      { label: "スイーツ",      emoji: "🍰" },
   pizza:       { label: "ピザ",          emoji: "🍕" },
 };
+const SHOP_COLOR = {
+  // 回転寿司
+  "スシロー":               "#ff0000",
+  "はま寿司":               "#1468a0",
+  "くら寿司":               "#000000",
+  "かっぱ寿司":             "#4CAF50",
+  "魚べい":                 "#ffffff",
+  // バーガー
+  "マクドナルド":           "#FFC300",
+  "モスバーガー":           "#4CAF50",
+  "バーガーキング":         "#D62300",
+  "フレッシュネスバーガー": "#5c7a1e",
+  "ゼッテリア":             "#cc4b56",
+  "ケンタッキーフライドチキン": "#E4002B",
+  // カフェ
+  "スターバックス":         "#00704A",
+  "ドトールコーヒー":       "#F5B101",
+  "タリーズコーヒー":       "#000000",
+  "サンマルクカフェ":       "#EF7701",
+  "ミスタードーナツ":       "#551900",
+  "コメダ珈琲店":           "#E95513",
+  // 丼
+  "すき家":                 "#E63946",
+  "松屋":                   "#FF8C00",
+  "吉野家":                 "#FF6600",
+  "なか卯":                 "#D7000F",
+  "かつや":                 "#FF4500",
+  "天丼てんや":             "#1468a0",
+  // ファミレス
+  "ガスト":                 "#ff0000",
+  "デニーズ":               "#FFE901",
+  "ロイヤルホスト":         "#E95900",
+  "ココス":                 "#FFBF29",
+  "びっくりドンキー":       "#5C4033",
+  "ジョナサン":             "#2196F3",
+  "バーミヤン":             "#E4007F",
+  "夢庵":                   "#000000",
+  // 麺
+  "丸亀製麵":               "#C91333",
+  "はなまるうどん":         "#EB5E02",
+  "富士そば":               "#FF0103",
+  "洋麺屋五右衛門":         "#4A148C",
+  // ラーメン
+  "幸楽苑":                 "#FFE701",
+  "日高屋":                 "#212121",
+  "一風堂":                 "#C92A1D",
+  // ピザ
+  "ドミノ・ピザ":           "#006491",
+  "ピザハット":             "#b41e13",
+  "ピザーラ":               "#ce3e46",
+};
 const TAG_CONFIG = {
   "コラボ":   "tag-collab",
   "フェア":   "tag-fair",
@@ -115,6 +166,8 @@ function renderCards() {
     const dateB = new Date(b.published || b.fetched_at);
     return dateB - dateA;
   });
+
+  
   
   const grid = document.getElementById("grid");
 
@@ -128,6 +181,8 @@ function renderCards() {
     const catLabel = cfg.label;
     const delay    = `animation-delay:${idx * 0.04}s`;
 
+    const shopColor = SHOP_COLOR[item.shop] || "var(--sand)";
+
     const tags = (item.tags || []).map(tag =>
       `<span class="card-tag ${getTagClass(tag)}">${tag}</span>`
     ).join("");
@@ -138,7 +193,7 @@ function renderCards() {
 
     return `
       <a class="card" href="${item.link || '#'}" target="_blank" rel="noopener" style="${delay}">
-        <div class="card-emoji">${cfg.emoji}</div>
+        <div class="card-emoji" style="background:${shopColor};">${cfg.emoji}</div>
         <div class="card-body">
           <div style="display:flex;align-items:center;gap:.35rem;flex-wrap:wrap">
             <span class="card-shop">${item.shop}</span>
