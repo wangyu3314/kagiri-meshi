@@ -63,7 +63,7 @@ const SHOP_COLOR = {
   // ピザ
   "ドミノ・ピザ":           "#006491",
   "ピザハット":             "#b41e13",
-  "ピザーラ":               "#ce3e46",
+  "ピザーラ":               "#ffffff",
 };
 const TAG_CONFIG = {
   "コラボ":   "tag-collab",
@@ -182,6 +182,7 @@ function renderCards() {
     const delay    = `animation-delay:${idx * 0.04}s`;
 
     const shopColor = SHOP_COLOR[item.shop] || "var(--sand)";
+    const displayName = item.menu_name || item.name.replace(/ - [^-]+$/, "");
 
     const tags = (item.tags || []).map(tag =>
       `<span class="card-tag ${getTagClass(tag)}">${tag}</span>`
@@ -200,7 +201,8 @@ function renderCards() {
             ${catLabel ? `<span class="card-cat">${catLabel}</span>` : ""}
           </div>
           ${tags ? `<div style="display:flex;gap:.3rem;flex-wrap:wrap">${tags}</div>` : ""}
-          <div class="card-name">${item.name}</div>
+          <div class="card-name">${displayName}</div>
+          ${item.one_liner ? `<div class="card-oneliner">${item.one_liner}</div>` : ""}
           ${endDate}
         </div>
       </a>`;
