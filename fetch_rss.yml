@@ -23,12 +23,12 @@ jobs:
         with:
           python-version: '3.11'
 
-      # 必要なライブラリをインストール
       - name: ライブラリをインストール
-        run: pip install feedparser
+        run: pip install feedparser google-genai
 
-      # RSSを取得してJSONを更新（scheduleモードで1回だけ実行）
       - name: RSSを取得
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python rss_fetcher.py --once
 
       # JSONが更新されていたらGitHubにコミット&プッシュ
