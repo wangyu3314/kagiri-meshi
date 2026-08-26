@@ -11,6 +11,8 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+        permissions:
+        contents: write
 
     steps:
       # リポジトリのファイルを取得
@@ -24,7 +26,7 @@ jobs:
           python-version: '3.11'
 
       - name: ライブラリをインストール
-        run: pip install feedparser google-genai
+        run: pip install feedparser google-genai schedule
 
       - name: RSSを取得
         env:
