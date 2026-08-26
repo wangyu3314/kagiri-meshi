@@ -307,7 +307,7 @@ def fetch_feed(feed_config):
     shop = feed_config["shop"]
     url = feed_config["url"]
     category = feed_config["category"]
-    new_items = []
+    raw_items = []
 
     try:
         print(f"  取得中: {shop}")
@@ -322,24 +322,19 @@ def fetch_feed(feed_config):
             if not is_valid_article(title, summary, published):
                 continue
 
-            # 今回取得分内での重複チェック
+            # 今回取得分（このフィード内）での重複チェック
             duplicate = False
-            for existing in new_items:
+            for existing in raw_items:
                 if is_similar(strip_source(existing["name"]), strip_source(title)):
                     duplicate = True
                     break
             if duplicate:
                 continue
 
-            enriched = enrich_with_ai(title, summary)
-            time.sleep(4)  # 60秒 ÷ 15RPM
-
-            new_items.append({
+            raw_items.append({
                 "id":         make_id(shop, title),
                 "shop":       shop,
                 "name":       title,
-                "menu_name":  enriched["menu_name"],
-                "one_liner":  enriched["one_liner"],
                 "summary":    summary[:120],
                 "link":       link,
                 "category":   category,
@@ -350,7 +345,7 @@ def fetch_feed(feed_config):
     except Exception as e:
         print(f"  エラー ({shop}): {e}")
 
-    return new_items
+    return raw_items
 
 
 def run_fetch():
@@ -359,21 +354,30 @@ def run_fetch():
     existing = purge_old_items(load_data())
     existing_ids = {item["id"] for item in existing}
 
-    all_new = []
+    # 1. まず全フィードから生データだけ集める（AIはまだ呼ばない）
+    all_raw = []
     for feed in FEEDS:
         items = fetch_feed(feed)
         new_only = [
             i for i in items
             if i["id"] not in existing_ids
             and not is_duplicate(i["name"], existing)
-            and not is_duplicate(i["name"], all_new)  # ← 追加
+            and not is_duplicate(i["name"], all_raw)
         ]
-        all_new.extend(new_only)
-        # existing_idsも更新
+        all_raw.extend(new_only)
         existing_ids.update(i["id"] for i in new_only)
         if new_only:
-            print(f"  → {feed['shop']}: {len(new_only)}件の新着")
-    
+            print(f"  → {feed['shop']}: {len(new_only)}件の新着候補")
+
+    # 2. 重複除去済みのものだけ、ここでAI enrichmentを呼ぶ
+    all_new = []
+    for item in all_raw:
+        enriched = enrich_with_ai(item["name"], item["summary"])
+        time.sleep(4)  # 60秒 ÷ 15RPM
+        item["menu_name"] = enriched["menu_name"]
+        item["one_liner"] = enriched["one_liner"]
+        all_new.append(item)
+
     merged = existing + all_new
     save_data(merged)
 
