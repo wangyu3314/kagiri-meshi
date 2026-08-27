@@ -3,7 +3,7 @@ name: RSS自動取得
 on:
   # 毎朝8時（日本時間）に自動実行
   schedule:
-    - cron: '0 23 * * *'  # UTC 23:00 = JST 8:00
+    - cron: '0 4 * * *'  # UTC 23:00 = JST 8:00
 
   # GitHubの画面から手動でも実行できる
   workflow_dispatch:
@@ -11,8 +11,8 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-        permissions:
-        contents: write
+    permissions:
+      contents: write
 
     steps:
       # リポジトリのファイルを取得
