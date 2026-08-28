@@ -259,6 +259,16 @@ def is_duplicate(title, existing_items):
     return False
 
 
+def is_duplicate_by_menu_name(shop, menu_name, items, threshold=0.5):
+    """AIが抽出したmenu_name同士で、同じ店の類似メニューがあるか判定する"""
+    if not menu_name:
+        return False
+    return any(
+        i["shop"] == shop and is_similar(menu_name, i.get("menu_name", ""), threshold=threshold)
+        for i in items
+    )
+
+
 # =====================
 # Gemini AI処理
 # =====================
@@ -376,6 +386,14 @@ def run_fetch():
         time.sleep(4)  # 60秒 ÷ 15RPM
         item["menu_name"] = enriched["menu_name"]
         item["one_liner"] = enriched["one_liner"]
+
+        if not item["menu_name"]:
+            continue  # AI抽出失敗はスキップ
+
+        if is_duplicate_by_menu_name(item["shop"], item["menu_name"], existing) or \
+           is_duplicate_by_menu_name(item["shop"], item["menu_name"], all_new):
+            continue  # menu_name同士で似ていれば重複として破棄
+
         all_new.append(item)
 
     merged = existing + all_new
