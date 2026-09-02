@@ -336,18 +336,6 @@
     "fetched_at": "2026-08-17T23:55:36.600840"
   },
   {
-    "id": "d273769744c3ec1ee5e9a1266b0412d4",
-    "shop": "モスバーガー",
-    "name": "「オレンジごろっごろ」モスバーガーの《期間限定ドリンク》に2.2万いいねの反響 SNS「かなりデカい」「まじでおいしい」 - Yahoo!ニュース",
-    "menu_name": "オレンジごろっごろ（期間限定ドリンク）",
-    "one_liner": "果肉がたっぷり入った絶品ドリンク",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5CSFk1bDFGVV9VMnZZSkM5QlJxOG1hUmpxNDc0NEN2dko3VE16ZVBUajZENG",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CSFk1bDFGVV9VMnZZSkM5QlJxOG1hUmpxNDc0NEN2dko3VE16ZVBUajZENGZRQ1FNbmc2dExQbkZLMG9RcWNHVzRUTGN1WHRaUnlsYzV3eEhQN0h0aVhyaHBaRWVfdFpqM1dqMEVfaVBFOXkwTndyY3JuWl82SEU?oc=5",
-    "category": "burger",
-    "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-17T23:56:59.710228"
-  },
-  {
     "id": "84b12acbcd428f36cc8af3076ebaa76b",
     "shop": "バーガーキング",
     "name": "バーガーキング®︎から“特製ガーリックマヨソース”の旨みが溢れ出す“ダーティ ザ・ワンパウンダー”が新発売 - ニコニコニュース",
@@ -1236,18 +1224,6 @@
     "fetched_at": "2026-08-18T00:23:26.469835"
   },
   {
-    "id": "90b88638f251dcaf5ea9e4c5c7d0bb99",
-    "shop": "富士そば",
-    "name": "まぐろ丼セットがうれしい！ 富士そば「沖縄フェア」が今年も - ASCII.jp",
-    "menu_name": "まぐろ丼セット",
-    "one_liner": "富士そばで楽しむ沖縄フェア",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LVmlEVzYzeTNpOUVwY3RReDFEYWR6cDhvR0tEZFg0a3QwTUpqV0NaVTB0Ql",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LVmlEVzYzeTNpOUVwY3RReDFEYWR6cDhvR0tEZFg0a3QwTUpqV0NaVTB0QlBYSDBMazlkM3I0TkM2NVA0cmhHbERCT0JNbUVxS0U5UQ?oc=5",
-    "category": "men",
-    "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:23:45.204696"
-  },
-  {
     "id": "f8eea45c6f6b883b45a9abf98e949184",
     "shop": "富士そば",
     "name": "「パトレイバー EZY」あの“上海亭”の中華風カレー登場!? 毎年好評の「名代富士そば」コラボも！ 「File 2」公開記念でコラボ企画始動 - アニメ！アニメ！",
@@ -1630,18 +1606,6 @@
     "fetched_at": "2026-08-27T05:43:04.856821",
     "menu_name": "月見",
     "one_liner": "秋の風物詩として愛される限定メニュー"
-  },
-  {
-    "id": "c34b2f3eebd0dee1d7bb24e14deabcbf",
-    "shop": "マクドナルド",
-    "name": "マクドナルドの新作が背徳すぎる…“はちみつ×焦がしバター”の朝食メニュー登場 - DAILYSUN NEW YORK",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kWmZsQUFUUUx5WW9ZRXUtdHk3bThMTWZINGNJMjNHRGNxSXJmLUZiMlIydT",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kWmZsQUFUUUx5WW9ZRXUtdHk3bThMTWZINGNJMjNHRGNxSXJmLUZiMlIydTRmMHJXeFczLUpmSGZwa2w1Y3ZfOGltTmJYUTkxTFpSaDdzVHk3ZF9mcDRZNg?oc=5",
-    "category": "burger",
-    "published": "Sat, 01 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-27T05:43:04.859279",
-    "menu_name": "はちみつ×焦がしバター",
-    "one_liner": "甘じょっぱさがたまらない背徳の朝食"
   },
   {
     "id": "4431cdc050f880ae0dfc3de7bcb76875",
@@ -2830,5 +2794,77 @@
     "fetched_at": "2026-09-01T01:28:39.587167",
     "menu_name": "Bunny Autumn Festival",
     "one_liner": "うさぎと月が彩る秋の限定アイテム"
+  },
+  {
+    "id": "388e37c975c89770bed2f1f7aaf5ae6f",
+    "shop": "スシロー",
+    "name": "【スシロー】天然まぐろの希少部位「ハラモ」や北海道産サンマが登場 - 期間限定で全品「赤しゃり」に - au Webポータル",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFA4ZS0wNGRoRnFLUDFEeXNJczZsOW1nNEdZYjN3SE9MbHFla1Y1Ylo3ZTVaWH",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4ZS0wNGRoRnFLUDFEeXNJczZsOW1nNEdZYjN3SE9MbHFla1Y1Ylo3ZTVaWHhiM0Y2YUs1ZThkRWtUNDhmSXhxaURIUzR3d2dvQ25nOWlfZ0Q1UzNCQU8tTzhpVE1fZXNlSjVFdXNB?oc=5",
+    "category": "sushi",
+    "published": "Tue, 01 Sep 2026 02:15:36 GMT",
+    "fetched_at": "2026-09-02T00:36:13.516637",
+    "menu_name": "天然まぐろの希少部位「ハラモ」や北海道産サンマ",
+    "one_liner": "希少なハラモと旬のサンマを赤しゃりで堪能"
+  },
+  {
+    "id": "a2de6ae78d7c8ed2ef8002b989f26084",
+    "shop": "スシロー",
+    "name": "スシロー×テレビ山口「mix」日本三名橋・錦帯橋イメージの商品を限定発売！ 山口で愛される「ふぐ」の寿司も（グルメ Watch） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFByZ1NNZXFwTEdMNGhuLU9IMkpoWkM0QmdIVzJyQ2ozWXFaejdQaFhVcG82NF",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByZ1NNZXFwTEdMNGhuLU9IMkpoWkM0QmdIVzJyQ2ozWXFaejdQaFhVcG82NFdqU2FJWjdGSDZnWk00SlNvdzJZNXBhR3IybVlZUjJJQ2lNQ3VoRWlGaGhiSjNvaEZUWFNnbWtFd2xqZHhPNGJWT1NEZmd2eXo4OTg?oc=5",
+    "category": "sushi",
+    "published": "Sun, 30 Aug 2026 21:00:00 GMT",
+    "fetched_at": "2026-09-02T00:36:14.151320",
+    "menu_name": "日本三名橋・錦帯橋イメージの商品、ふぐの寿司",
+    "one_liner": "山口の名所とふぐを味わう限定寿司"
+  },
+  {
+    "id": "616b2ec25cb76fd4d0b2874abbfaf26f",
+    "shop": "かっぱ寿司",
+    "name": "【かっぱ寿司】「お値段そのまま50％増量祭り」開催、「大ぶりとろサーモン」1貫110円から（食品産業新聞社ニュースWEB） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9KMzF1NGFMT19fSE9PN2pOYXc1djZtS216bDhwZl9sZldncjNFeVZ1TjdyNF",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KMzF1NGFMT19fSE9PN2pOYXc1djZtS216bDhwZl9sZldncjNFeVZ1TjdyNFprWDBKb3lwUk1ZVXRRaGdfeXp3SmhtS09zQnNJdVM4RWJjb2IwLTVFNXFXcXpYR2Vtb2pLV2Zndk9kNDI3LWZod3BtQmxDRGh6NjQ?oc=5",
+    "category": "sushi",
+    "published": "Tue, 01 Sep 2026 06:47:07 GMT",
+    "fetched_at": "2026-09-02T00:36:18.984658",
+    "menu_name": "大ぶりとろサーモン",
+    "one_liner": "お値段そのままネタが50%増量"
+  },
+  {
+    "id": "e8c69f70454eabbe3156695d0aca2049",
+    "shop": "魚べい",
+    "name": "一足早く秋のおいしさを満喫！『秋の味覚フェア』開催 かつおや瀬戸内産牡蠣に加え、マスカットの秋スイーツも登場 - ニコニコニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWFFwUFVIelZ3bDhXd0o1WWgwWm8tRzRWRnUyUkJqaUlfa1dEbUhIODR6b3",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YWFFwUFVIelZ3bDhXd0o1WWgwWm8tRzRWRnUyUkJqaUlfa1dEbUhIODR6b3hPM0hlMndyV0pXVmpuNzhnbzVRM1FSTV9ybUFhdG5VNA?oc=5",
+    "category": "sushi",
+    "published": "Tue, 25 Aug 2026 06:00:28 GMT",
+    "fetched_at": "2026-09-02T00:36:20.857314",
+    "menu_name": "秋の味覚フェア",
+    "one_liner": "旬のかつおや牡蠣、秋スイーツを堪能"
+  },
+  {
+    "id": "259883bdf01ae4a8086491447c00cd54",
+    "shop": "すき家",
+    "name": "【すき家】毎年人気な「月見すきやき牛丼」が今年も登場!コチュジャンがきいた「月見辛旨すきやき牛丼」も期間限定 - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSFhGSVUzdjNQa1JMUy1lNV9nOWl1c1hOOG5wemZ2a2JJOWJTU2MzXzFFZj",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSFhGSVUzdjNQa1JMUy1lNV9nOWl1c1hOOG5wemZ2a2JJOWJTU2MzXzFFZjVTTHdBNm1hd2JKbkw0bUl1NkxIa3FsSUNqSU9makMyNGptbjY4M19CRTVjTHJ1QlVXVnlydTdKeGZ2Q04ydXdlMUtzYWc5b291WDQ?oc=5",
+    "category": "don",
+    "published": "Tue, 01 Sep 2026 02:42:20 GMT",
+    "fetched_at": "2026-09-02T00:36:43.974874",
+    "menu_name": "月見すきやき牛丼、月見辛旨すきやき牛丼",
+    "one_liner": "毎年人気の秋限定すき焼き牛丼"
+  },
+  {
+    "id": "11504a7ecaa3af3f01e4a38b8c303550",
+    "shop": "デニーズ",
+    "name": "上品な甘味と芳醇な香りを堪能。デニーズでみずみずしいマスクメロンを使った贅沢デザートが6品登場 - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UzNoSzZfcEhFMUlGRzVqRW96WVhiVm9Pc1RIcmVKU2FLYVhEWGFTY2twUk",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UzNoSzZfcEhFMUlGRzVqRW96WVhiVm9Pc1RIcmVKU2FLYVhEWGFTY2twUkFpSVhKaDJHSnFSSVd2WVZwRnU0Y1dUUnpYQnRJd25HSGdR0gFbQVVfeXFMTnVOVWE3NGk3V19WcHJQd3NHMWlJMGhkOF9EcnZsVDN2cVNndTktTTQ2WUl0aUMzZWNqUlVDYUVXbVE1dmZIYmhldlk5c0MxOHhVRTVGbk1ieU9ucw?oc=5",
+    "category": "family",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-02T00:36:56.528228",
+    "menu_name": "みずみずしいマスクメロンを使った贅沢デザート",
+    "one_liner": "上品な甘味と芳醇な香りを堪能できる"
   }
 ]
