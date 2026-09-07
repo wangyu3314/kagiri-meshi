@@ -84,18 +84,6 @@
     "fetched_at": "2026-08-17T23:51:27.024350"
   },
   {
-    "id": "d1a9b30f3527043ea895d1b69a64a82c",
-    "shop": "くら寿司",
-    "name": "くら寿司「地中海本まぐろ」フェア実施。「地中海中とろ」が5日間数量限定で110円！ - グルメ Watch",
-    "menu_name": "地中海本まぐろ",
-    "one_liner": "中とろが5日間限定で110円",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE16dS1RSmZ1UV9ya3Vsd0NSbFA2ZmRmQVdxV0I3aUNRNFJpR0ktaUZZZ2Jidm",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16dS1RSmZ1UV9ya3Vsd0NSbFA2ZmRmQVdxV0I3aUNRNFJpR0ktaUZZZ2JidmFoSzMxR1ByOThOVmQwV2dLOE5paWtiSlJ3YXlVV21Ka2FBU3ZaMXZwMU14VWY1c1dtWVhWU1E?oc=5",
-    "category": "sushi",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-17T23:51:34.624168"
-  },
-  {
     "id": "6c859882b3e72d5c402938f2d6476a20",
     "shop": "かっぱ寿司",
     "name": "かっぱ寿司、初の「“北欧サーモンいくら”包み」を110円で提供 「かっぱの贅沢うにいくら祭り」開催 - 山陽新聞",
@@ -190,18 +178,6 @@
     "category": "burger",
     "published": "Fri, 14 Aug 2026 09:39:00 GMT",
     "fetched_at": "2026-08-17T23:55:13.502002"
-  },
-  {
-    "id": "a3dd42e3864bdf373eee4f3895bc1e2e",
-    "shop": "マクドナルド",
-    "name": "W杯2026開催記念！マクドナルド新商品「VIVA！ワールドマック」全8種が6月17日から期間限定販売。世界のレジェンド選手がプリントされた限定グッズも登場！ - ウォーカープラス",
-    "menu_name": "VIVA！ワールドマック",
-    "one_liner": "W杯記念！世界を味わう新メニュー",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tUlo2VTZwOEhpckpscWE5aEJIQVZGTTJCUVZRdGxRQjFFb1lMWUw0M25HWD",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tUlo2VTZwOEhpckpscWE5aEJIQVZGTTJCUVZRdGxRQjFFb1lMWUw0M25HWDN4Qm9XeUpqQnJvbC1CaDR5dHhmREp6UGpuQ1BJb2VXV3p30gFbQVVfeXFMUHRxRVVJTmFveEpsSS1YZ20wbERkaXlIMzdUSmx4V0ZJVVBwbTZGcUxQdFRnTnV1WEdvdE9xMEl4WHBiMXFYdWxKWFN4M0REZDgwbkpRV0UtOVF3Yw?oc=5",
-    "category": "burger",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-17T23:55:26.606635"
   },
   {
     "id": "e9352a1a43f81b67fe5cb07ea8de1cba",
@@ -336,18 +312,6 @@
     "fetched_at": "2026-08-18T00:00:17.816404"
   },
   {
-    "id": "2124e7c2413d4fc92bca78f87eace98b",
-    "shop": "スターバックス",
-    "name": "ビタースイートな大人の味わいがこころまで満たす「スターバックス® COFFEE OF THE DAY カフェモカ」8月18日（火）より新発売 - スターバックス ストーリーズ",
-    "menu_name": "スターバックス® COFFEE OF THE DAY カフェモカ",
-    "one_liner": "ビタースイートな大人の味わい",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fTDJDTzJva1JLZDJONHA4QWVlQXRnMTk1NW9Vd0pEOWV6Rkk1bmR2LVpRb2",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fTDJDTzJva1JLZDJONHA4QWVlQXRnMTk1NW9Vd0pEOWV6Rkk1bmR2LVpRb2pWVFVlZjh1SDBUOHN4X0Ewb0FjZk1JYW9SVWYzVFdtTzNaUmpDWThqXzdmaTEzLTc4c0NV?oc=5",
-    "category": "cafe",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:00:52.143625"
-  },
-  {
     "id": "a66f536231aed7675b8a8a3d5d29e26f",
     "shop": "スターバックス",
     "name": "頑張った日に飲みたい♡ スターバックスからビターな甘さの“大人のカフェモカ”が新登場！ - topics.smt.docomo.ne.jp",
@@ -370,30 +334,6 @@
     "category": "cafe",
     "published": "Mon, 10 Aug 2026 01:30:00 GMT",
     "fetched_at": "2026-08-18T00:01:50.514613"
-  },
-  {
-    "id": "3e9f3c0f1583f8b340ddea1d298e80c1",
-    "shop": "スターバックス",
-    "name": "【スターバックス】初のカプセルトイが登場！ 全種集めたくなる激かわチャームをゲットしよう♪ - ぴあエンタメ情報",
-    "menu_name": "スターバックス初のかぷせるとい（チャーム）",
-    "one_liner": "全種集めたくなる激かわチャーム",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FdkRoWHNqckhtQTNhZTRha1NaYnBPNkR4amZ3ODFUVFZEeW9YdWRDRFVWdj",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FdkRoWHNqckhtQTNhZTRha1NaYnBPNkR4amZ3ODFUVFZEeW9YdWRDRFVWdjRfeXVKclNCZkJpOGZMSHN2cFk1T1pKb3ZUbENNS1hRZWw0S0hKRzBkemww?oc=5",
-    "category": "cafe",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:02:08.870088"
-  },
-  {
-    "id": "96ab235c8e0dd74e17261b582c6a958b",
-    "shop": "スターバックス",
-    "name": "スタバ秋の新作フードが8月25日発売！ 人気「パンプキンスコーン」復活、新作アップルパイも - DAILYSUN NEW YORK",
-    "menu_name": "パンプキンスコーン、新作アップルパイ",
-    "one_liner": "秋の味覚が楽しめる新作スイーツ",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZFNDMkI3aWdRTTA3Y2ZjOWRfVVU3UmV6UlNfVm9pSmQ1YldWcDlzdThoU0",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZFNDMkI3aWdRTTA3Y2ZjOWRfVVU3UmV6UlNfVm9pSmQ1YldWcDlzdThoU0dzNXdicXc2VFA1RXg1eXlZM0xuTm9TRldzNm1nSkVIWHZQU0JFUTdOdVh3cFh6aGNVdw?oc=5",
-    "category": "cafe",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:02:13.965428"
   },
   {
     "id": "faf358801da086a0121be8d6562bc670",
@@ -480,18 +420,6 @@
     "fetched_at": "2026-08-18T00:05:12.453470"
   },
   {
-    "id": "39f92c9b734c3ab9046e8c9c84133031",
-    "shop": "ミスタードーナツ",
-    "name": "ミスタードーナツの『ショコラフレンチシリーズ』が12年ぶり期間限定復活 “新商品”も登場の全3種、2・18から - 山陽新聞",
-    "menu_name": "ショコラフレンチシリーズ",
-    "one_liner": "12年ぶりに復活したチョコ風味のドーナツ",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwVEU0U29vdk4xeDNTR3B2SFNLRl9xUEx5UTdLLXdGZVRjdkV2REY2NDdKWV",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwVEU0U29vdk4xeDNTR3B2SFNLRl9xUEx5UTdLLXdGZVRjdkV2REY2NDdKWVBfWGJFYjNndDBZNGw4dTBKUFdpUlp5d2cyVnlxS3c?oc=5",
-    "category": "cafe",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:05:31.574060"
-  },
-  {
     "id": "0ec61e6c6794b2ff73c502f2936bb837",
     "shop": "ミスタードーナツ",
     "name": "ミスタードーナツ、春夏“新作6種”発売 “サクサク”パイ3種と柑橘香る涼風麺 - 山陽新聞",
@@ -514,18 +442,6 @@
     "category": "cafe",
     "published": "Fri, 07 Aug 2026 07:00:00 GMT",
     "fetched_at": "2026-08-18T00:05:43.384816"
-  },
-  {
-    "id": "889dabccf4569a9583da069a87862c3d",
-    "shop": "ミスタードーナツ",
-    "name": "【セブン】「豚骨味なのにチキン…」 形はミスドの人気商品そっくり？ 「トン・デ・リング」「ポン・デブ・リング」 新メニューに \"総ツッコミ\" - lasisa.net",
-    "menu_name": "トン・デ・リング、ポン・デブ・リング",
-    "one_liner": "豚骨風味のユニークなリングチキン",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE8tRGlRZkNMdXFfZ1FNcGVDRDJtbXdKRjl0TVU2ekxTN0V4QWFLWGkwMzNJRV",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tRGlRZkNMdXFfZ1FNcGVDRDJtbXdKRjl0TVU2ekxTN0V4QWFLWGkwMzNJRVg4elFvZlRxV2xkQ3kwaWdR?oc=5",
-    "category": "cafe",
-    "published": "Thu, 06 Aug 2026 03:17:39 GMT",
-    "fetched_at": "2026-08-18T00:06:15.939620"
   },
   {
     "id": "aab4a87d838ef0321ec25c8af7ca8f36",
@@ -648,18 +564,6 @@
     "fetched_at": "2026-08-18T00:11:33.488598"
   },
   {
-    "id": "e19a289177508d9ae7a9eb1abe9f0ca9",
-    "shop": "松屋",
-    "name": "鉄板で焼き上げた、牛肉\"ド直球\"の2品「牛カルビホルモン丼」「松屋の牛焼肉丼」発売 - matsuyafoods.co.jp",
-    "menu_name": "牛カルビホルモン丼、松屋の牛焼肉丼",
-    "one_liner": "鉄板で焼いた牛肉の直球メニュー",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1WemNQajRSQjVoMjVFSlpJVUtLR2VMYW01dFU4Y0xRMkdCYmI2STEwa1dUM2",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WemNQajRSQjVoMjVFSlpJVUtLR2VMYW01dFU4Y0xRMkdCYmI2STEwa1dUM2p0TWcxTmF5OENhWHZVcnFkUmtKb3I4dHdyNEpBRHdXaWstOExmU01ZZW5Sd2RERXEyaFN2UHpOb2J6VmJaUQ?oc=5",
-    "category": "don",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:11:54.812714"
-  },
-  {
     "id": "727b4158a1b4aedc11a89efce63d09c9",
     "shop": "吉野家",
     "name": "熱中症対策は吉野家の期間限定「冷汁」がオススメ 全国チェーンで食べられる絶品“男の猛暑メシ”【前編】 (ピンズバNEWS) - Yahoo!ニュース",
@@ -682,18 +586,6 @@
     "category": "don",
     "published": "Fri, 14 Aug 2026 20:58:54 GMT",
     "fetched_at": "2026-08-18T00:13:31.811148"
-  },
-  {
-    "id": "7fbf554674dfe702a632ce868b74eaec",
-    "shop": "吉野家",
-    "name": "吉野家さん、ありがとう!期間限定の神割引に感謝しかない!の写真（1） - emogram",
-    "menu_name": "期間限定の神割引",
-    "one_liner": "吉野家で実施中の期間限定お得な割引キャンペーン",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tLUt4UWRxbExvc290SXg5NUhPOHYycGg0NERqWkpxb25maFZya1ZJTXZ1UT",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tLUt4UWRxbExvc290SXg5NUhPOHYycGg0NERqWkpxb25maFZya1ZJTXZ1UTMzWlVMN01IU2RuM2p0WUYxMk9TSWVQazhJTDNnRWJKUg?oc=5",
-    "category": "don",
-    "published": "Thu, 06 Aug 2026 12:36:15 GMT",
-    "fetched_at": "2026-08-18T00:13:45.294445"
   },
   {
     "id": "71a27176e738f80852953ee5bc1ea3db",
@@ -996,18 +888,6 @@
     "fetched_at": "2026-08-18T00:23:52.813002"
   },
   {
-    "id": "a11219087dce058d12b884a1fc4250e9",
-    "shop": "幸楽苑",
-    "name": "幸楽苑、全品860円の“冷製麺”3種を展開 セットだと“お得に”【期間限定】 - 山陽新聞",
-    "menu_name": "冷製麺",
-    "one_liner": "全品860円で楽しめる期間限定の冷製麺",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE43X1EzeVNobzhQN2p4R2Fsc1pKQjdMa3RveTNvSklKRUo1YVFVRDlaVnc1WU",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43X1EzeVNobzhQN2p4R2Fsc1pKQjdMa3RveTNvSklKRUo1YVFVRDlaVnc1WU96V1cwWEhhQ0FWZXRhNnBldURybUtKX3BGTjZMYUE?oc=5",
-    "category": "ramen",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:24:01.375516"
-  },
-  {
     "id": "48aa451ea99824f3238686b3aea6c00e",
     "shop": "幸楽苑",
     "name": "【らーめん幸楽苑】NO.16. 期間限定 クリーミー濃厚鶏白湯らーめんと絶品飯チャーハンを食す ＃1055 Female Officer Dress Jacket Changes (4ELzkVZ9LT) - Mshale",
@@ -1030,18 +910,6 @@
     "category": "pizza",
     "published": "Sun, 09 Aug 2026 02:03:00 GMT",
     "fetched_at": "2026-08-18T00:24:33.790014"
-  },
-  {
-    "id": "6ccd57137f83877df13deadb26d339c6",
-    "shop": "ピザハット",
-    "name": "【毎月ピザハットの「ハットの日」は超おトクな3日間！】8月は新作のビビンバピザも登場！Mサイズピザが810円〜の超特大セール！ - ピザハット",
-    "menu_name": "ビビンバピザ",
-    "one_liner": "8月の新作！ハットの日限定でおトクに楽しめる",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDa0F0UXctZGlnSFpWWnFOX2hyTGk2b3R1am5KbXVmcmh5ZjBqWTBGR1MtS1",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDa0F0UXctZGlnSFpWWnFOX2hyTGk2b3R1am5KbXVmcmh5ZjBqWTBGR1MtS1IzSEp4ZlZyZ3NaekNPTzQ4OUw2RGVR?oc=5",
-    "category": "pizza",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:24:51.882017"
   },
   {
     "id": "915af9a0b273db710466de6ae1b041f2",
@@ -1642,18 +1510,6 @@
     "fetched_at": "2026-08-27T05:43:20.076680",
     "menu_name": "もっちゅりん",
     "one_liner": "想定を上回る好評の新作スイーツ"
-  },
-  {
-    "id": "97e90bacaa422f96cb80d708dd7bd351",
-    "shop": "ミスタードーナツ",
-    "name": "ミスド「Mrs. GREEN APPLE」のコラボドーナツ4種、いよいよ発売！ - グルメ Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE91MThkNkJsZkNNc09qT2hWN0V4Q1ZUSDZKb0JlWTZiQW5jU18zanljYzVJRE",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91MThkNkJsZkNNc09qT2hWN0V4Q1ZUSDZKb0JlWTZiQW5jU18zanljYzVJREl1Y1RIYnJmRlB4ejZ1QzFEd0VLeGIwaHMxS2cwRUtmT1h3aEFfbC1NMmwxWk1WTGJJTVRpNHc?oc=5",
-    "category": "cafe",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-27T05:43:20.622940",
-    "menu_name": "Mrs. GREEN APPLEコラボドーナツ4種",
-    "one_liner": "ミスドとMrs. GREEN APPLEのコラボドーナツ"
   },
   {
     "id": "7f8f95c65ec9656e36b0fb2473d5b9cf",
@@ -2928,18 +2784,6 @@
     "one_liner": "贅沢なうなぎ2枚のせで満足感抜群"
   },
   {
-    "id": "f66f2d9274be4350371edbd09ed752f0",
-    "shop": "かつや",
-    "name": "【本日】630円「豚カルビ丼」復活！ にんにくカルビ丼も新登場 - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2RV8zbjR2N0tlT2JKbUVKaUwtTEJDX1Q0OFZUazZnb1ViRm9LQ1BTaDg2QU",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2RV8zbjR2N0tlT2JKbUVKaUwtTEJDX1Q0OFZUazZnb1ViRm9LQ1BTaDg2QUNXZUk3R2xyZkRUb2xvTWVPdS02cTlFcXVzRjdqaUFSbg?oc=5",
-    "category": "don",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-04T00:29:29.946319",
-    "menu_name": "豚カルビ丼、にんにくカルビ丼",
-    "one_liner": "復活豚カルビと新作にんにく丼"
-  },
-  {
     "id": "39e003f8d5a0b0a0920b70819fb78a7b",
     "shop": "デニーズ",
     "name": "歴代の制服デザインが靴下に！？【デニーズ】「Denny’sくじ」が8/22発売。レトロ可愛いくじ景品が多数ラインアップ - 朝日新聞",
@@ -3240,30 +3084,6 @@
     "one_liner": "最新カフェの注目メニューと企画"
   },
   {
-    "id": "7b27528eb8db29abb3cb4a7fe360a4fb",
-    "shop": "すき家",
-    "name": "吉野家、約1500円の「ステーキ定食」ご飯おかわり無料で登場 - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zMHRhUjQ1cXkxVkQ5ck9Ua0tuNEdaOWMySVNxdzNySjdCcjVlSUtBZ25aUk",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zMHRhUjQ1cXkxVkQ5ck9Ua0tuNEdaOWMySVNxdzNySjdCcjVlSUtBZ25aUkVoeE5xUGJQVjdOb0s2M2xNNXF1WDdOZ0VjRGkyb3FEMQ?oc=5",
-    "category": "don",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-06T00:18:05.695681",
-    "menu_name": "ステーキ定食",
-    "one_liner": "ご飯おかわり無料で満足感抜群"
-  },
-  {
-    "id": "7dab937349c8a2d08cfbc33a434100cc",
-    "shop": "吉野家",
-    "name": "「なんちゅうもんを見せてくるんや！」吉野家、新作“極旨牛鉄板ステーキ”登場「ペッパーランチを潰しに来たぞ……」 - All About ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE51ZGYxWDBET0pmT01jSnp3WkZkM1YzVm9ZeHo2LWd4dWJPSU9yS3dfclVBSX",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51ZGYxWDBET0pmT01jSnp3WkZkM1YzVm9ZeHo2LWd4dWJPSU9yS3dfclVBSXBXeGZ3RjZVaFhfUklUM2xXOEFJNGVkSkxhbHN5b0tObVFoRXl0Zw?oc=5",
-    "category": "don",
-    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-06T00:18:09.111606",
-    "menu_name": "極旨牛鉄板ステーキ",
-    "one_liner": "熱々鉄板で楽しむ極上のステーキ"
-  },
-  {
     "id": "620c26accdbe476d13d5fb1b0b9ee2ec",
     "shop": "なか卯",
     "name": "【本日発売】豪華すぎ！ なか卯「ウニ丼」今年も 期待しちゃうよ、ゼンショーさん - ASCII.jp",
@@ -3286,5 +3106,101 @@
     "fetched_at": "2026-09-06T00:18:14.954213",
     "menu_name": "ファミレス新作スイーツ",
     "one_liner": "ココス・ジョナサン・デニーズの秋新作"
+  },
+  {
+    "id": "cebfc56613d49d086e9758a3449d05c3",
+    "shop": "かっぱ寿司",
+    "name": "「ごち寿司」シリーズに期間限定の豪華メニューが登場！本鮪中とろ、大切りまぐろ、本ずわい蟹にぎり、北海道産ほたて、旬（とき）さば〆、など厳選ネタ５種を味わう『贅沢 ごちそう フェアプレート』期間限定販売 - CLASSY.[クラッシィ]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwOGxpb3RPYjFLSVY5dlZCbDBjeDhBVTBJRVN4Wm5HVC1Da1JXcE5qbnB6Nm",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwOGxpb3RPYjFLSVY5dlZCbDBjeDhBVTBJRVN4Wm5HVC1Da1JXcE5qbnB6NmZZY2J4ZzVGTXRiZG1Ga2NoRmlrTkZWSlhzdUh4NV9ZaXNoN3A?oc=5",
+    "category": "sushi",
+    "published": "Thu, 20 Aug 2026 19:59:47 GMT",
+    "fetched_at": "2026-09-07T00:24:13.949864",
+    "menu_name": "贅沢 ごちそう フェアプレート",
+    "one_liner": "厳選ネタ5種を味わう豪華な一皿"
+  },
+  {
+    "id": "a3dd42e3864bdf373eee4f3895bc1e2e",
+    "shop": "マクドナルド",
+    "name": "W杯2026開催記念！マクドナルド新商品「VIVA！ワールドマック」全8種が6月17日から期間限定販売。世界のレジェンド選手がプリントされた限定グッズも登場！ - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tUlo2VTZwOEhpckpscWE5aEJIQVZGTTJCUVZRdGxRQjFFb1lMWUw0M25HWD",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tUlo2VTZwOEhpckpscWE5aEJIQVZGTTJCUVZRdGxRQjFFb1lMWUw0M25HWDN4Qm9XeUpqQnJvbC1CaDR5dHhmREp6UGpuQ1BJb2VXV3p30gFbQVVfeXFMUHRxRVVJTmFveEpsSS1YZ20wbERkaXlIMzdUSmx4V0ZJVVBwbTZGcUxQdFRnTnV1WEdvdE9xMEl4WHBiMXFYdWxKWFN4M0REZDgwbkpRV0UtOVF3Yw?oc=5",
+    "category": "burger",
+    "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-07T00:24:17.189262",
+    "menu_name": "VIVA！ワールドマック",
+    "one_liner": "W杯記念！世界を味わう限定メニュー"
+  },
+  {
+    "id": "601d9bd282061fb009c4746b87f1d597",
+    "shop": "スターバックス",
+    "name": "ティー特化「スタバ」、アッサムが新たな定番茶葉に！ ミルクやソーダで楽しむ新作ビバレッジも発売 - article.auone.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBzbEZSRGdSb21SMmxmQ2ItUVpILXg0X0RzOWo5d3c0alluZmRPdDRQUHFoME",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzbEZSRGdSb21SMmxmQ2ItUVpILXg0X0RzOWo5d3c0alluZmRPdDRQUHFoMElPeHJmYjMzU3doSnVvYlc0RHZVZmdkb21GRmJYSnBtVkkzNzJaS0g3dkhNNnlJc0ZOa0k5YWtiQnd3?oc=5",
+    "category": "cafe",
+    "published": "Sun, 06 Sep 2026 03:59:23 GMT",
+    "fetched_at": "2026-09-07T00:24:27.707333",
+    "menu_name": "アッサム",
+    "one_liner": "ミルクやソーダで楽しむ新たな定番茶葉"
+  },
+  {
+    "id": "dd122630c386fac50933c85874ffeabf",
+    "shop": "スターバックス",
+    "name": "スターバックス「秋の新作」がついに発売、限定グッズには“パンプキン”が大集合！ - DAILYSUN NEW YORK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xTVRLR2pucW5EVG5rMmhObHJ0UHFkMFRCNjdDRWNuUnVURHJRQnVkZ3VXbE",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xTVRLR2pucW5EVG5rMmhObHJ0UHFkMFRCNjdDRWNuUnVURHJRQnVkZ3VXbE1ZbnJNczRoYUhfcjloTlB4M3VkRmoybGQzQVhid20zNVh6LU5BY3BkRDJTOXdueXhYdw?oc=5",
+    "category": "cafe",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-07T00:24:27.708973",
+    "menu_name": "秋の新作",
+    "one_liner": "パンプキン尽くしの秋限定商品"
+  },
+  {
+    "id": "f7e158caea003ea22832f1c86097f9bd",
+    "shop": "スターバックス",
+    "name": "スタバ初のカプセルトイが登場！つなげて楽しむぬいぐるみチャームがかわいすぎる - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE12WTNxc3g2Sk1hWTk4OC1TMGx1YWRJN2xiTWVJa2FxdmtoWjFHWllPUDZKX3",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12WTNxc3g2Sk1hWTk4OC1TMGx1YWRJN2xiTWVJa2FxdmtoWjFHWllPUDZKX3JDa19STUZrNHZ6d3lDa1ZDTFdfcFUzUFd5Nm1VN1l6M1Rn0gFbQVVfeXFMUHItRDRSSkdLYU96b2F0M1VORXV6V24teEU4QVJua3cydkdibkFKQl9DQmJGTVJlYnZMUEh1TXN3blFGZnpxN0xOMmJwWkVKLWpUWFVIaUY2cW5CNA?oc=5",
+    "category": "cafe",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-07T00:24:28.224743",
+    "menu_name": "スターバックス初 カプセルトイ（ぬいぐるみチャーム）",
+    "one_liner": "つなげて楽しめる可愛いぬいぐるみ"
+  },
+  {
+    "id": "5fa3d6d31b50dfc959bdfd0c09b79dd7",
+    "shop": "ドトールコーヒー",
+    "name": "さつまいもを使った「蜜芋オレ」「ミルクレープ」「モンブランムース」の3品を新発売【ドトール】 - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MM3BtbzdNd0NPVTJ2dktzcGd4Rmw0NXlrRkFJY05OdXlsQk9ZLUtxOWpzVX",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MM3BtbzdNd0NPVTJ2dktzcGd4Rmw0NXlrRkFJY05OdXlsQk9ZLUtxOWpzVXVZekRSWFVrejN3X052cU5MLXRyMV9LbS14Zw?oc=5",
+    "category": "cafe",
+    "published": "Sun, 06 Sep 2026 02:39:43 GMT",
+    "fetched_at": "2026-09-07T00:24:29.312112",
+    "menu_name": "蜜芋オレ、ミルクレープ、モンブランムース",
+    "one_liner": "秋の味覚、さつまいもを堪能できる新作スイーツ"
+  },
+  {
+    "id": "870373f52595da37ecf6a3038f649166",
+    "shop": "松屋",
+    "name": "松屋から「牛カルビホルモン丼」「松屋の牛焼肉丼」が8月11日に発売！新特製タレで味わうスタミナ丼｜グルメとフード - 旅とおでかけ 鉄道チャンネル",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE12aDNxanBIQWxKTk9LVVhySE44V3l6YmRmV3p0eTA1WUFfTVpRaWRCdWRuZ1",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12aDNxanBIQWxKTk9LVVhySE44V3l6YmRmV3p0eTA1WUFfTVpRaWRCdWRuZ1NJU1Y5dnhXRjJUS2I2YXB3Y3ZNWmVlLWw?oc=5",
+    "category": "don",
+    "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-07T00:24:39.434812",
+    "menu_name": "牛カルビホルモン丼、松屋の牛焼肉丼",
+    "one_liner": "特製タレが食欲をそそるスタミナ丼"
+  },
+  {
+    "id": "a11219087dce058d12b884a1fc4250e9",
+    "shop": "幸楽苑",
+    "name": "幸楽苑、全品860円の“冷製麺”3種を展開 セットだと“お得に”【期間限定】 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE43X1EzeVNobzhQN2p4R2Fsc1pKQjdMa3RveTNvSklKRUo1YVFVRDlaVnc1WU",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43X1EzeVNobzhQN2p4R2Fsc1pKQjdMa3RveTNvSklKRUo1YVFVRDlaVnc1WU96V1cwWEhhQ0FWZXRhNnBldURybUtKX3BGTjZMYUE?oc=5",
+    "category": "ramen",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-07T00:25:03.205584",
+    "menu_name": "冷製麺",
+    "one_liner": "全品860円で楽しめる期間限定の冷製麺"
   }
 ]
