@@ -1,17 +1,5 @@
 [
   {
-    "id": "230d42f07ad5fd105d496d040e4f8828",
-    "shop": "スシロー",
-    "name": "【スシロー】しなこ監修メニューも！SUSHIRO Cafeに混ぜて楽しむひんやり“フラッペ”3種が登場 - ウォーカープラス",
-    "menu_name": "混ぜて楽しむひんやり“フラッペ”3種",
-    "one_liner": "しなこ監修も！混ぜて楽しむひんやりフラッペ",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNXUxVnVRWlZldkd5YzZsR2NHVDNZRW9UeGhHemllcUJxbnFnLWhmWlA1SV",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNXUxVnVRWlZldkd5YzZsR2NHVDNZRW9UeGhHemllcUJxbnFnLWhmWlA1SVRySkNnNzFpUWY5dC1HSy1VVDJyckNfUWhiUzVPMzNFS2Fn0gFbQVVfeXFMTVozNWxxWC1SaDJIVXlKMEFyS2VZZlRyRkZTX0gtVFZrX21tS185aV8xMTBKbEVtMUN6V0h0UFhXTFF1REo4UHRGd0R6YkE3MnRjMGxiaW9SQmk1MA?oc=5",
-    "category": "sushi",
-    "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-17T23:48:56.096014"
-  },
-  {
     "id": "1725e2e3b845a17c62283093e61e70b5",
     "shop": "くら寿司",
     "name": "「これはヤバい」くら寿司、ちいかわとコラボ！ “ビッくらポン！”でグッズ当たる「やべぇ祭りが始まる…」 - au Webポータル",
@@ -34,18 +22,6 @@
     "category": "sushi",
     "published": "Sun, 16 Aug 2026 09:55:26 GMT",
     "fetched_at": "2026-08-17T23:51:11.491591"
-  },
-  {
-    "id": "6c859882b3e72d5c402938f2d6476a20",
-    "shop": "かっぱ寿司",
-    "name": "かっぱ寿司、初の「“北欧サーモンいくら”包み」を110円で提供 「かっぱの贅沢うにいくら祭り」開催 - 山陽新聞",
-    "menu_name": "“北欧サーモンいくら”包み",
-    "one_liner": "北欧サーモンといくらの贅沢な包み",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE00cVBmWW9pWlhYNGhRRm1QN0J5cGlIRDZ2c0JqczdNXzBDSEhHcHFxbGNFZG",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00cVBmWW9pWlhYNGhRRm1QN0J5cGlIRDZ2c0JqczdNXzBDSEhHcHFxbGNFZG9UQjZVS3p5OGJRc1FqaEhRUU9xVm5pZW9ueGZ6VGc?oc=5",
-    "category": "sushi",
-    "published": "Sat, 15 Aug 2026 08:30:05 GMT",
-    "fetched_at": "2026-08-17T23:52:36.389780"
   },
   {
     "id": "6c8686ac7b559010a92d5237e1bb7283",
@@ -84,18 +60,6 @@
     "fetched_at": "2026-08-18T00:04:22.498131"
   },
   {
-    "id": "aab4a87d838ef0321ec25c8af7ca8f36",
-    "shop": "コメダ珈琲店",
-    "name": "【きょうから】「すみっコぐらし」＆「コメダ珈琲店」コラボ商品、ロフトで発売 コメダメニューを前にしたすみっコたち【アイテム詳細】 - 山陽新聞",
-    "menu_name": "「すみっコぐらし」＆「コメダ珈琲店」コラボ商品",
-    "one_liner": "コメダメニューとすみっコたちの限定コラボ",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BZDl3NlJKTXFqaXBfOU9MY2YweERtZTRaWjdoOXB2YUR1LUlXMVNGbTFnUX",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BZDl3NlJKTXFqaXBfOU9MY2YweERtZTRaWjdoOXB2YUR1LUlXMVNGbTFnUXkyM3VCOFBYRS10MUFISTJsVFp2Y0VIbDcwNEl4enhwWVpzVFI?oc=5",
-    "category": "cafe",
-    "published": "Sat, 15 Aug 2026 09:06:26 GMT",
-    "fetched_at": "2026-08-18T00:07:31.917874"
-  },
-  {
     "id": "448244eb00f50b524f0da968ae4d42c8",
     "shop": "すき家",
     "name": "すき家「ポークロックカレー」期間限定で登場　食べごたえ十分 - J-CAST ニュース",
@@ -106,54 +70,6 @@
     "category": "don",
     "published": "Mon, 17 Aug 2026 03:00:00 GMT",
     "fetched_at": "2026-08-18T00:08:49.132382"
-  },
-  {
-    "id": "c7a60c07b7a133990c2e1c2dcd60e50a",
-    "shop": "すき家",
-    "name": "すき家、シェイク新商品を発売 期間限定「Sukiシェイク ラムネ」 - 山陽新聞",
-    "menu_name": "Sukiシェイク ラムネ",
-    "one_liner": "爽やかなラムネ風味の限定シェイク",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxNU21Nd0w3X2NGZ1RfaEIwVWR4ZW5qY2tCNWNjRXhsOW1YNjlXVWZ6S0Q3NH",
-    "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNU21Nd0w3X2NGZ1RfaEIwVWR4ZW5qY2tCNWNjRXhsOW1YNjlXVWZ6S0Q3NHM4M2ZTbndKQWtPazJpcTRFMUJJdXBtQzZOaU1neHZKVUZ5WXc3cE5WeG0xeGVZYjJuUHdZdXdrT3lJM3Jub1hwWGZ4cVh6c1l2NURBaG1raU9FWmhrNXpOVXc0LWFfTGs2VktaQUhvdHZKdFJpVVl4ZXpQX2ZMem5waS1uX0E3LUtlekpGM1NCaGh3anVtaGtfVUtvbUMyR25HZ0pKeU1NNTFpZmtQc1FTQlF1TTBuTjdzdXhKZzh4UXc0RHM0ZFcxa1g3RzN4ZDVvNlNXTUdFejBoaEhvdU9vQkhsdzdTUlFfeGdmWmdZaHcyYnRybEZMZjZmdUFwNlowOHkzenpRQW5yM0JXWnlzYVBsLWhubHR0WG03cmVUekp3?oc=5",
-    "category": "don",
-    "published": "Sat, 15 Aug 2026 02:40:40 GMT",
-    "fetched_at": "2026-08-18T00:08:57.015725"
-  },
-  {
-    "id": "b6c8015dadbea58abf2b9ad24e708dd8",
-    "shop": "松屋",
-    "name": "【きょうから】松屋、定番メニューが何度でも割引価格で食べられる定期券「MATSUYA PASS」発売 3月限定で常に牛めし70円引き・定食100円引きに - 山陽新聞",
-    "menu_name": "MATSUYA PASS",
-    "one_liner": "牛めしや定食が何度でも割引に",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBuUHN4Y0lVNG1jRU02T3Fza21rOS1VQVhvSVRYdDhOV2xGemg1Vm84dVctcW",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuUHN4Y0lVNG1jRU02T3Fza21rOS1VQVhvSVRYdDhOV2xGemg1Vm84dVctcWw1WVBLUUdoSXJXdmVncTlkdVJVdmE3RUItNXRaMUlXZUV3LTBqR1d5TFM4XzYzNWxIbExHbldXdDlQdw?oc=5",
-    "category": "don",
-    "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:10:50.597738"
-  },
-  {
-    "id": "3d8722accc40d6725026c8cf949f90cb",
-    "shop": "松屋",
-    "name": "リラックマたちが“魔女っ子”に!? 松屋銀座で『マクマクミラクルワンダーランド』期間限定で開催 “リラックマストア店長”の大集合も - 山陽新聞",
-    "menu_name": "マクマクミラクルワンダーランド",
-    "one_liner": "リラックマたちが魔女っ子に変身",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFM0LWFiUlhPc2xXZUpNUzh5S2xzdlVPMGhwMVdqTlB6X0VtT2p3WlQzek",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFM0LWFiUlhPc2xXZUpNUzh5S2xzdlVPMGhwMVdqTlB6X0VtT2p3WlQzekxYYlNvSXk4OUZhc1FQY2Nva0pBUkxmTngtVVlXeEFEVThLekRXNGFnOGVaSkRzZHR0Q2VaYmNLbTZzNGtBb0NDR0RSMmJISjU3b0lISmFiNA?oc=5",
-    "category": "don",
-    "published": "Sat, 15 Aug 2026 18:29:17 GMT",
-    "fetched_at": "2026-08-18T00:11:28.498271"
-  },
-  {
-    "id": "71a27176e738f80852953ee5bc1ea3db",
-    "shop": "吉野家",
-    "name": "吉野家、新定食「金目鯛の煮付け」登場 「牛肉だけでなく魚メニューもお楽しみいただきたい」【概要・価格】 - 山陽新聞",
-    "menu_name": "金目鯛の煮付け",
-    "one_liner": "吉野家で味わう本格魚定食",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGE1U3ZkYmV3emVWeE1pVW0zcVNLbFN2RDNwSU9fcnFxaGl6OWxrSGR0aF",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGE1U3ZkYmV3emVWeE1pVW0zcVNLbFN2RDNwSU9fcnFxaGl6OWxrSGR0aFVWWFJiV040RU5wYVlaLUNQa1J6N1VaYlZxTXc5Qm1uSEw0OG9GWkpua0xZVnNBX2RaQU16REVVbXc1LXJLNmdlVWJ2RVBHU1RhV1hfTU82cnNkVVh2ZnFNNFl0N1lzTXNYM0Y1QXdTY2xqSUhyMmR0NzVtdlY?oc=5",
-    "category": "don",
-    "published": "Sat, 15 Aug 2026 10:38:55 GMT",
-    "fetched_at": "2026-08-18T00:14:12.363660"
   },
   {
     "id": "7f24fd2ff5d64c2e99e20786a6b07393",
@@ -192,42 +108,6 @@
     "fetched_at": "2026-08-18T00:15:51.144055"
   },
   {
-    "id": "3c73b00313ef9170580d8e829cad0ee6",
-    "shop": "ガスト",
-    "name": "ガスト、34年前のメニューを復刻 創業当時に展開… 18日から限定で販売 - 山陽新聞",
-    "menu_name": "34年前のメニュー",
-    "one_liner": "創業当時の味が復活する限定メニュー",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTHpqbjR1Tnk0cTlmV0ExNVpsaHFNLS1GX0p1TnhLUnY4LWEwd2VCWm9tSE",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTHpqbjR1Tnk0cTlmV0ExNVpsaHFNLS1GX0p1TnhLUnY4LWEwd2VCWm9tSE9UTmNselFSa2EyV29aVE04alRpTzFQVkhzVXNpZGdhSkpCQUxHZXNIVzMzeUttSEFPem02QVRpQnE4TjZxeHI0cXU3NGxjeFlkQ3NfODNZN1J4bVU?oc=5",
-    "category": "family",
-    "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:16:51.752465"
-  },
-  {
-    "id": "1feee2fc05e4eca578487dfbb32c1550",
-    "shop": "びっくりドンキー",
-    "name": "【きょうから】びっくりドンキーのグランドメニューがリニューアル 「ガーリックチキンステーキ」や「シナモンロール」など全8種が新登場 - 山陽新聞",
-    "menu_name": "ガーリックチキンステーキ、シナモンロールなど全8種",
-    "one_liner": "びっくりドンキー新メニュー8種が本日登場",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWDg2aU12WFNRb1lKcmNILVlPUU83VkpwSERGWnRIMmJNZFptZ25GeGtfVG",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWDg2aU12WFNRb1lKcmNILVlPUU83VkpwSERGWnRIMmJNZFptZ25GeGtfVGhQVFB4WEFpbXgtUkFCRmhtV2p5LWdsWEVnNU1QdlE?oc=5",
-    "category": "family",
-    "published": "Sat, 15 Aug 2026 18:03:56 GMT",
-    "fetched_at": "2026-08-18T00:18:06.914303"
-  },
-  {
-    "id": "7750df92e37dff3a82c377c6f9ce0400",
-    "shop": "ジョナサン",
-    "name": "フレッシュな国産白桃を使った期間限定スイ－ツが「ジョナサン」に登場 - ウォーカープラス",
-    "menu_name": "フレッシュな国産白桃を使った期間限定スイ－ツ",
-    "one_liner": "旬の国産白桃を贅沢に使った逸品",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTeHJMcVdrN05UYk5IODNONDR6MklfdDU1ZUJtNEN6bnJ1VFVHVWdsSUhZNW",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTeHJMcVdrN05UYk5IODNONDR6MklfdDU1ZUJtNEN6bnJ1VFVHVWdsSUhZNWczZktUMU1zS0MwUzBGcUJXVHFPdEZIOE5ydWFCemdkOdIBWkFVX3lxTFBCdVVCbmtUaVo1aWk4U0owbVp0dk15bFp1azVZclVGamZXTE5lc21oTjdFYmFoenlNWEw4b19ldEFUSW5tTDlTbGFqb0lsdDdhSlpBSE1pR01aZw?oc=5",
-    "category": "family",
-    "published": "Sat, 15 Aug 2026 11:09:57 GMT",
-    "fetched_at": "2026-08-18T00:18:18.561278"
-  },
-  {
     "id": "52765c5b9938f11fe40e86fd03347b25",
     "shop": "バーミヤン",
     "name": "バーミヤン エコバッグ 8月22日より登場! 中華モチーフ全4種展開! - コラボカフェ",
@@ -238,30 +118,6 @@
     "category": "family",
     "published": "Mon, 17 Aug 2026 04:15:52 GMT",
     "fetched_at": "2026-08-18T00:18:41.813442"
-  },
-  {
-    "id": "280697d2d0c04566027fd89adcca346c",
-    "shop": "丸亀製麵",
-    "name": "丸亀製麺、がっつりさっぱり「鬼おろしシリーズ」今年も期間限定販売開始へ 人気の『明太クリームうどん』の“冷”が新登場 - 山陽新聞",
-    "menu_name": "鬼おろしシリーズ、『明太クリームうどん』の“冷”",
-    "one_liner": "がっつりさっぱり夏の涼味",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9INERvVXJibmpLTUlqdHpOU19sa2tlN3Jwc18ydHFwX0x4ODhpQ3VvSkVkUF",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9INERvVXJibmpLTUlqdHpOU19sa2tlN3Jwc18ydHFwX0x4ODhpQ3VvSkVkUFFGQ0VhLUJCTktYWlZtTk9ZOEhCZ3pPdGZ6YmFvMUE?oc=5",
-    "category": "men",
-    "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:19:03.629357"
-  },
-  {
-    "id": "c440dfcc29a52c5c205e39bfe2f73fbb",
-    "shop": "丸亀製麵",
-    "name": "池田エライザが「わんぱく欲が満たされる」と語る丸亀製麵の新メニュー“うどんメシ”とは？ - ウォーカープラス",
-    "menu_name": "うどんメシ",
-    "one_liner": "わんぱく欲が満たされる新メニュー",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWjBIcjV5bFZMRFN3dzA3ZVBUNDJZNzcwWWJrT0wwVnMxMWlodHE3ZURaZD",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWjBIcjV5bFZMRFN3dzA3ZVBUNDJZNzcwWWJrT0wwVnMxMWlodHE3ZURaZDYwYUs2dTQySUoxNWpkZXItTU9oWUJjNzdlc1RpOGRSNWxB0gFbQVVfeXFMTVJiVm5jTk1NMlJXdW15b0xrRnRyb0ZDTVg2bUh3SWRvQzhHT3hqYjNtelJ6Ykt6MjNYcVMxNEcwNC0zQkM4TzQ2RjJqdmtDOFJRU0gzOF8yRUsyOA?oc=5",
-    "category": "men",
-    "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-    "fetched_at": "2026-08-18T00:19:50.539683"
   },
   {
     "id": "915af9a0b273db710466de6ae1b041f2",
@@ -3358,5 +3214,137 @@
     "fetched_at": "2026-09-15T01:03:12.571981",
     "menu_name": "３種薬味で食べる 豚しゃぶうどん",
     "one_liner": "たっぷりの豚肉を薬味でさっぱりと"
+  },
+  {
+    "id": "230d42f07ad5fd105d496d040e4f8828",
+    "shop": "スシロー",
+    "name": "【スシロー】しなこ監修メニューも！SUSHIRO Cafeに混ぜて楽しむひんやり“フラッペ”3種が登場 - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNXUxVnVRWlZldkd5YzZsR2NHVDNZRW9UeGhHemllcUJxbnFnLWhmWlA1SV",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNXUxVnVRWlZldkd5YzZsR2NHVDNZRW9UeGhHemllcUJxbnFnLWhmWlA1SVRySkNnNzFpUWY5dC1HSy1VVDJyckNfUWhiUzVPMzNFS2Fn0gFbQVVfeXFMTVozNWxxWC1SaDJIVXlKMEFyS2VZZlRyRkZTX0gtVFZrX21tS185aV8xMTBKbEVtMUN6V0h0UFhXTFF1REo4UHRGd0R6YkE3MnRjMGxiaW9SQmk1MA?oc=5",
+    "category": "sushi",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-16T00:51:37.732696",
+    "menu_name": "混ぜて楽しむひんやり“フラッペ”3種",
+    "one_liner": "しなこ監修！混ぜて楽しむひんやりフラッペ"
+  },
+  {
+    "id": "d107ac1a032a1add5385b6bd80ecda66",
+    "shop": "くら寿司",
+    "name": "【必食は10日間限定110円“かに軍艦”】くら寿司の秋フェアが本気すぎ！北海道産秋刀魚・無添加月見バーガー・贅沢スイー - ニコニコニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MR3dGRTNXM2gxQTQyUmtaQllCTTJEa1F0WUVpT0dqWFEwSG54UVA5Ul9YTV",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MR3dGRTNXM2gxQTQyUmtaQllCTTJEa1F0WUVpT0dqWFEwSG54UVA5Ul9YTVN3Q0g5MFV1cl9EcjhBUHl2TGg5LTd5b1RDYWR2UGlsNw?oc=5",
+    "category": "sushi",
+    "published": "Sun, 06 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-16T00:51:40.582725",
+    "menu_name": "かに軍艦・北海道産秋刀魚・無添加月見バーガー",
+    "one_liner": "秋の味覚を堪能できる超豪華フェア"
+  },
+  {
+    "id": "6c859882b3e72d5c402938f2d6476a20",
+    "shop": "かっぱ寿司",
+    "name": "かっぱ寿司、初の「“北欧サーモンいくら”包み」を110円で提供 「かっぱの贅沢うにいくら祭り」開催 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE53aktTVnRTbTNuWkJsMkZwZ2xuOVlrLUJlbHh6YVFuRnlYZjFDMmtMVWN3bm",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53aktTVnRTbTNuWkJsMkZwZ2xuOVlrLUJlbHh6YVFuRnlYZjFDMmtMVWN3bmgzclQ4QzI5TTFYdEt3OHltNkprVldGTGJtaE9aRnplWjNXbEhzc2VD?oc=5",
+    "category": "sushi",
+    "published": "Sun, 13 Sep 2026 06:53:11 GMT",
+    "fetched_at": "2026-09-16T00:51:42.234532",
+    "menu_name": "北欧サーモンいくら包み",
+    "one_liner": "北欧サーモンといくらの贅沢な一皿"
+  },
+  {
+    "id": "fe8876e3e94079901b400bb52dd71997",
+    "shop": "かっぱ寿司",
+    "name": "【かっぱ寿司】大とろ・中とろ・あわび・赤貝…豪華6貫 “割引”食べ比べセット4種、発売 - オトナンサー",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6dkZjYlIxR1ZSQXlDaTIzZWlNTFd1SlcwSDNkb0FrM18yQTB1WEhZT29hZl",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6dkZjYlIxR1ZSQXlDaTIzZWlNTFd1SlcwSDNkb0FrM18yQTB1WEhZT29hZldybUwwVTRIcFZSNlFrdm5yMWhNVmJ3?oc=5",
+    "category": "sushi",
+    "published": "Tue, 15 Sep 2026 03:00:21 GMT",
+    "fetched_at": "2026-09-16T00:51:42.833127",
+    "menu_name": "豪華6貫 割引食べ比べセット4種",
+    "one_liner": "高級ネタを贅沢に楽しめるお得なセット"
+  },
+  {
+    "id": "6cb23cc00aef09ac90a3cc0900956c3a",
+    "shop": "コメダ珈琲店",
+    "name": "あの「Bacha Coffee」を堪能できる！ 【ホテル インターコンチネンタル 東京ベイ】豪華なアフタヌーンティーが9/15より期間限定開催 - 朝日新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9Obk0zaXlqQzBMczU4VzBQRTdrWHdKSWl5VXU4bzhsbngtaURaQ19BeVowa0",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Obk0zaXlqQzBMczU4VzBQRTdrWHdKSWl5VXU4bzhsbngtaURaQ19BeVowa04yRC0wOFJOUVpnd21JbDIyQXpsVERwTGhWLVlCOEdKdWdTblpEOEp5RUVVODhqZGUxOUZqa2M2bzJNa093bEdlZW9NcldR?oc=5",
+    "category": "cafe",
+    "published": "Tue, 15 Sep 2026 15:00:09 GMT",
+    "fetched_at": "2026-09-16T00:52:11.246822",
+    "menu_name": "Bacha Coffeeのアフタヌーンティー",
+    "one_liner": "高級コーヒーと共に楽しむ至福のティータイム"
+  },
+  {
+    "id": "c7a60c07b7a133990c2e1c2dcd60e50a",
+    "shop": "すき家",
+    "name": "すき家、シェイク新商品を発売 期間限定「Sukiシェイク ラムネ」 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVW5DTzhFLVdIb3pXMF8waDAxcmJqMUttVXA5cm1pN1N4LURlTjJJazVNVm",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVW5DTzhFLVdIb3pXMF8waDAxcmJqMUttVXA5cm1pN1N4LURlTjJJazVNVmRCRDdYbUplLWJHYW5oYkl4TEI3OW01bXh0YU9FVHpwLUYtVnVqUG9CYjVuemFTUGs3S1U?oc=5",
+    "category": "don",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-16T00:52:13.059972",
+    "menu_name": "Sukiシェイク ラムネ",
+    "one_liner": "爽やかなラムネの風味が楽しめる期間限定シェイク"
+  },
+  {
+    "id": "14d52cb2c863070820e6425d23ffab5c",
+    "shop": "松屋",
+    "name": "【ANAYI】5/6（金）スタート｜松屋銀座にて期間限定POPUP開催 サマーコレクション「Summer glam」登場 - CLASSY.[クラッシィ]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE85TGxNY2RKTVFFNzdNZXFUbldSN2ZEVnNyV0cyQjM0b2xUUjZ1dHhJdDhuTE",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85TGxNY2RKTVFFNzdNZXFUbldSN2ZEVnNyV0cyQjM0b2xUUjZ1dHhJdDhuTEpRYUQyeEdfNTlmRWE5eFJ4THFxVGk5Q0J0UF9VMVE1bzNINA?oc=5",
+    "category": "don",
+    "published": "Mon, 14 Sep 2026 12:04:13 GMT",
+    "fetched_at": "2026-09-16T00:52:14.895022",
+    "menu_name": "サマーコレクション「Summer glam」",
+    "one_liner": "ANAYIの華やかな新作夏コレクション"
+  },
+  {
+    "id": "10c93c355035f2106a31013520363955",
+    "shop": "松屋",
+    "name": "【きょうから】リラックマたちが“魔女っ子”に!? 松屋銀座で『マクマクミラクルワンダーランド』期間限定で開催 “リラックマストア店長”の大集合も - 福井新聞社",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fcHIxZ1lqY0FMZWtQTWxTbUd5YWFSME5UMHk1OEFndXFkLXlxNXVaUTZtNl",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fcHIxZ1lqY0FMZWtQTWxTbUd5YWFSME5UMHk1OEFndXFkLXlxNXVaUTZtNldSZVdfa3pOTmRQOVljMnBGZ01ieFhhUnNFYzJTUGlzQV9LTTlPNXQzNUhRV3FQUDViUQ?oc=5",
+    "category": "don",
+    "published": "Sun, 30 Aug 2026 23:38:59 GMT",
+    "fetched_at": "2026-09-16T00:52:14.897363",
+    "menu_name": "マクマクミラクルワンダーランド",
+    "one_liner": "リラックマが魔女っ子になる限定イベント"
+  },
+  {
+    "id": "68ec58087e577384ef8b75cddb4fd804",
+    "shop": "松屋",
+    "name": "食事のおかずに、おつまみに！食卓を彩る新シリーズ「MATSUYA DELI（マツヤデリ）」販売開始 - matsuyafoods.co.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YU3k0OUQ3a3lheXFWcFYwaFd2X3plTGRQMDkyZ2UtQ3hhUVozcXBZNUdvOX",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YU3k0OUQ3a3lheXFWcFYwaFd2X3plTGRQMDkyZ2UtQ3hhUVozcXBZNUdvOXZVMjVxU1pqS1JLTzR1d0lwc2xSNWRoZ0l0SlRPUmRHOTdCSjFYc252akFleGFzZ1lGdEE?oc=5",
+    "category": "don",
+    "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-16T00:52:15.488196",
+    "menu_name": "MATSUYA DELI（マツヤデリ）",
+    "one_liner": "食卓を彩る新デリシリーズ"
+  },
+  {
+    "id": "1feee2fc05e4eca578487dfbb32c1550",
+    "shop": "びっくりドンキー",
+    "name": "【きょうから】びっくりドンキーのグランドメニューがリニューアル 「ガーリックチキンステーキ」や「シナモンロール」など全8種が新登場 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ydkh4M0Q3MDZLTDMwMS1tWnpmYkd4dTBfMk0xZGJ6NXpOMTY5WGFpLVpLTm",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ydkh4M0Q3MDZLTDMwMS1tWnpmYkd4dTBfMk0xZGJ6NXpOMTY5WGFpLVpLTmU3eThrNVlTMUlWZ1p2WGhmQURyS1hQYl96VlpTLUVYS1R4aXZnNG8?oc=5",
+    "category": "family",
+    "published": "Sat, 12 Sep 2026 16:27:51 GMT",
+    "fetched_at": "2026-09-16T00:52:29.703639",
+    "menu_name": "ガーリックチキンステーキ、シナモンロールなど全8種",
+    "one_liner": "びっくりドンキーが贈る新作メニュー全8種"
+  },
+  {
+    "id": "d465d7a7a62341e5e10206116704ad33",
+    "shop": "丸亀製麵",
+    "name": "《この春、「丸亀製麺」が「丸亀製麺（まるかめせいめん）」に！？》「丸亀製麺」と『ドラゴンボールZ』の7つの驚きのコラボ ドラゴンボールや元気玉など、作品の世界観をモチーフにしたコラボ商品が登場 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UNXpxZ0FTQVVpOXhSWXJKTWNidzY2V3I2MGVmeWNFeGtxWU1nZ0F4c19oZj",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UNXpxZ0FTQVVpOXhSWXJKTWNidzY2V3I2MGVmeWNFeGtxWU1nZ0F4c19oZjBpWDRvZWZZNERZR3kxU1pNeVJhVDRZX1d3cUJVNHc?oc=5",
+    "category": "men",
+    "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-16T00:52:35.419836",
+    "menu_name": "ドラゴンボールや元気玉など、作品の世界観をモチーフにしたコラボ商品",
+    "one_liner": "ドラゴンボールの世界観を再現した限定コラボ"
   }
 ]
