@@ -12,18 +12,6 @@
     "one_liner": "ちいかわの世界観を楽しめる限定メニュー"
   },
   {
-    "id": "c6b61c10792dc63adb191b12d3e49fe5",
-    "shop": "かっぱ寿司",
-    "name": "１１０円ネタも、ボリュームメニューも！『厳選びん長まぐろ』など、お得ネタが大集合「かっぱの百十円満点祭り」開催！さらに大判「牛カルビ炙り」など、夏を元気に乗り切る、「かっぱの元気モリモリ祭り」同時開催：紀伊民報AGARA｜和歌山県のニュースサイト - AGARA紀伊民報",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE05bWRLOU13M0gwZTRTanIyamlyM0FULXV6NEFLTk1EeTVpRkt4UVBnNzNHb3",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05bWRLOU13M0gwZTRTanIyamlyM0FULXV6NEFLTk1EeTVpRkt4UVBnNzNHb3NHN05rbW1CWG5vclVZeTlEb3Q2VzA3RzJmTlF0?oc=5",
-    "category": "sushi",
-    "published": "Sun, 23 Aug 2026 07:20:00 GMT",
-    "fetched_at": "2026-08-27T05:43:02.060052",
-    "menu_name": "厳選びん長まぐろ、牛カルビ炙り",
-    "one_liner": "お得なネタとスタミナメニューが集合"
-  },
-  {
     "id": "46848749d76c0528e89fcd7e1fbeeec3",
     "shop": "かっぱ寿司",
     "name": "かっぱ寿司に“お月見スイーツ”登場　香ばしいみたらし団子＆ホイップで甘じょっぱい幸せ - ｄメニューニュース",
@@ -730,18 +718,6 @@
     "fetched_at": "2026-08-31T00:57:36.901204",
     "menu_name": "ヒストリカルな日々",
     "one_liner": "かつやの期間限定メニュー"
-  },
-  {
-    "id": "2bd7955070405f59f18ff4e4b37a32ab",
-    "shop": "洋麺屋五右衛門",
-    "name": "【葛飾区】金町の二郎系名店「豪麺MARUKO」が期間限定で驚きの大変身！？ かき氷専門店「削り日和」オープンしています！ - 号外NET 葛飾区",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bTVWeWZ4NHhEelRlSmV6bmlLaGVRNFVrRllDdjNlYndNZzRUYmtwbXBXVU",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3bTVWeWZ4NHhEelRlSmV6bmlLaGVRNFVrRllDdjNlYndNZzRUYmtwbXBXVUx1MXJXWUwta2dMVGpuZkpBOE11V2ZjV3hnRVl1aU8zbmdPNTc5M3UxSzVlQ3RBa2lmSDd2XzFvT3pfVQ?oc=5",
-    "category": "men",
-    "published": "Sun, 23 Aug 2026 10:18:09 GMT",
-    "fetched_at": "2026-08-31T00:57:56.142940",
-    "menu_name": "かき氷",
-    "one_liner": "二郎系名店が手掛ける夏のかき氷"
   },
   {
     "id": "1f992520b760c47f2b1f3efdcf969439",
@@ -3106,5 +3082,17 @@
     "fetched_at": "2026-09-23T00:59:56.954463",
     "menu_name": "牛カルビホルモン丼",
     "one_liner": "牛カルビとホルモンの贅沢な丼"
+  },
+  {
+    "id": "6fb2993d4736786bd5e373bbcd8c372d",
+    "shop": "スターバックス",
+    "name": "【韓国スタバ】9月15日発売！秋の新作「カステラサツマイモラテ」＆大人気ドリンクがケーキになった「ブラックグレ - k-trendtimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbnZnQ1g0MzRsN2FuenZjZ2s5OTdiZnY5YlQtTjgzblliWm9yTFdUZVRvTG",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbnZnQ1g0MzRsN2FuenZjZ2s5OTdiZnY5YlQtTjgzblliWm9yTFdUZVRvTGNObDdPcVFKbi1IRk1NeC1JQ2ZKbzdGMTJteDF5bGpvLVkybTRDV3V3Tnc?oc=5",
+    "category": "cafe",
+    "published": "Sat, 12 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-09-24T00:56:40.380525",
+    "menu_name": "カステラサツマイモラテ、ブラックグレーンケーキ",
+    "one_liner": "秋の味覚と人気味が楽しめる新作スイーツ"
   }
 ]
