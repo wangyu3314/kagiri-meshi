@@ -552,18 +552,6 @@
     "one_liner": "ぼた餅ソフトやウインナーが話題"
   },
   {
-    "id": "b1d60a21bca8545b4b4dd4a49ee474f9",
-    "shop": "ゼッテリア",
-    "name": "【あすから】ゼッテリア『夏バーガーフェア』開催 「ニンニク牛カルビバーガー」「日向夏タルタルチキンバーガー」など期間限定で4種発売 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WUGlGOFduc01BdG1PSFk5VHUzeEJXV2tjVEhrQTI4MGlvaF9rRURhdmZGOU",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WUGlGOFduc01BdG1PSFk5VHUzeEJXV2tjVEhrQTI4MGlvaF9rRURhdmZGOU5IVjN0Y2J1WlBZdlhLRUpUak85dWJIakVLbjhMME1IOXVLbw?oc=5",
-    "category": "burger",
-    "published": "Sat, 05 Sep 2026 06:25:46 GMT",
-    "fetched_at": "2026-09-13T00:28:38.962220",
-    "menu_name": "「ニンニク牛カルビバーガー」「日向夏タルタルチキンバーガー」など期間限定で4種",
-    "one_liner": "夏の食欲をそそるスタミナ＆爽快バーガー"
-  },
-  {
     "id": "72fd5e6b7de8af850500c374ac42d1b2",
     "shop": "スシロー",
     "name": "【スシロー】「びんとろ」「焼とろサーモン」が110円～、さんまや帆立、天然えびなど秋の味覚も登場 - Yahoo!ニュース",
@@ -1020,18 +1008,6 @@
     "one_liner": "名代富士そばのロゴ入り限定サコッシュ"
   },
   {
-    "id": "2562399c2346ab2b9dea3c39b2e3c4cf",
-    "shop": "スシロー",
-    "name": "スシローが『ハローキティ』と初コラボ 第一弾コラボグッズ特典付きお寿司が7月29日（水）より登場 - morino-jikan.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE43NTdjX2ZpQk1sWnhRMmxCNVZ3bXNoSkZBaC1ScHdjZWpyejN3R2JVcFBFYz",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43NTdjX2ZpQk1sWnhRMmxCNVZ3bXNoSkZBaC1ScHdjZWpyejN3R2JVcFBFYzdMODJuMzU2c2pvUUd1dkQzWTkyUVJJQVFLblNVR0ZJLTVYTTZES3ZnUXFn?oc=5",
-    "category": "sushi",
-    "published": "Sat, 05 Sep 2026 16:03:02 GMT",
-    "fetched_at": "2026-09-20T00:28:06.851769",
-    "menu_name": "ハローキティコラボグッズ特典付きお寿司",
-    "one_liner": "ハローキティの限定グッズ付き"
-  },
-  {
     "id": "070bd95cfa5358e8ca8a4170d3c2f9bf",
     "shop": "かっぱ寿司",
     "name": "かっぱ寿司で、旬の寿司・スイーツなど『秋限定メニュー』の販売が始まってる。サーモンの「新ネタ」も登場 - 神戸ジャーナル",
@@ -1308,18 +1284,6 @@
     "one_liner": "ポケモンデザインの限定ラテとグッズ"
   },
   {
-    "id": "8f5867e0daf6754c44e9a00b087536df",
-    "shop": "スターバックス",
-    "name": "「スターバックス」×「アンドワンダー」や「ジェラピケ」×ポケモンなど！ 来週発売のファッションアイテム8選【9/7〜9/13】 - wwdjapan.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoUUpxeUVnQjdvb29DWl9NMWY3Z0V5VEVhQ05tWkZjbDA4cWlZU0hUV2l3dF",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoUUpxeUVnQjdvb29DWl9NMWY3Z0V5VEVhQ05tWkZjbDA4cWlZU0hUV2l3dFBFYlNWVFZLS3l4WFFiOVdPWnNCRlVMUXNMcUZpcmI0?oc=5",
-    "category": "cafe",
-    "published": "Sat, 05 Sep 2026 09:01:22 GMT",
-    "fetched_at": "2026-09-26T00:59:18.052853",
-    "menu_name": "スターバックス×アンドワンダーやジェラピケ×ポケモンなど",
-    "one_liner": "人気ブランドの注目新作コラボアイテム"
-  },
-  {
     "id": "a0323562e6a5e6dc45c0b2193a9cdfca",
     "shop": "タリーズコーヒー",
     "name": "タリーズ、「コーヒーの日」に合わせ「エアロカーノ」期間限定で展開 “ベルベットのような” 質感のエスプレッソビバレッジ - Yahoo!ニュース",
@@ -1426,18 +1390,6 @@
     "fetched_at": "2026-09-27T00:59:12.161574",
     "menu_name": "北海道産じゃがペッパー月見",
     "one_liner": "月見初のじゃがいも素材を使った新作"
-  },
-  {
-    "id": "ad92b79c6ae07c8ab576eaa46a1656db",
-    "shop": "マクドナルド",
-    "name": "月見グルメが続々！ 今年初登場のメニューも♪ KFC・マック・デニーズなど注目の秋限定メニュー10選 - city.living.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tLU1YUE9rNnlDc2tra0Z1dnNaQWZrUko2ZFlBNllhSVFQY2s2Z3BsTWFCRT",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tLU1YUE9rNnlDc2tra0Z1dnNaQWZrUko2ZFlBNllhSVFQY2s2Z3BsTWFCRTRFMFJkMlBncmhEdHQzTFJDckhmbXFlV1hPTlRmWkJHQzVR?oc=5",
-    "category": "burger",
-    "published": "Sat, 05 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-27T00:59:12.935851",
-    "menu_name": "月見グルメ",
-    "one_liner": "秋の味覚を堪能できる限定メニュー"
   },
   {
     "id": "cfd445d2c4e4082e62d9eb4c35aeb98c",
@@ -2628,18 +2580,6 @@
     "one_liner": "高級食材うにを堪能できる贅沢なフェア"
   },
   {
-    "id": "fabaf68dd4c3df71c28dca0c2ffa0753",
-    "shop": "サンマルクカフェ",
-    "name": "【きょうから】サンマルクカフェに秋の味覚が集合 4種の芋を味わう『プレミアムチョコクロ』など発売 - オリコンニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE43XzVHMWlaV2lWTE9ZMjlRT3JsVU0wRVFIVmoxWWpwNGlSRUFDSUxEeldDUH",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43XzVHMWlaV2lWTE9ZMjlRT3JsVU0wRVFIVmoxWWpwNGlSRUFDSUxEeldDUHpHUHJqVlBmRldFbWVtdF9JYWI5STVULVBnNk5WM3YtZVB3?oc=5",
-    "category": "cafe",
-    "published": "Sat, 05 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-06T02:34:05.371753",
-    "menu_name": "4種の芋を味わう『プレミアムチョコクロ』",
-    "one_liner": "秋の味覚を詰め込んだ贅沢なチョコクロ"
-  },
-  {
     "id": "dff61bf243d5b4999d9c3f6042ac93d4",
     "shop": "コメダ珈琲店",
     "name": "【北海道限定】コメダ珈琲店がご当地メニューとエゾユキウサギのグッズを発売！ - ニコニコニュース",
@@ -2710,5 +2650,197 @@
     "fetched_at": "2026-10-06T02:34:35.335590",
     "menu_name": "期間限定商品",
     "one_liner": "来店頻度を高める注目の新メニュー"
+  },
+  {
+    "id": "011f3b5d9ccc845c8e297df837740139",
+    "shop": "かっぱ寿司",
+    "name": "かっぱ寿司、うに2種と海の幸が堪能できる「ごちそう贅沢よくばりプレート」を発売 - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE41bXI5SW5CNi1SaVlCWUlQMmRDOUsySlByTEV3a0dSVWlzNmlrV2hEc1ZKal",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41bXI5SW5CNi1SaVlCWUlQMmRDOUsySlByTEV3a0dSVWlzNmlrV2hEc1ZKalF0VS1ZajMzVjlqUjczWXRpVjhmZHRiQWdFTXNseGlIS0x0MEVPdmtDT1R1NDViLUtfSDNpMXc?oc=5",
+    "category": "sushi",
+    "published": "Tue, 29 Sep 2026 06:15:28 GMT",
+    "fetched_at": "2026-10-07T01:52:04.832403",
+    "menu_name": "ごちそう贅沢よくばりプレート",
+    "one_liner": "うに2種と海の幸を堪能できる贅沢な一皿"
+  },
+  {
+    "id": "65a7d9fb1153a8d63c02f55b26fafe27",
+    "shop": "フレッシュネスバーガー",
+    "name": "フレッシュネスバーガー、ホクホクの国産カボチャたっぷりの「作りたてスコーンサンド パンプキン＆クリームチーズ」発売 - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1lY2x4WGRxWXdmQ1ctRV9pMmx1QlQybVZteGpUeThlMGU1eFVkWGdHdEJCVH",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lY2x4WGRxWXdmQ1ctRV9pMmx1QlQybVZteGpUeThlMGU1eFVkWGdHdEJCVHR2QVJMUjg0aGVfSEcyU1Zhd3pFanVERWMwTnVIdEVzT3FVMjZDeGUyYUVQUlFwN2hGWHN5N2NpZWRPNk0yaVhrSmZTdlc0NGhsTVk?oc=5",
+    "category": "burger",
+    "published": "Sun, 04 Oct 2026 03:00:00 GMT",
+    "fetched_at": "2026-10-07T01:52:11.983730",
+    "menu_name": "作りたてスコーンサンド パンプキン＆クリームチーズ",
+    "one_liner": "国産カボチャと濃厚チーズの秋味"
+  },
+  {
+    "id": "164071b88dcb718b4d23e009f512a3ab",
+    "shop": "ゼッテリア",
+    "name": "【ゼッテリア】舞茸×山葵×翡翠ねぎの和バーガー「山葵タルタル舞茸ビーフバーガー」発売 - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UQzhJMlpsam5zMm9oUGJDVEt4dlpNOTV0U0dQTm10REp4NzZxaXdqOGc5Z2",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UQzhJMlpsam5zMm9oUGJDVEt4dlpNOTV0U0dQTm10REp4NzZxaXdqOGc5Z2lrNW9GSEJESE91dDQzdmN4MzZ3a3M0MG05bC1pRWJDRA?oc=5",
+    "category": "burger",
+    "published": "Thu, 01 Oct 2026 06:00:47 GMT",
+    "fetched_at": "2026-10-07T01:52:13.445690",
+    "menu_name": "山葵タルタル舞茸ビーフバーガー",
+    "one_liner": "舞茸と山葵が香る和の絶品バーガー"
+  },
+  {
+    "id": "16d02ef0c4d4e144e7c5906da5f94ece",
+    "shop": "スターバックス",
+    "name": "“幻のパープルキャット”が潜む!?ミステリアスなHalloweenがスタート！『ブラックベリー ヨーグルト フラペチーノ® 黒耳ver. / 白耳ver.』を10月9日（金）より発売 - スターバックス ストーリーズ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9SWEVjcExFT2l2ajA4OUNkSFVURGtxUWpuY3czMWRTdktFRUhoQVZHUXNWM0",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SWEVjcExFT2l2ajA4OUNkSFVURGtxUWpuY3czMWRTdktFRUhoQVZHUXNWM0p4bkNCYVZlRU9WMUZUT09IR2xiZFQ3Z1dDRm10cXVQbnY1T0lxbmt4OGRDUk9ZaV9fU0pHdWxv?oc=5",
+    "category": "cafe",
+    "published": "Tue, 06 Oct 2026 01:30:00 GMT",
+    "fetched_at": "2026-10-07T01:52:16.609400",
+    "menu_name": "ブラックベリー ヨーグルト フラペチーノ® 黒耳ver. / 白耳ver.",
+    "one_liner": "ハロウィン限定のミステリアスな新作"
+  },
+  {
+    "id": "a9698274dd8dec495d65fdd899452b59",
+    "shop": "スターバックス",
+    "name": "華やかな香りと豊かな味わいが贅沢な秋を彩るスターバックス® チルドカップ 「ジョイフルハーモニーティーラテ」10月13日（火）より期間限定発売 - スターバックス ストーリーズ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBKTU1oMWRTQ1J0YzlPeU9Rbk1QTm5zaGx3RGs4UFlwN09QYnlremNyT0VKOT",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKTU1oMWRTQ1J0YzlPeU9Rbk1QTm5zaGx3RGs4UFlwN09QYnlremNyT0VKOTUyeXZzSkZTcWxDMFJTZ2dkYmp2NGhNLWpDN2xvemlkVjVxSWQ2UTlxM0VzaXJPZDNZZVpDNzhB?oc=5",
+    "category": "cafe",
+    "published": "Tue, 06 Oct 2026 05:00:00 GMT",
+    "fetched_at": "2026-10-07T01:52:16.609614",
+    "menu_name": "ジョイフルハーモニーティーラテ",
+    "one_liner": "華やかな香りが広がる贅沢なティーラテ"
+  },
+  {
+    "id": "5bd537c8b2f0118106dde09762f70f38",
+    "shop": "スターバックス",
+    "name": "スタバ、今年のハロウィンは黒猫と白猫グッズが登場！ 10月8日20時よりオンラインストア先行販売 - GAME Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sSUUxMWlDaHVjakszVjBFZVgzTGhWazdEbzNkUkl0ZjhmUnBxMEdIeEc1d1",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sSUUxMWlDaHVjakszVjBFZVgzTGhWazdEbzNkUkl0ZjhmUnBxMEdIeEc1d1p6NzBTbW80YTF6SlRjSENGbWl2Skt4amZ6c1lqOERFbWxVX1RLU19CS2ZXblZJLWFKZw?oc=5",
+    "category": "cafe",
+    "published": "Tue, 06 Oct 2026 02:43:27 GMT",
+    "fetched_at": "2026-10-07T01:52:17.911776",
+    "menu_name": "黒猫と白猫グッズ",
+    "one_liner": "黒猫と白猫が可愛いハロウィン限定グッズ"
+  },
+  {
+    "id": "2a00d4e98b9598b3747292b63ad4b62c",
+    "shop": "サンマルクカフェ",
+    "name": "王道の座を揺るがす!?サンマルクカフェでバター10倍、チョコレート2倍の「究極のチョコクロ」登場 - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PVkpQdDNaT29QUXRHVXlwRjQ0azZzb2ZHMnRzV3F3VkRvN2JSbWFEaWE0RE",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PVkpQdDNaT29QUXRHVXlwRjQ0azZzb2ZHMnRzV3F3VkRvN2JSbWFEaWE0RE1ZNDdKZnkwRDZXSXNkdzc3WWZrNjhvd3JTR3BZVmxDNjlB0gFbQVVfeXFMTUxWN0FTbm52QmhMNGxVdVp3M3FfcWpHTHBSaUdiWFZYWHJNMU5MSnJVMUJwNTZTdS12SDlsZUNGWU16MkhxOXRKOTZPSklrYWg4UDU0ZXZ0WXUzNA?oc=5",
+    "category": "cafe",
+    "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-07T01:52:22.409260",
+    "menu_name": "究極のチョコクロ",
+    "one_liner": "バター10倍、チョコ2倍の贅沢な味わい"
+  },
+  {
+    "id": "1a5863571cbfe4135fd78eb1d79c3ebf",
+    "shop": "ミスタードーナツ",
+    "name": "ミスタードーナツ、期間限定の飲茶が登場 ぷりぷり食感が楽しい“海老ワンタン麺”ほか3種 (オリコンニュース) - NewsPicks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWFF1UzBkY2s5MlRBdHd0ZzhMZEUxeW1YaWgyVm9MMms3MUZHWWxzWHpUcm",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWFF1UzBkY2s5MlRBdHd0ZzhMZEUxeW1YaWgyVm9MMms3MUZHWWxzWHpUcmI5UHlmSVl1dlA3SF8yMzl1YXdyNVI4WHZnZk5MY19teUhjVmg?oc=5",
+    "category": "cafe",
+    "published": "Sun, 27 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-07T01:52:22.951937",
+    "menu_name": "海老ワンタン麺ほか3種",
+    "one_liner": "ぷりぷり食感が楽しめる期間限定の飲茶"
+  },
+  {
+    "id": "e34b306869f0c15782e1f4bb95d1f558",
+    "shop": "コメダ珈琲店",
+    "name": "コメダ珈琲店、北海道出店10周年記念フェア開催 ハスカップや秋鮭バーガーなど北海道限定メニュー3品 - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5kVW1jV0I3MWktMzYwN2Y3eWV1MGRUZVJYQ0tUQXR1YktfNWdJblJzTzh2MX",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kVW1jV0I3MWktMzYwN2Y3eWV1MGRUZVJYQ0tUQXR1YktfNWdJblJzTzh2MXc5Q25NSVl3dFpDdkR5YXhLTjdDMWlCWUktYzQ4T2pmN2Y2bUhyck1XOHVraVRCX1k5c2d2X3Z6dFhjZXhjVGVrX0FFcWlhcmozbFE?oc=5",
+    "category": "cafe",
+    "published": "Mon, 05 Oct 2026 09:42:43 GMT",
+    "fetched_at": "2026-10-07T01:52:24.701354",
+    "menu_name": "ハスカップや秋鮭バーガーなど北海道限定メニュー3品",
+    "one_liner": "北海道の味覚を堪能できる限定メニュー"
+  },
+  {
+    "id": "12bf12b873fef15f12f784a05d9ba38d",
+    "shop": "コメダ珈琲店",
+    "name": "コメダ、お好み焼がバーガーに!? お好み焼専門店「千房」と初コラボ「お好み焼バーガー」を発売 - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5MUXJORDJEcDZYYjdxTll1YURQWUhQMXBFbzJfWWZGajdia3JaTGVzUDU0ME",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MUXJORDJEcDZYYjdxTll1YURQWUhQMXBFbzJfWWZGajdia3JaTGVzUDU0ME5naW9Ka01ONFE0eS1uZkR1cFNQZTdHQW1zZUVick13cXNSTVQ4REFqSk4tZk12ZWtmb2R5VGc?oc=5",
+    "category": "cafe",
+    "published": "Tue, 06 Oct 2026 08:52:26 GMT",
+    "fetched_at": "2026-10-07T01:52:24.701476",
+    "menu_name": "お好み焼バーガー",
+    "one_liner": "千房コラボの贅沢な味わい"
+  },
+  {
+    "id": "c8dad234fd7fa6301b718a69c69118d2",
+    "shop": "コメダ珈琲店",
+    "name": "コメダ「初コラボです」“予想外の新メニュー”発表「やば」「想定より大きいんだろ」「関西人もびっくり」（ねとらぼ） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFJOc2lkUURMNG5MVmF4WmhuZGZxZ1lJUC11anFVcUFiQVRMenBuRllQNF",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFJOc2lkUURMNG5MVmF4WmhuZGZxZ1lJUC11anFVcUFiQVRMenBuRllQNFVldU1LcWFsb09id3NBRU5XOWdjVUI3TWZlX3RmSDhiZjF1bjQ1XzhNd21tY1pjcVNiRjhad1JOU2hvTVlXR2ctNDZHUU5WdktDbVAzc013dm51clhxdHZRcXBn?oc=5",
+    "category": "cafe",
+    "published": "Tue, 06 Oct 2026 08:57:40 GMT",
+    "fetched_at": "2026-10-07T01:52:25.314409",
+    "menu_name": "初コラボの新メニュー",
+    "one_liner": "コメダ珈琲店初の驚きのコラボメニュー"
+  },
+  {
+    "id": "754659dea761cbdbf197785c35a2231b",
+    "shop": "コメダ珈琲店",
+    "name": "1杯190円〜で専門店の味を！ 【無印良品】世界5カ国の「シングルオリジンコーヒー8種」が登場。カフェインレスの展開も - 朝日新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RkFJQUQyZ2hscFdRajhzNXJsek9QMnpnYkRkNnFNY2FXS2EwdDRCaXlQOX",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RkFJQUQyZ2hscFdRajhzNXJsek9QMnpnYkRkNnFNY2FXS2EwdDRCaXlQOXRBT2dYMlFSMk9lSmx3M2F0QkZVSExZTWp1dmdFR0xtY2JfcmdZYTBkWXhKOEhLZw?oc=5",
+    "category": "cafe",
+    "published": "Sun, 20 Sep 2026 03:32:17 GMT",
+    "fetched_at": "2026-10-07T01:52:25.926450",
+    "menu_name": "世界5カ国の「シングルオリジンコーヒー8種」",
+    "one_liner": "1杯190円から楽しめる専門店の味"
+  },
+  {
+    "id": "3c1a4bc29dca678e7f16cb190498f245",
+    "shop": "かつや",
+    "name": "かつや「海老トリプル丼」新登場 海老カツ・海老フライ・海老クリームコロッケを盛り合わせ - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EX3NrTEtSX0gxTE1Zd2dYb2xaNTZPemQxRTRGWDM3WGRqcWFLem8zUTVvQm",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EX3NrTEtSX0gxTE1Zd2dYb2xaNTZPemQxRTRGWDM3WGRqcWFLem8zUTVvQmRNcWFZakRFX21zaDRHSWdaeV9YRlZjaEdlMDZydG1DVw?oc=5",
+    "category": "don",
+    "published": "Tue, 06 Oct 2026 04:03:34 GMT",
+    "fetched_at": "2026-10-07T01:52:33.877877",
+    "menu_name": "海老トリプル丼",
+    "one_liner": "海老尽くしの贅沢な丼"
+  },
+  {
+    "id": "d1d7a48bd44d2629ec80dbb184638438",
+    "shop": "かつや",
+    "name": "「かつやには珍しいヘルシーメニュー」かつや、“突然健康志向に”？ 新商品登場「ヤバイ!!理想的な丼キタ!!」 - ｄメニューニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVV6b1VXYVBuR0xJaGlqbTdBNHV4eml4Q1lPTXNtSkNsNTROaU1wekJMNk",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVV6b1VXYVBuR0xJaGlqbTdBNHV4eml4Q1lPTXNtSkNsNTROaU1wekJMNktkZFQ0bVJHUGk2SDFibG1GRURROW1ZUlVFdG5LX2l2TkFqMm1yX0tFeHJWbTVDejBSVTZjU0txcnJaakdvU3RKMGEzd3AzSm54TWE1SDNtd3FJVDBSZmfSAYoBQVVfeXFMTXFVem9VV2FQbkdMSWhpam03QTR1eHppeENZT01zbUpDbDU0TmlNcHpCTDZLZGRUNG1SR1BpNkgxYmxtRkVEUTltWVJVRXRuS19pdk5BajJtcl9LRXhyVm01Q3owUlU2Y1NLcXJyWmpHb1N0SjBhM3dwM0pueE1hNUgzbXdxSVQwUmZn?oc=5",
+    "category": "don",
+    "published": "Tue, 06 Oct 2026 03:45:00 GMT",
+    "fetched_at": "2026-10-07T01:52:33.878015",
+    "menu_name": "かつやの新メニュー",
+    "one_liner": "かつやが放つ理想的な健康志向丼"
+  },
+  {
+    "id": "cb51b90ac5c8848b1032ab2c71d0159f",
+    "shop": "ココス",
+    "name": "ココス「マロンフェア」開催、イタリア栗の濃厚な味わいを楽しむデザート5品 - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE41ZHJ6Wkc2WlY0dHhyOXl4em5EMEdHRE1GU19IT051Rlh6Z2hNUFNuRDU3T0",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41ZHJ6Wkc2WlY0dHhyOXl4em5EMEdHRE1GU19IT051Rlh6Z2hNUFNuRDU3T0FjRjViM2VVWG82UkRRc003aTk3SWgzLVBKeXAyNG8zTA?oc=5",
+    "category": "family",
+    "published": "Tue, 06 Oct 2026 04:03:34 GMT",
+    "fetched_at": "2026-10-07T01:52:41.528507",
+    "menu_name": "マロンフェア",
+    "one_liner": "イタリア栗の濃厚な味わい"
+  },
+  {
+    "id": "b8e4ac647b99b3bffa4032b035dd47ff",
+    "shop": "びっくりドンキー",
+    "name": "びっくりドンキーの自社醸造の味わい。季節限定「フランボワーズレッド」を10月7日（水）より販売お酒のお供にぴったりな - ニコニコニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE90R0w4NTZQb1hDRElSWGJkWC00Tkk0LTAxV3VTOG5YcG1LTVdYQml3bThZS0",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90R0w4NTZQb1hDRElSWGJkWC00Tkk0LTAxV3VTOG5YcG1LTVdYQml3bThZS0NUUTEzT0NuYWdsZ2tzbUc4QVhseUFqajZsN1VCUmV0RUJvSUF5R3RocHdrZ0l1TnBEaTI1a1F6eVozdXl1TWxGYnRIN2JUUQ?oc=5",
+    "category": "family",
+    "published": "Tue, 06 Oct 2026 14:15:41 GMT",
+    "fetched_at": "2026-10-07T01:52:42.570132",
+    "menu_name": "フランボワーズレッド",
+    "one_liner": "お酒のお供に最適な自社醸造ビール"
   }
 ]
