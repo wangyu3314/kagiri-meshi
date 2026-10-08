@@ -1,41 +1,5 @@
 [
   {
-    "id": "601d9bd282061fb009c4746b87f1d597",
-    "shop": "スターバックス",
-    "name": "ティー特化「スタバ」、アッサムが新たな定番茶葉に！ ミルクやソーダで楽しむ新作ビバレッジも発売 - article.auone.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBzbEZSRGdSb21SMmxmQ2ItUVpILXg0X0RzOWo5d3c0alluZmRPdDRQUHFoME",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzbEZSRGdSb21SMmxmQ2ItUVpILXg0X0RzOWo5d3c0alluZmRPdDRQUHFoMElPeHJmYjMzU3doSnVvYlc0RHZVZmdkb21GRmJYSnBtVkkzNzJaS0g3dkhNNnlJc0ZOa0k5YWtiQnd3?oc=5",
-    "category": "cafe",
-    "published": "Sun, 06 Sep 2026 03:59:23 GMT",
-    "fetched_at": "2026-09-07T00:24:27.707333",
-    "menu_name": "アッサム",
-    "one_liner": "ミルクやソーダで楽しむ新たな定番茶葉"
-  },
-  {
-    "id": "5fa3d6d31b50dfc959bdfd0c09b79dd7",
-    "shop": "ドトールコーヒー",
-    "name": "さつまいもを使った「蜜芋オレ」「ミルクレープ」「モンブランムース」の3品を新発売【ドトール】 - 食品産業新聞社ニュースWEB",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MM3BtbzdNd0NPVTJ2dktzcGd4Rmw0NXlrRkFJY05OdXlsQk9ZLUtxOWpzVX",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MM3BtbzdNd0NPVTJ2dktzcGd4Rmw0NXlrRkFJY05OdXlsQk9ZLUtxOWpzVXVZekRSWFVrejN3X052cU5MLXRyMV9LbS14Zw?oc=5",
-    "category": "cafe",
-    "published": "Sun, 06 Sep 2026 02:39:43 GMT",
-    "fetched_at": "2026-09-07T00:24:29.312112",
-    "menu_name": "蜜芋オレ、ミルクレープ、モンブランムース",
-    "one_liner": "秋の味覚、さつまいもを堪能できる新作スイーツ"
-  },
-  {
-    "id": "fb1133aeb80be3270a15ec49ee0155d0",
-    "shop": "はま寿司",
-    "name": "とろけるような味わいの中とろが今だけ100円（税込110円）！「はま寿司の中とろ100円と大漁！旨ねた祭り」開催！ - hama-sushi.co.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KMVk2QUtTaW1EU1dwSE96eng4TnpNN0FQTGVTRUxVRlJtNV9WSzJzRm96MX",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KMVk2QUtTaW1EU1dwSE96eng4TnpNN0FQTGVTRUxVRlJtNV9WSzJzRm96MXQtRGh3Szh0WGhyVkxYTVhUU1ZtUGZyM2VvM0p4d0pBWlE4S1kyck42M1ZTY2dtbUJHZVE?oc=5",
-    "category": "sushi",
-    "published": "Mon, 07 Sep 2026 01:04:44 GMT",
-    "fetched_at": "2026-09-08T00:45:58.630307",
-    "menu_name": "中とろ",
-    "one_liner": "とろける味わいの中とろが今だけ110円"
-  },
-  {
     "id": "ee8b0ee3dc68cf252d16e8452a562833",
     "shop": "はま寿司",
     "name": "はま寿司が、中とろを『100円』で販売してる。かんぱち・一本穴子など期間限定ネタや、スイーツも登場 - 神戸ジャーナル",
@@ -130,18 +94,6 @@
     "fetched_at": "2026-09-09T00:45:37.888611",
     "menu_name": "カプセルトイコイン付きおこさまメニュー",
     "one_liner": "はらぺこあおむしの玩具付きお子様メニュー"
-  },
-  {
-    "id": "82ad85091c757eac4ee3da47be2f0805",
-    "shop": "ケンタッキーフライドチキン",
-    "name": "【きょうから】ケンタッキー“夏の風物詩”が今年も 愛され「レッドホットチキン」登場＆待望「グリーンホットウィング」リニューアル復活 - sanyonews.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQ2MwMUVidV9yZVFlU3J3UHpXYmFTZm9BTTNhZlR5OFNLRjhSYkpjWUdYS2",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQ2MwMUVidV9yZVFlU3J3UHpXYmFTZm9BTTNhZlR5OFNLRjhSYkpjWUdYS2pYSkpLR1VPTXg1TlF6UUUtNC1ldFZ3OWFvZ1V0d3c?oc=5",
-    "category": "burger",
-    "published": "Sun, 06 Sep 2026 04:26:21 GMT",
-    "fetched_at": "2026-09-09T00:45:48.568377",
-    "menu_name": "レッドホットチキン、グリーンホットウィング",
-    "one_liner": "夏の定番辛口チキンが今年も登場"
   },
   {
     "id": "39b6bd4280c73e1d6d8bda700340aee2",
@@ -250,18 +202,6 @@
     "fetched_at": "2026-09-09T00:46:29.291782",
     "menu_name": "鶏白湯らーめん、担担麺、麻辣担担麺",
     "one_liner": "秋を彩る至極の3種の麺が新登場"
-  },
-  {
-    "id": "584390ffe3aeb21a2054c700a863162c",
-    "shop": "ドミノ・ピザ",
-    "name": "秋ドミノ、食欲に全力で応える。「香ばしバター醤油キノコとごろごろミートの秋クワトロ」「ドミノシェイク 安納芋」9月14日（月）から期間限定発売！ - prtimes.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1XT0doLXdYRkdVVm5jS3ktanlYNjNNQWwxLVJ5SzlnRi1iTnVBa0NhWXhJTD",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XT0doLXdYRkdVVm5jS3ktanlYNjNNQWwxLVJ5SzlnRi1iTnVBa0NhWXhJTDdPOTNsbnd4M1A2MmxkNm1aTmhqeTlDMk5DMmRvek9JaEkzbHNyQWNrZHZTbVdCdmxXbDBXaWc?oc=5",
-    "category": "pizza",
-    "published": "Mon, 07 Sep 2026 02:00:02 GMT",
-    "fetched_at": "2026-09-09T00:46:33.927881",
-    "menu_name": "香ばしバター醤油キノコとごろごろミートの秋クワトロ、ドミノシェイク 安納芋",
-    "one_liner": "秋の味覚を堪能できる贅沢メニュー"
   },
   {
     "id": "93595fc2dabd4fd237e6f17fe3861238",
@@ -622,18 +562,6 @@
     "fetched_at": "2026-09-15T01:03:12.571981",
     "menu_name": "３種薬味で食べる 豚しゃぶうどん",
     "one_liner": "たっぷりの豚肉を薬味でさっぱりと"
-  },
-  {
-    "id": "d107ac1a032a1add5385b6bd80ecda66",
-    "shop": "くら寿司",
-    "name": "【必食は10日間限定110円“かに軍艦”】くら寿司の秋フェアが本気すぎ！北海道産秋刀魚・無添加月見バーガー・贅沢スイー - ニコニコニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MR3dGRTNXM2gxQTQyUmtaQllCTTJEa1F0WUVpT0dqWFEwSG54UVA5Ul9YTV",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MR3dGRTNXM2gxQTQyUmtaQllCTTJEa1F0WUVpT0dqWFEwSG54UVA5Ul9YTVN3Q0g5MFV1cl9EcjhBUHl2TGg5LTd5b1RDYWR2UGlsNw?oc=5",
-    "category": "sushi",
-    "published": "Sun, 06 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-16T00:51:40.582725",
-    "menu_name": "かに軍艦・北海道産秋刀魚・無添加月見バーガー",
-    "one_liner": "秋の味覚を堪能できる超豪華フェア"
   },
   {
     "id": "6c859882b3e72d5c402938f2d6476a20",
@@ -2842,5 +2770,161 @@
     "fetched_at": "2026-10-07T01:52:42.570132",
     "menu_name": "フランボワーズレッド",
     "one_liner": "お酒のお供に最適な自社醸造ビール"
+  },
+  {
+    "id": "5ababdc31aea2777866a58f388cc8cd8",
+    "shop": "はま寿司",
+    "name": "今だけ中とろが110円！【はま寿司】「大漁！旨ねた祭り」で大満足の絶品寿司を食べてきた！ - au Webポータル",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaUxKX2Z3aXdGbWZjOWhDSEpKSE5XZllhZTY5Uko4V0tBdWs0Y3dmZjFTOV",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaUxKX2Z3aXdGbWZjOWhDSEpKSE5XZllhZTY5Uko4V0tBdWs0Y3dmZjFTOVQ4ZGtkdEMxQkttUTJkbnF4c29INlZiQXpMX3lHcEcxVmZPbjdaTmRSS285LWotdkNHMVJLUDBLVWtteHFtRElKY0xCSw?oc=5",
+    "category": "sushi",
+    "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-08T02:19:06.257712",
+    "menu_name": "中とろ",
+    "one_liner": "110円で味わえる絶品中とろ"
+  },
+  {
+    "id": "067cbe74aa241716619a32bfced2db00",
+    "shop": "マクドナルド",
+    "name": "マクドナルド、レギュラーメニューに“チキン”新商品10・21より発売 3種バーガー&1種サイドメニュー【詳細】 - オリコンニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fOElwczNBZ0dQVC1Sb0o3RmxJVzktMnZ5QnY0T01pdnBnaUwycDNBYlk1Sl",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fOElwczNBZ0dQVC1Sb0o3RmxJVzktMnZ5QnY0T01pdnBnaUwycDNBYlk1SllTcWdpUjRWWXNMZlM5M0JJVFBNN1Z3RXc3V3c?oc=5",
+    "category": "burger",
+    "published": "Thu, 08 Oct 2026 01:48:00 GMT",
+    "fetched_at": "2026-10-08T02:19:13.787414",
+    "menu_name": "チキン新商品",
+    "one_liner": "3種のバーガーとサイドの新メニュー"
+  },
+  {
+    "id": "dab87ba4ad5c26dcf0999891f777fd4f",
+    "shop": "スターバックス",
+    "name": "スターバックスに“飲むティラミス”登場、ふわふわマスカルポーネの「ティラミス・ベルベット」が11月発売 - DAILYSUN NEW YORK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE83dnBsSDZ4bVNsakxJMUFNQXg5TzFBWkRIWDJFVmVGUnNVZ2I4VURtRDRnV0",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83dnBsSDZ4bVNsakxJMUFNQXg5TzFBWkRIWDJFVmVGUnNVZ2I4VURtRDRnV0FRX1ZQX01hMHF2LUs5ejMxMTlYZjFPS3Fhak96cGVhWU9UMWtROGVXZGdXdE1wYw?oc=5",
+    "category": "cafe",
+    "published": "Tue, 06 Oct 2026 20:42:44 GMT",
+    "fetched_at": "2026-10-08T02:19:24.412688",
+    "menu_name": "ティラミス・ベルベット",
+    "one_liner": "ふわふわ食感の飲むティラミス"
+  },
+  {
+    "id": "7a55d445c04a20efd2dca5ea71ae187d",
+    "shop": "タリーズコーヒー",
+    "name": "タリーズに新スイーツ登場！さらにホットベーグルサンド復活！ - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HRnNKUE5LSWQxRVZSTXJMZWlxRmNfOUJYb0xEWjNmVmVTQUpuN3ZVREM5Nm",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HRnNKUE5LSWQxRVZSTXJMZWlxRmNfOUJYb0xEWjNmVmVTQUpuN3ZVREM5NmdPTEtMUXgyQ01TZnF1c2VhMU9FbzhvZF9IZVF2Nk1faNIBWkFVX3lxTE9EaXlzTjRhUWx6Y0Iwa1FjeXBpSzBhNGVrdmNmZ1lHTUJGdzBBYXkwLU90TFVJeGNWcHhzN0xhQXNqNGNnT3ZqNE1aZE1pSjZfd1ZQbE9aaXFFZw?oc=5",
+    "category": "cafe",
+    "published": "Wed, 07 Oct 2026 00:57:31 GMT",
+    "fetched_at": "2026-10-08T02:19:26.981101",
+    "menu_name": "新スイーツとホットベーグルサンド",
+    "one_liner": "新作スイーツと人気のベーグルが復活"
+  },
+  {
+    "id": "0707b0a0a4e7d18c309c8e3c599d5323",
+    "shop": "サンマルクカフェ",
+    "name": "「見かけたら絶対食べた方がいい」【サンマルクカフェ】期間限定750円新作芋パフェに「がちでうますぎる」「750円でいいんですか？」（ねとらぼ） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE03RWlvN19WTjB3M0R5MWp1NWc5blJ0Qkp5SWdxUEZDUjhKelBtVkJiVWk2WD",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03RWlvN19WTjB3M0R5MWp1NWc5blJ0Qkp5SWdxUEZDUjhKelBtVkJiVWk2WDZtZHJnZlZtRi1rN3NfcWVER21KMkw1M1FObnAyMlJmSXI4c2dyQU1XZE1OSElSbldENDJxcGc3VlZ2X3U3OVJUWDV3M1M3UWMweTA?oc=5",
+    "category": "cafe",
+    "published": "Thu, 08 Oct 2026 01:55:00 GMT",
+    "fetched_at": "2026-10-08T02:19:27.958105",
+    "menu_name": "期間限定750円新作芋パフェ",
+    "one_liner": "芋好き必見の絶品新作パフェ"
+  },
+  {
+    "id": "8331f364dc43150b7d5250ef590726d3",
+    "shop": "サンマルクカフェ",
+    "name": "サンマルクカフェ「プレミアムチョコクロ 生バナナ&カスタード」発売、生バナナ×カスタード風味の新作チョコクロ - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE02bnBLajB2UnhRX2FfVjMwS05XM3ctd1RiVm9GSFE0UDU3RUwwQnBJQl91d0",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02bnBLajB2UnhRX2FfVjMwS05XM3ctd1RiVm9GSFE0UDU3RUwwQnBJQl91d0FkbzlyVmpsdkhoNDlsWV9KNWxTYjlscWZ0VHRXS3ZnSw?oc=5",
+    "category": "cafe",
+    "published": "Tue, 06 Oct 2026 04:48:38 GMT",
+    "fetched_at": "2026-10-08T02:19:27.958209",
+    "menu_name": "プレミアムチョコクロ 生バナナ&カスタード",
+    "one_liner": "生バナナとカスタードの贅沢なチョコクロ"
+  },
+  {
+    "id": "a8fba3c7080eb99c3bba9d7add7cf554",
+    "shop": "すき家",
+    "name": "【すき家】低温調理でしっとり柔らかな「ローストポーク丼」が10月14日より新登場！食欲そそる特製醤油だれ＆温玉や山かけなど豊富なバリエーションで満足度抜群！ - めざましmedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TFhHWTRUSlVEY3Nwdi1NSXAzSWNWZXpOcEJncTR3OWhnbl9iWlJMeXUtan",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TFhHWTRUSlVEY3Nwdi1NSXAzSWNWZXpOcEJncTR3OWhnbl9iWlJMeXUtanhEQzVJVGJJVGFHbmpSakFESngxdXhiU2ZDdmlPTU53Tzg0d181Mkk?oc=5",
+    "category": "don",
+    "published": "Wed, 07 Oct 2026 04:00:00 GMT",
+    "fetched_at": "2026-10-08T02:19:33.260271",
+    "menu_name": "ローストポーク丼",
+    "one_liner": "低温調理でしっとり柔らかな豚肉"
+  },
+  {
+    "id": "bddf2cc19ebbfaf02fad96a22bd03305",
+    "shop": "すき家",
+    "name": "【すき家】朝食メニューに使える30円引きクーポン登場中！10月12日までアプリ限定で配信。 - Ameba News [アメーバニュース]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUVR3c2NaRGNfdWl4UjZzOVk5S0V0eXVxWmJOZUw5ZS1vOU5MRlR6anVHZ0",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUVR3c2NaRGNfdWl4UjZzOVk5S0V0eXVxWmJOZUw5ZS1vOU5MRlR6anVHZ044M3psVllqbnBTWklNQktYT3g5M1dXbzh6SldwbGlzdFNMekYyME8wZFE?oc=5",
+    "category": "don",
+    "published": "Sun, 04 Oct 2026 04:03:43 GMT",
+    "fetched_at": "2026-10-08T02:19:33.261495",
+    "menu_name": "朝食メニュー",
+    "one_liner": "アプリ限定！朝食が30円引き"
+  },
+  {
+    "id": "c3a572a9948745299ce6a7cede3f15f8",
+    "shop": "松屋",
+    "name": "【松屋フーズ】とんかつ業態「松のや」監修「カツ丼の具」新発売！ ～厳選素材のカツ・タレ・卵が三位一体となった専門店の味 - ニコニコニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5wSXB2T05sRDlva2pqYmtNUlVUVVJNZG8yWFE3SUowZEpMakJjQ2lEWUNjb1",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wSXB2T05sRDlva2pqYmtNUlVUVVJNZG8yWFE3SUowZEpMakJjQ2lEWUNjb1o1cmlxVlBYTGlEa19HX05vQzFSM29TRE00WTFPb2h2RWVWT2xFQ08xTFZ6V3UzT18xbGdnbjFyNmF4YXhQd2JTWjdNTVJFdw?oc=5",
+    "category": "don",
+    "published": "Wed, 07 Oct 2026 16:30:19 GMT",
+    "fetched_at": "2026-10-08T02:19:35.040603",
+    "menu_name": "カツ丼の具",
+    "one_liner": "専門店が贈る本格カツ丼の味"
+  },
+  {
+    "id": "ca2f9146ead26a922bdb95167bf7dfc4",
+    "shop": "吉野家",
+    "name": "吉野家で焼きさんま！秋の新定食に北海道産さんまと牛小鉢-朝食の鮭も変更可【今日から期間限定】（おとなの週末） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB4UmI2WVl6YnJNY013SjJtU3lZZXZvNUNVYUJMSXdiUHFzVk9rczJuOTNieD",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4UmI2WVl6YnJNY013SjJtU3lZZXZvNUNVYUJMSXdiUHFzVk9rczJuOTNieDg3YW5NSGpHdGJacThNNXhmbThpMGtKRmExbzZwLVB6ZUdLdjFpZkl1bmFjSFJ1SXFQOHNEUG9ZTV9jb1RPamdtQ19ZaXBLMWNPcGs?oc=5",
+    "category": "don",
+    "published": "Wed, 07 Oct 2026 23:00:06 GMT",
+    "fetched_at": "2026-10-08T02:19:36.843517",
+    "menu_name": "焼きさんま",
+    "one_liner": "北海道産さんまと牛小鉢の秋定食"
+  },
+  {
+    "id": "cc113f113420e1064eb4cf82d0697641",
+    "shop": "なか卯",
+    "name": "なか卯、鹿児島県産の鰹を藁焼きにした「柚子オニオン 藁焼き鰹たたき丼」を限定発売！ - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE40Q2hvb2lHa2dQdEcwc2NxWHZNdUU0dWZfY1JOMWlhTGhjX21XNHd0V0dKdH",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Q2hvb2lHa2dQdEcwc2NxWHZNdUU0dWZfY1JOMWlhTGhjX21XNHd0V0dKdHVNdzB5RFp3RU5hUTBLazVldXB4SUt2YlpsUFp3TVlVT29QSkp6eEJuU2o1bUI4U2lFUFVLX1E?oc=5",
+    "category": "don",
+    "published": "Wed, 07 Oct 2026 03:21:21 GMT",
+    "fetched_at": "2026-10-08T02:19:38.456818",
+    "menu_name": "柚子オニオン 藁焼き鰹たたき丼",
+    "one_liner": "香り高い藁焼き鰹を柚子でさっぱりと"
+  },
+  {
+    "id": "8ebb38b406d88726e7028a418a6b8148",
+    "shop": "夢庵",
+    "name": "絶品肉の雪崩が起きる！夢庵で大人気のローストビーフ丼に特盛登場 - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rMm1uVUk4bHVWbE9QMm1LZGtlQ0tXaVB4ejJxM0hWQ3Btak81ZWNJSmRXa2",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rMm1uVUk4bHVWbE9QMm1LZGtlQ0tXaVB4ejJxM0hWQ3Btak81ZWNJSmRXa2xkU2oxZ1g0eEVVWXJWLWFxdWlvOEZ3UkZQeUloWGx30gFYQVVfeXFMT0V4STJYSkdSS25xTTcyNXdibVhHRFF1YkJRak1mS2lIazViZkd1ZHU3eDNWem0ydk1PUXpqZzdLT3JSam9Vc21oRFg2XzJEOXc4OGVBeXBiUQ?oc=5",
+    "category": "family",
+    "published": "Tue, 06 Oct 2026 22:40:02 GMT",
+    "fetched_at": "2026-10-08T02:19:55.529591",
+    "menu_name": "ローストビーフ丼 特盛",
+    "one_liner": "絶品肉の雪崩が起きる特盛丼"
+  },
+  {
+    "id": "7349afbb631d00ece70aa9325ddf4356",
+    "shop": "丸亀製麵",
+    "name": "魁力屋、総重量約1000g！「にんにく背脂鶏白湯G」を発売。トロッと濃厚な「濃厚鶏白湯らぁめん」も登場 - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSTZqWmR1SGgyS205UXh0MVZtdFFDaHNoNmNNa0htSDhBOG5GT2ZRZlhGQm",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSTZqWmR1SGgyS205UXh0MVZtdFFDaHNoNmNNa0htSDhBOG5GT2ZRZlhGQmNDVXJvclRVb1Z5OFE1Y2RTMDVnREduRGRKUEQwTHdCc2lveFlVTTdKSmJYRDFudy1KUTJNZVE?oc=5",
+    "category": "men",
+    "published": "Tue, 06 Oct 2026 01:59:19 GMT",
+    "fetched_at": "2026-10-08T02:19:57.222078",
+    "menu_name": "にんにく背脂鶏白湯G、濃厚鶏白湯らぁめん",
+    "one_liner": "総重量1000gの背脂と濃厚鶏白湯"
   }
 ]
