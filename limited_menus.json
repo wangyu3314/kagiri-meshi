@@ -1,77 +1,5 @@
 [
   {
-    "id": "9a4688e0a0895768c916ba1175cd171a",
-    "shop": "マクドナルド",
-    "name": "【マクドナルド】「プリプリエビプリオ」が今年も登場、ランダムでハート型 - 夜マック限定「食べくらべポテナゲ」も発売 - au Webポータル",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aEpFbEtQNG5yNDc4X2tscFNzWEpXN2k2ME1qU0lrNmxqMkV1cTgxbTBYWX",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aEpFbEtQNG5yNDc4X2tscFNzWEpXN2k2ME1qU0lrNmxqMkV1cTgxbTBYWXMyZFpvU3Y4dTYtcEtuVmhlQWFDQlI4cmU5TzY1aWpFdW5vNncyckxkLUp5MWZtbURQVVpJT2hySVVR?oc=5",
-    "category": "burger",
-    "published": "Wed, 09 Sep 2026 07:30:35 GMT",
-    "fetched_at": "2026-09-10T00:41:41.629449",
-    "menu_name": "プリプリエビプリオ",
-    "one_liner": "プリプリ食感でハート型も入ったエビメニュー"
-  },
-  {
-    "id": "0ab4c6a83ba30363f84eccee0effed88",
-    "shop": "マクドナルド",
-    "name": "ハッピーセット「すみっコぐらし」「プラレール」発売 全9種×2シリーズ、週末プレゼントも - 食品産業新聞社ニュースWEB",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sMmhCZWU1Yk5jZG5VN1BtUlh6V1h6REFsRjRXbEtrREpJdWRIS3JuSWVYNX",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sMmhCZWU1Yk5jZG5VN1BtUlh6V1h6REFsRjRXbEtrREpJdWRIS3JuSWVYNXZoTFpidUpDZWplWDdkSnd5WXJRY3huN1dGR3JqQlpNZQ?oc=5",
-    "category": "burger",
-    "published": "Wed, 09 Sep 2026 07:17:28 GMT",
-    "fetched_at": "2026-09-10T00:41:41.629916",
-    "menu_name": "ハッピーセット「すみっコぐらし」「プラレール」",
-    "one_liner": "人気キャラと電車のおもちゃが登場"
-  },
-  {
-    "id": "b9c028754c20aada256396ebdeb91b2c",
-    "shop": "バーガーキング",
-    "name": "バーガーキングの「テリヤキワッパーセット」が300円オフ！期間限定の“ワッパー祭り”はお得にお腹いっぱいになれるんです！ - ハフポスト",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2txX3VMaXYyZVNaQ0VPZ1FyNzRCRG5GY1NvVXBLTlI1eWkxcTUtWndncE",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2txX3VMaXYyZVNaQ0VPZ1FyNzRCRG5GY1NvVXBLTlI1eWkxcTUtWndncEo2Q3gtTUQ1OVVBQXk1ZFZnTTJORG5UX08zTFpOejJFbTJEZng4SG5BaFpabWxUSmpWbnFWZVRYWUZIanAxQW92b1VUTmRfWTlwNE1LSjZDcmkzUjlKU2tkYXJNR0o5Y183?oc=5",
-    "category": "burger",
-    "published": "Wed, 09 Sep 2026 09:30:17 GMT",
-    "fetched_at": "2026-09-10T00:41:44.679280",
-    "menu_name": "テリヤキワッパーセット",
-    "one_liner": "300円オフで楽しめる期間限定キャンペーン"
-  },
-  {
-    "id": "7daf44151493f628f5627c2809d52f37",
-    "shop": "バーミヤン",
-    "name": "【本日発売】バーミヤンの背徳麺「バミ郎」に新味！ 背脂×にんにくの濃厚な一杯 - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xWWRQb0JjVU1fM0tJc3NEWUNjWENONWVVMVp6OG5ZeTNaYzduRzRLUTdWbE",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xWWRQb0JjVU1fM0tJc3NEWUNjWENONWVVMVp6OG5ZeTNaYzduRzRLUTdWbERlRk1TZDIzN2xKYzB4Nk1wcUJiUVFMOUZXR2FQV21fZ0F6U01WQWNRbFR6dg?oc=5",
-    "category": "family",
-    "published": "Thu, 10 Sep 2026 00:31:39 GMT",
-    "fetched_at": "2026-09-10T00:42:22.039319",
-    "menu_name": "バミ郎",
-    "one_liner": "背脂とにんにくが効いた濃厚な一杯"
-  },
-  {
-    "id": "0d4a29463f5ac75d54103d4ecfcf5c8b",
-    "shop": "日高屋",
-    "name": "日高屋で新生活スタートを楽しもう！＞人気No.1メニュー「餃子」がリニューアル！新メニュー＆新キャンペーンもスタート！！ - CLASSY.[クラッシィ]",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE11QVRGbUJkVjZRWWhWanA1bkhYVlVodFhvaXZGNXN6NWFFRmlYTkFKNDFBT2",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11QVRGbUJkVjZRWWhWanA1bkhYVlVodFhvaXZGNXN6NWFFRmlYTkFKNDFBT283bkYtRkJtUDJMVWJmazZDWHNDZXdIMm5pazBYXzJOQ1ROMA?oc=5",
-    "category": "ramen",
-    "published": "Wed, 09 Sep 2026 04:33:55 GMT",
-    "fetched_at": "2026-09-10T00:42:32.011489",
-    "menu_name": "餃子",
-    "one_liner": "より美味しくリニューアルした人気No.1メニュー"
-  },
-  {
-    "id": "986e895ba26a567c5469c05e5c8e5b69",
-    "shop": "かっぱ寿司",
-    "name": "“鯛出汁の旨味”が加わった、期間限定⾟ラーメン！かっぱ寿司×⾟ラーメンコラボ「鯛スープの海鮮 ⾟ラーメン」シリーズが9⽉17⽇（⽊）からかっぱ寿司全店にて販売開始 - cinemacafe.net",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xNEVCVjkwRkY1U0wyZVI3SHRvd0daRXhiYng0U1Vad25nQTZvVUxwdXk1RH",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xNEVCVjkwRkY1U0wyZVI3SHRvd0daRXhiYng0U1Vad25nQTZvVUxwdXk1RHE0ZXBYNWVRN2FPdExRWTh6SXluaUpwV01ZWWNld2tHOUpsMWZuTlZoV0FfT2w3eXM5TUx4?oc=5",
-    "category": "sushi",
-    "published": "Wed, 09 Sep 2026 07:43:13 GMT",
-    "fetched_at": "2026-09-11T00:37:50.854087",
-    "menu_name": "鯛スープの海鮮 ⾟ラーメン",
-    "one_liner": "鯛出汁の旨味が際立つ期間限定の辛ラーメン"
-  },
-  {
     "id": "b2caee6751199758157ccbb97b86893b",
     "shop": "ケンタッキーフライドチキン",
     "name": "ケンタッキー「にんにく醤油チキン」発売 “超にんにく醤油マヨ”も再登場 - 食品産業新聞社ニュースWEB",
@@ -132,18 +60,6 @@
     "one_liner": "旬の味覚と名古屋コーチンが食欲の秋を彩る"
   },
   {
-    "id": "6052a2b6d4ef63dfe20c21595b9fc8e2",
-    "shop": "はなまるうどん",
-    "name": "濃厚なつけ汁×讃岐うどんの喉越しが相性抜群！海老の旨みと風味が口いっぱいに広がる“新作”「濃厚海老つけ汁うどん」と“王道”「濃厚魚介豚骨つけ汁うどん」の2種を期間限定発売 - 讃岐うどんのはなまるうどん",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYQWx4U3JOcFJIMVlGcVVrTVhEQUNaRGtYWl9LV3JubnViMFFrdXdnZV9sd1",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYQWx4U3JOcFJIMVlGcVVrTVhEQUNaRGtYWl9LV3JubnViMFFrdXdnZV9sd1VHZDBHTnBZN0s3dWYwUHVDbi1uVzRXbjZuTWlLWDc1aUpPcjQ0ZU85NFBJeWhxQlQ?oc=5",
-    "category": "men",
-    "published": "Thu, 10 Sep 2026 01:04:20 GMT",
-    "fetched_at": "2026-09-11T00:38:37.074065",
-    "menu_name": "濃厚海老つけ汁うどん、濃厚魚介豚骨つけ汁うどん",
-    "one_liner": "濃厚つけ汁と讃岐うどんの絶妙な一杯"
-  },
-  {
     "id": "3acf5a7471ee1c258960b8a6fcd2826c",
     "shop": "幸楽苑",
     "name": "山椒ビリッ！ 幸楽苑にシビ辛「麻辣担担麺」860円、新作3種が登場 - ASCII.jp",
@@ -166,30 +82,6 @@
     "fetched_at": "2026-09-12T00:44:45.821770",
     "menu_name": "マクドナルド×明治アーモンドチョコレート",
     "one_liner": "絶対おいしい夢のコラボレーション"
-  },
-  {
-    "id": "ea92e8c3a59931a704bc853f4a9bb17c",
-    "shop": "松屋",
-    "name": "【松屋】主役級の存在感 松屋の豚汁を楽しむ！ 「定番メニューとの豚汁セット」発売 - prtimes.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9haVE4UzVVTF9pTlVFemcwZnRkN1J6cjRhcFJrRW1teFJmbHBQQXk2WTF3Vl",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9haVE4UzVVTF9pTlVFemcwZnRkN1J6cjRhcFJrRW1teFJmbHBQQXk2WTF3VlNBRm5vS3pSYWpBRy1QbWpvVktuNkJmamNnQjE0VVVVV05LSWdLQVB6RWFWQVhwSWY5dXlmSHc?oc=5",
-    "category": "don",
-    "published": "Thu, 10 Sep 2026 01:00:02 GMT",
-    "fetched_at": "2026-09-12T00:45:08.433175",
-    "menu_name": "定番メニューとの豚汁セット",
-    "one_liner": "松屋の豚汁を定番と一緒に楽しむ"
-  },
-  {
-    "id": "1a480a5d30de308940118920f37e98ff",
-    "shop": "松屋",
-    "name": "【Hervé Chapelier（エルベシャプリエ）】公式オンライン・松屋銀座にて限定販売！人気のパンサーブラン柄から特別モデル「704FB」が9月11日(金)より登場 - prtimes.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocWNXY1lMRFhpMWwyS082U1JmOHB4SjRrSHdTbTgwbDd2a1JFTXhnNEJMTG",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ocWNXY1lMRFhpMWwyS082U1JmOHB4SjRrSHdTbTgwbDd2a1JFTXhnNEJMTGdVek5Za3MxYkZfcmRjdjBCb3JqTWh3dUJTbXJCV3RUZ19wb0VhaWMxZ3dIbDBXZDloMk4zclE?oc=5",
-    "category": "don",
-    "published": "Thu, 10 Sep 2026 01:00:02 GMT",
-    "fetched_at": "2026-09-12T00:45:08.949085",
-    "menu_name": "パンサーブラン柄特別モデル「704FB」",
-    "one_liner": "人気のパンサー柄限定トート"
   },
   {
     "id": "7ab3165b47fde00346c882cf2409d980",
@@ -286,18 +178,6 @@
     "fetched_at": "2026-09-16T00:52:11.246822",
     "menu_name": "Bacha Coffeeのアフタヌーンティー",
     "one_liner": "高級コーヒーと共に楽しむ至福のティータイム"
-  },
-  {
-    "id": "c7a60c07b7a133990c2e1c2dcd60e50a",
-    "shop": "すき家",
-    "name": "すき家、シェイク新商品を発売 期間限定「Sukiシェイク ラムネ」 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVW5DTzhFLVdIb3pXMF8waDAxcmJqMUttVXA5cm1pN1N4LURlTjJJazVNVm",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVW5DTzhFLVdIb3pXMF8waDAxcmJqMUttVXA5cm1pN1N4LURlTjJJazVNVmRCRDdYbUplLWJHYW5oYkl4TEI3OW01bXh0YU9FVHpwLUYtVnVqUG9CYjVuemFTUGs3S1U?oc=5",
-    "category": "don",
-    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-16T00:52:13.059972",
-    "menu_name": "Sukiシェイク ラムネ",
-    "one_liner": "爽やかなラムネの風味が楽しめる期間限定シェイク"
   },
   {
     "id": "14d52cb2c863070820e6425d23ffab5c",
@@ -480,18 +360,6 @@
     "one_liner": "蜜芋のおいしさがたっぷり詰まった一杯"
   },
   {
-    "id": "c787ccaae6183e5211fc2e88574ad08d",
-    "shop": "すき家",
-    "name": "「9月得すきクーポン」第2弾を配信！ 期間限定商品やお子様商品をお得に楽しめるクーポンが登場 ｜ 新着情報 - すき家",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ONmo5N1RYYnYtQVZSVDU3OVJkcjNFcFZzXzBUS21ici1oNjVvT2RjdGVocE",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ONmo5N1RYYnYtQVZSVDU3OVJkcjNFcFZzXzBUS21ici1oNjVvT2RjdGVocENfcE9ReGZXVTZWbjJLaElHQVdQN2NEenZXU2ttUUJQSUlzcnYzSFVMcFlsZktvM3g?oc=5",
-    "category": "don",
-    "published": "Wed, 09 Sep 2026 19:26:17 GMT",
-    "fetched_at": "2026-09-18T00:52:03.057384",
-    "menu_name": "9月得すきクーポン",
-    "one_liner": "期間限定商品をお得に楽しめる"
-  },
-  {
     "id": "7f8d47e6c948139a272018c3ce053312",
     "shop": "松屋",
     "name": "\"野菜仕立て\"の本格インドカレーを松屋流で「ほうれん草とカッテージチーズのカレー」発売 - matsuyafoods.co.jp",
@@ -634,18 +502,6 @@
     "fetched_at": "2026-09-21T00:35:15.271277",
     "menu_name": "韓国フェアプレート",
     "one_liner": "旨辛メニューと茶碗蒸しが食べ放題"
-  },
-  {
-    "id": "07adf9f1cc6d80edffe19611055f90cc",
-    "shop": "ゼッテリア",
-    "name": "【ゼッテリア】思わずかぶりつきたくなる圧倒的な食べ応え！パティとチーズを贅沢に重ねた濃厚な味わい ゼッテリア「月見バーガーフェア 第２弾」開催 - prtimes.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMmFIWUFHNlJzOHhjVTJ1U2g1YVJwVlZ6NmZQbExZVjRlRmVrR2tWblJPak",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMmFIWUFHNlJzOHhjVTJ1U2g1YVJwVlZ6NmZQbExZVjRlRmVrR2tWblJPak5IY1IwdlF0WHFWNUM4TFlzYTdBeUotVF85YkhDaWFKSUp4RW9tYmFTb2haT1pmMmhkSVFSSkE?oc=5",
-    "category": "burger",
-    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-21T00:35:25.316675",
-    "menu_name": "月見バーガーフェア 第２弾",
-    "one_liner": "パティとチーズを重ねた濃厚な味わい"
   },
   {
     "id": "88736b1bca5cfae458834824fdf009cd",
@@ -996,18 +852,6 @@
     "one_liner": "人気ポケモンが描かれた限定タンブラー"
   },
   {
-    "id": "375ed1373ce7cc0901839d80f67d86d7",
-    "shop": "スターバックス",
-    "name": "スターバックス「中秋の名月」モチーフのタンブラー/マグ/ギフトなど発売。秋の味覚を楽しむフードも登場 - グルメ Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ONlJoOXdoYWhtSFVxTHhCT3BMU1o2Z3VOdzRFLTI1ejVobmVNMzFMSzdVX1",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ONlJoOXdoYWhtSFVxTHhCT3BMU1o2Z3VOdzRFLTI1ejVobmVNMzFMSzdVX1RQQzZlLS1KQ0YwMkZGS1NkT1JTLXNOM3pNcGlWMWlFUnoxaVQ5eURFdUxoVUZBVngyUHNLYkE?oc=5",
-    "category": "cafe",
-    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-27T00:59:22.586825",
-    "menu_name": "中秋の名月モチーフのタンブラー/マグ/ギフトおよび秋の味覚を楽しむフード",
-    "one_liner": "お月見気分と秋の味覚を堪能できる新作グッズとフード"
-  },
-  {
     "id": "b5da34e3caef9745474710ed86685d2f",
     "shop": "ミスタードーナツ",
     "name": "ミスタードーナツ、人気シリーズ「ポン・デ・ショコラシリーズ」今年は早めに登場 全3種が9・30から期間限定で発売（オリコン） - Yahoo!ニュース",
@@ -1186,18 +1030,6 @@
     "fetched_at": "2026-09-28T01:15:23.164155",
     "menu_name": "ごまごま",
     "one_liner": "日本未発売の濃厚ごまスイーツ"
-  },
-  {
-    "id": "860968af4c4c967ef0d0c83817a3e6be",
-    "shop": "コメダ珈琲店",
-    "name": "コメダ珈琲店のお月見メニュー「フルムーンバーガー」「シロノワール 焼き芋」などが登場 - 名古屋情報通",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RGFYMVlSV1ZMcHpwZTdjaUtiRWpRS1J0RnYtaHhVZlR4VzNjS1FucHhWU2",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04RGFYMVlSV1ZMcHpwZTdjaUtiRWpRS1J0RnYtaHhVZlR4VzNjS1FucHhWU2JmQWkzbnYySERvcUw0R2Fzbkl2NzlxSzlWSHNyZkE?oc=5",
-    "category": "cafe",
-    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-28T01:15:23.756629",
-    "menu_name": "フルムーンバーガー、シロノワール 焼き芋",
-    "one_liner": "秋の味覚を堪能できる季節限定メニュー"
   },
   {
     "id": "664d125cc1029ca477b77da474bdabea",
@@ -1522,18 +1354,6 @@
     "fetched_at": "2026-09-30T01:41:01.264827",
     "menu_name": "新米フェア",
     "one_liner": "全店でライスおかわり無料"
-  },
-  {
-    "id": "ddce218c293e36867861bb57c9e731b3",
-    "shop": "なか卯",
-    "name": "【なか卯】秋の訪れを感じる、お月見シーズンにもぴったりの一杯！旨みのある牛肉と温たまが織りなす至福の味わい なか卯が季節限定の「月見温たま牛肉つけうどん」を発売｜Infoseekニュース - Infoseek",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE81TzFfRjBUQW1uM1RMZ2xWOWdQTWZRSVByZEZ3TGxNdHZnNU4tNU55VlpoVE",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81TzFfRjBUQW1uM1RMZ2xWOWdQTWZRSVByZEZ3TGxNdHZnNU4tNU55VlpoVEU5TGVLd0hNZ3Y3T044XzQyNU12NHZrN0xzSW51YXFvRXNQbmV1VHdaaFUwLWtuYVpCeGFUOHUtQ0JibXJmQQ?oc=5",
-    "category": "don",
-    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-30T01:41:04.491149",
-    "menu_name": "月見温たま牛肉つけうどん",
-    "one_liner": "牛肉と温たまが織りなす至福の味わい"
   },
   {
     "id": "e93cade78f2f22e7b924feadc9e22fa6",
@@ -1942,18 +1762,6 @@
     "fetched_at": "2026-10-04T02:11:50.410872",
     "menu_name": "限定アクリルカラビナ付きセット",
     "one_liner": "制服姿のキャラが可愛い限定セット"
-  },
-  {
-    "id": "14e6ff607fe8c492bcb359a7f3b53463",
-    "shop": "ゼッテリア",
-    "name": "【ゼッテリア】秋限定「紅はるかお芋フェア」が9月9日から開催!贅沢シェーキやサクサクパイなど全5品で秋のスイーツタイムを満喫 - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1HallrTVBrR0tpUVowY1UtZENIaWt5VUlzMjQ5NDViMUJTWUxlcnVGQ0dWZz",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HallrTVBrR0tpUVowY1UtZENIaWt5VUlzMjQ5NDViMUJTWUxlcnVGQ0dWZzhZTl9Fb0dwdUxhRFByRkVpX290WGdtaWR3Z21TQjRuNF9BZnNCZnhnaDVEUk4wTHgwa0doQUlja05nMVh3TTZYM3FEZGFYTm9JeUk?oc=5",
-    "category": "burger",
-    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-04T02:11:50.411865",
-    "menu_name": "紅はるかお芋フェア",
-    "one_liner": "秋の味覚、紅はるかの贅沢スイーツ"
   },
   {
     "id": "aa54ed9615c3161d2a7c758b1089a68b",
@@ -2940,27 +2748,99 @@
     "one_liner": "旬の国産白桃を贅沢に使った逸品"
   },
   {
-    "id": "8224208055d1b4e0012df9f9e1eb9f70",
-    "shop": "富士そば",
-    "name": "名代富士そばがナイロンサコッシュを発売 - J-CAST ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9vempveTZOLUp6cHdrMExfQ1NveXpYUTNnd08tWGhyakJIeGhwZmZYOGw4QW",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vempveTZOLUp6cHdrMExfQ1NveXpYUTNnd08tWGhyakJIeGhwZmZYOGw4QWUyOVNkTzNCeTVOMncwVUtfUW14dEthbV9pUGYzNUNLWEJzTWFON28yQWdjX2hKbGlEd1RCWlBvaA?oc=5",
-    "category": "men",
-    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-10T01:57:59.130256",
-    "menu_name": "ナイロンサコッシュ",
-    "one_liner": "富士そばロゴ入りの限定サコッシュ"
+    "id": "53c88877dcf06bbdd77d29603a50ed8e",
+    "shop": "かっぱ寿司",
+    "name": "かっぱ寿司の「サラダ軍艦」に長野産りんご 10月から「長野市フェア」 ぶどうのパフェに、りんごソースの寿司、ながの5貫プレートも 「創業の地に恩返しを」 - NBS 長野放送",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UaC01RjFqdTV5VnlZVmg3SFVVT3NGWlBPalVOSGVSc2ZPc1praGFlM0V4NU",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UaC01RjFqdTV5VnlZVmg3SFVVT3NGWlBPalVOSGVSc2ZPc1praGFlM0V4NUdYYXRCU2xucVhNNnlmcW10d0pLR01VallSNDVSM1o5c0lzbkhpX2JqYVE?oc=5",
+    "category": "sushi",
+    "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-11T01:22:12.230139",
+    "menu_name": "サラダ軍艦に長野産りんご、ぶどうのパフェ、りんごソースの寿司、ながの5貫プレート",
+    "one_liner": "長野の魅力が詰まった期間限定メニュー"
   },
   {
-    "id": "59c15de8a751618e2feba26669deb013",
-    "shop": "幸楽苑",
-    "name": "幸楽苑が期間限定ラーメン3種類発売 9月15日から - 47NEWS",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE95MWJMaDRDVVkwSTlpUkZTRTlMOXlxY09TcEk4RTZLb0JZTjE0XzJzVVNMY1",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95MWJMaDRDVVkwSTlpUkZTRTlMOXlxY09TcEk4RTZLb0JZTjE0XzJzVVNMY19NaXdtYkttb1dtbHFzcGI0Zlo1MklTTQ?oc=5",
-    "category": "ramen",
-    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-10T01:58:00.974009",
-    "menu_name": "期間限定ラーメン3種類",
-    "one_liner": "秋の味覚を楽しめる新作ラーメン"
+    "id": "642074abf536b06cfd73fdc3fddf8d54",
+    "shop": "マクドナルド",
+    "name": "マクドナルド「プリプリエビプリオ」発売 ハート型が今年も登場、290円～ - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1UjRhSmRTWjVtX2xrOS0xWkF0YmtYeENSZzBhMzQ2MTBzZnpTMFlKTHRGUW",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1UjRhSmRTWjVtX2xrOS0xWkF0YmtYeENSZzBhMzQ2MTBzZnpTMFlKTHRGUWhUMlRtRHhsYVFhUTNUdmZEb19mOGVVYmcxNzAzbWFucg?oc=5",
+    "category": "burger",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-11T01:22:15.693171",
+    "menu_name": "プリプリエビプリオ",
+    "one_liner": "ハート型が可愛いぷりぷり食感のサイドメニュー"
+  },
+  {
+    "id": "2bcf16f09209d2bbc978e0bb98ea1a2d",
+    "shop": "タリーズコーヒー",
+    "name": "「TULLY’S COFFEE Seattle Style BLACK」「同 Café au Lait」を、10月5日（月）に新発売 - 伊藤園 企業情報",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KSjlsS1hiWFFiTmtKbmlDdGhCdkN3Xzg3VG81ZFRwQUl6a3plTVE4d2FnME",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KSjlsS1hiWFFiTmtKbmlDdGhCdkN3Xzg3VG81ZFRwQUl6a3plTVE4d2FnMExXWk1nV25Lc3ZVT3ZHbnVjSU9yb05kMTNJLTZFd0JicUJn?oc=5",
+    "category": "cafe",
+    "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-11T01:22:27.262162",
+    "menu_name": "TULLY’S COFFEE Seattle Style BLACK」「同 Café au Lait",
+    "one_liner": "シアトルスタイルの本格コーヒー"
+  },
+  {
+    "id": "8051a89e708c684cfb7c5f60f5064045",
+    "shop": "コメダ珈琲店",
+    "name": "コメダ珈琲店、キャラメル尽くしの秋冬限定商品 『シロノワール キャラメルアップル』など4種登場（オリコン） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSUpaU2M5UURqZEFZV1FRbGNuc0s3YnNzLVVYUG04OTZWV1YyMDY0RVF1M3",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSUpaU2M5UURqZEFZV1FRbGNuc0s3YnNzLVVYUG04OTZWV1YyMDY0RVF1M3dvWFRtWndCaFk4djNpRDZ4bmk5NnplcDZVd3lQd2hENkNkd295UFVxNGs5Z2N1aFBpdDBNT3owVTRkNHpUZTQ4WXczQWQxNUo3ZHc?oc=5",
+    "category": "cafe",
+    "published": "Thu, 08 Oct 2026 08:24:00 GMT",
+    "fetched_at": "2026-10-11T01:22:30.772741",
+    "menu_name": "シロノワール キャラメルアップル",
+    "one_liner": "キャラメルと林檎の贅沢な味わい"
+  },
+  {
+    "id": "c787ccaae6183e5211fc2e88574ad08d",
+    "shop": "すき家",
+    "name": "「9月得すきクーポン」第2弾を配信！ 期間限定商品やお子様商品をお得に楽しめるクーポンが登場 ｜ 新着情報 - すき家",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ONmo5N1RYYnYtQVZSVDU3OVJkcjNFcFZzXzBUS21ici1oNjVvT2RjdGVocE",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ONmo5N1RYYnYtQVZSVDU3OVJkcjNFcFZzXzBUS21ici1oNjVvT2RjdGVocENfcE9ReGZXVTZWbjJLaElHQVdQN2NEenZXU2ttUUJQSUlzcnYzSFVMcFlsZktvM3g?oc=5",
+    "category": "don",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-11T01:22:32.465129",
+    "menu_name": "9月得すきクーポン",
+    "one_liner": "期間限定商品や子供向け商品がお得に"
+  },
+  {
+    "id": "83ffd1eb3e8423f8bd02394d7935e587",
+    "shop": "ガスト",
+    "name": "餃子1個55円！都内に店舗が多い「てけてけ」の新メニューは\"ちょい足し\"にうれしい。 - 東京バーゲンマニア",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQXU3TVZOeVpHMTVibHhHS2M1RWhHanNlMGt3TFhmdzZ4eW0xdkRhVnI1cn",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQXU3TVZOeVpHMTVibHhHS2M1RWhHanNlMGt3TFhmdzZ4eW0xdkRhVnI1cnJ3TThoU2pqY1VRZWR3QU1hWGd4WDBUYmYtZGhPd0Ew?oc=5",
+    "category": "family",
+    "published": "Fri, 09 Oct 2026 08:03:39 GMT",
+    "fetched_at": "2026-10-11T01:22:41.776109",
+    "menu_name": "餃子",
+    "one_liner": "1個55円でちょい足しに最適"
+  },
+  {
+    "id": "b5563c63ba27a694e04e97dbb9548472",
+    "shop": "バーミヤン",
+    "name": "【本日発売】バーミヤンの背徳麺「バミ郎」に新味！ 背脂×にんにくの濃厚な一杯 - 週刊アスキー",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LOEZjTGxsMi1QNXZqYU5yZ1V4ZWZDTmx0NkN0UEw2NGxJZGtXMGhfVTNKN2",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LOEZjTGxsMi1QNXZqYU5yZ1V4ZWZDTmx0NkN0UEw2NGxJZGtXMGhfVTNKN2RQMGxmQTNoNGJPZzI3RS1TanNyWU9hbm01UFNWNXhZeUFNNjBMUWhhZmc?oc=5",
+    "category": "family",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-11T01:22:50.406072",
+    "menu_name": "バミ郎",
+    "one_liner": "背脂とにんにくが効いた濃厚な一杯"
+  },
+  {
+    "id": "6052a2b6d4ef63dfe20c21595b9fc8e2",
+    "shop": "はなまるうどん",
+    "name": "濃厚なつけ汁×讃岐うどんの喉越しが相性抜群！海老の旨みと風味が口いっぱいに広がる“新作”「濃厚海老つけ汁うどん」と“王道”「濃厚魚介豚骨つけ汁うどん」の2種を期間限定発売 - 讃岐うどんのはなまるうどん",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYQWx4U3JOcFJIMVlGcVVrTVhEQUNaRGtYWl9LV3JubnViMFFrdXdnZV9sd1",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYQWx4U3JOcFJIMVlGcVVrTVhEQUNaRGtYWl9LV3JubnViMFFrdXdnZV9sd1VHZDBHTnBZN0s3dWYwUHVDbi1uVzRXbjZuTWlLWDc1aUpPcjQ0ZU85NFBJeWhxQlQ?oc=5",
+    "category": "men",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-11T01:22:54.143987",
+    "menu_name": "濃厚海老つけ汁うどん、濃厚魚介豚骨つけ汁うどん",
+    "one_liner": "濃厚つけ汁と讃岐うどんの絶妙なハーモニー"
   }
 ]
