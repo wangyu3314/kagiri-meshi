@@ -72,18 +72,6 @@
     "one_liner": "ANAYIの華やかな新作夏コレクション"
   },
   {
-    "id": "1feee2fc05e4eca578487dfbb32c1550",
-    "shop": "びっくりドンキー",
-    "name": "【きょうから】びっくりドンキーのグランドメニューがリニューアル 「ガーリックチキンステーキ」や「シナモンロール」など全8種が新登場 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ydkh4M0Q3MDZLTDMwMS1tWnpmYkd4dTBfMk0xZGJ6NXpOMTY5WGFpLVpLTm",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ydkh4M0Q3MDZLTDMwMS1tWnpmYkd4dTBfMk0xZGJ6NXpOMTY5WGFpLVpLTmU3eThrNVlTMUlWZ1p2WGhmQURyS1hQYl96VlpTLUVYS1R4aXZnNG8?oc=5",
-    "category": "family",
-    "published": "Sat, 12 Sep 2026 16:27:51 GMT",
-    "fetched_at": "2026-09-16T00:52:29.703639",
-    "menu_name": "ガーリックチキンステーキ、シナモンロールなど全8種",
-    "one_liner": "びっくりドンキーが贈る新作メニュー全8種"
-  },
-  {
     "id": "7b2524fd7109267b060e3ea19dc9d1c2",
     "shop": "スシロー",
     "name": "【スシロー】9月16日から2つの\"2貫110円メニュー\"が新登場。食欲の秋にぴったり！（東京バーゲンマニア） - ｄメニューニュース",
@@ -406,18 +394,6 @@
     "fetched_at": "2026-09-23T00:59:50.590259",
     "menu_name": "岡山産シャインマスカット果汁使用 スムージー",
     "one_liner": "岡山産シャインマスカットの贅沢な一杯"
-  },
-  {
-    "id": "6fb2993d4736786bd5e373bbcd8c372d",
-    "shop": "スターバックス",
-    "name": "【韓国スタバ】9月15日発売！秋の新作「カステラサツマイモラテ」＆大人気ドリンクがケーキになった「ブラックグレ - k-trendtimes.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbnZnQ1g0MzRsN2FuenZjZ2s5OTdiZnY5YlQtTjgzblliWm9yTFdUZVRvTG",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbnZnQ1g0MzRsN2FuenZjZ2s5OTdiZnY5YlQtTjgzblliWm9yTFdUZVRvTGNObDdPcVFKbi1IRk1NeC1JQ2ZKbzdGMTJteDF5bGpvLVkybTRDV3V3Tnc?oc=5",
-    "category": "cafe",
-    "published": "Sat, 12 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-24T00:56:40.380525",
-    "menu_name": "カステラサツマイモラテ、ブラックグレーンケーキ",
-    "one_liner": "秋の味覚と人気味が楽しめる新作スイーツ"
   },
   {
     "id": "7ec71254764da398f70fcc19cf2eea6d",
@@ -2892,18 +2868,6 @@
     "one_liner": "北海道の絶品グルメが博多に集結"
   },
   {
-    "id": "87956141ac72e4857093417819469c82",
-    "shop": "バーミヤン",
-    "name": "バーミヤン40周年「謝謝バーミヤン」開催 紅白麻辣湯や限定スイーツが登場 - やしおん",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jdDZkTHZEbzM2X2VhMVlaVnNadThyLVJLTVIwRGVJVm8xWmUyQXE1TGZ0dE",
-    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jdDZkTHZEbzM2X2VhMVlaVnNadThyLVJLTVIwRGVJVm8xWmUyQXE1TGZ0dEpSbm9IeU1iVFZaMVc0OUp4WDRN?oc=5",
-    "category": "family",
-    "published": "Sat, 12 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-13T03:15:19.922168",
-    "menu_name": "紅白麻辣湯や限定スイーツ",
-    "one_liner": "40周年記念の特別中華メニュー"
-  },
-  {
     "id": "a11219087dce058d12b884a1fc4250e9",
     "shop": "幸楽苑",
     "name": "幸楽苑、全品860円の“冷製麺”3種を展開 セットだと“お得に”【期間限定】 - 山陽新聞",
@@ -2914,5 +2878,53 @@
     "fetched_at": "2026-10-13T03:15:28.168046",
     "menu_name": "冷製麺",
     "one_liner": "全品860円で楽しめる期間限定の冷製麺"
+  },
+  {
+    "id": "1beac8d1bf024b56a0d1bce741bb517c",
+    "shop": "スシロー",
+    "name": "スシロー“110円”の「本鮪中とろ」を14日から販売！ 一皿で2種を味わう「馬刺し食べ比べ」なども登場 - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1UV19vdEQ4UmpsT2praUxSSkVXbHdUYmNmaUNDM3p0dTlRRnJZTVJ1NW9qUT",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UV19vdEQ4UmpsT2praUxSSkVXbHdUYmNmaUNDM3p0dTlRRnJZTVJ1NW9qUTRSM1R3cGNZY3ViOG9qWko1cjQxWEhBc29WWW40ZEdVNmNUUmhfOUxhTUVMT2RMdVRITEUyUWc?oc=5",
+    "category": "sushi",
+    "published": "Tue, 13 Oct 2026 05:43:39 GMT",
+    "fetched_at": "2026-10-14T01:27:18.538917",
+    "menu_name": "本鮪中とろ、馬刺し食べ比べ",
+    "one_liner": "高級ネタをお得に楽しめる限定メニュー"
+  },
+  {
+    "id": "d5a8f1add5974e9d9685e351f7a8881f",
+    "shop": "コメダ珈琲店",
+    "name": "【コメダ珈琲店】季節限定『とろけるキャラメル』シリーズ販売！とろ〜り濃厚な秋の味わい！ - 久留米ファン",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2Vmo1cVdVc0FhOXhma3c3eE5pb1ZPNWU0cGN0bXVFQkloRXBwbmVnZTc1NG",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2Vmo1cVdVc0FhOXhma3c3eE5pb1ZPNWU0cGN0bXVFQkloRXBwbmVnZTc1NGcya1FLOHZsMUdtY3FaRWFXQjhzMFMxeEhRVkFKLUc2c0k4QQ?oc=5",
+    "category": "cafe",
+    "published": "Tue, 13 Oct 2026 10:04:31 GMT",
+    "fetched_at": "2026-10-14T01:27:43.474788",
+    "menu_name": "とろけるキャラメル",
+    "one_liner": "とろ〜り濃厚な秋の味わい"
+  },
+  {
+    "id": "588cdba9a2a025f26f878abb25dc2aef",
+    "shop": "かつや",
+    "name": "【かつや】“売れすぎで一時休止”メニュー復活 「揚げオムカレー」期間限定発売 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UcU94Uk5HMW9Kb3hDaDFhQ3FsYUZBM2NVUGIzMlI1R01rVVMtaGJmQnF5U0",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UcU94Uk5HMW9Kb3hDaDFhQ3FsYUZBM2NVUGIzMlI1R01rVVMtaGJmQnF5U0pLejBkSE5kQUdZVnFJM0U2Sjd1a21FRDdZN2lMWEE?oc=5",
+    "category": "don",
+    "published": "Sat, 10 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-14T01:27:52.430788",
+    "menu_name": "揚げオムカレー",
+    "one_liner": "売れすぎで休止した伝説のメニューが復活"
+  },
+  {
+    "id": "52bc14c601900d77d917f48795f07c2e",
+    "shop": "バーミヤン",
+    "name": "特製の本格辛味ソースで食欲増進！バーミヤンの新メニュー - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NU1JtV1JTTVllNkNUcFVHVTJLb3NHY3kxdno3UW9lVEM0anBHclJKWTlxcl",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NU1JtV1JTTVllNkNUcFVHVTJLb3NHY3kxdno3UW9lVEM0anBHclJKWTlxclgxRFU4SXQ1QnNKT19pQlRvU2t2aG8zTmdqS2JRRTNj0gFYQVVfeXFMUElOODZJeEptem1WaXN1NmNlQ3VUaFB5T01kcFdMN1MxUkxzczR4V3I2Y3RSeDI1Q1dnbDRnMXJPbzRkbzN6UThIV3pRQ0IxNmVsV2c0YnlDdw?oc=5",
+    "category": "family",
+    "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-14T01:28:05.331646",
+    "menu_name": "特製の本格辛味ソース",
+    "one_liner": "特製ソースで食欲そそる本格辛味"
   }
 ]
