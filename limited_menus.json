@@ -12,30 +12,6 @@
     "one_liner": "秋の味覚やとろけるネタが勢揃い"
   },
   {
-    "id": "384be7bc3c79e109f1a37cd649f553fa",
-    "shop": "かっぱ寿司",
-    "name": "かっぱ寿司×「辛ラーメン」コラボ！ 活〆真鯛の出汁を合わせた旨辛スープを味わい尽くす限定メニュー発売 - gourmet.watch.impress.co.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUmZ6NHVwUUR5VzBFQjJWeHBIaGp5VF94ekdKR2xDMXA4ckliZlFBX2NHMV",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUmZ6NHVwUUR5VzBFQjJWeHBIaGp5VF94ekdKR2xDMXA4ckliZlFBX2NHMV9QQ0lyeU1LbUh0Rlk5Z2c3czRGeHhURzIwWl9sRm40anhPbDRVU2gteFQydnd2ZGFWRG1renc?oc=5",
-    "category": "sushi",
-    "published": "Sun, 13 Sep 2026 21:00:00 GMT",
-    "fetched_at": "2026-09-15T01:02:20.914644",
-    "menu_name": "活〆真鯛の出汁を合わせた旨辛スープ",
-    "one_liner": "真鯛出汁と辛ラーメンの極上コラボ"
-  },
-  {
-    "id": "6c859882b3e72d5c402938f2d6476a20",
-    "shop": "かっぱ寿司",
-    "name": "かっぱ寿司、初の「“北欧サーモンいくら”包み」を110円で提供 「かっぱの贅沢うにいくら祭り」開催 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE53aktTVnRTbTNuWkJsMkZwZ2xuOVlrLUJlbHh6YVFuRnlYZjFDMmtMVWN3bm",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53aktTVnRTbTNuWkJsMkZwZ2xuOVlrLUJlbHh6YVFuRnlYZjFDMmtMVWN3bmgzclQ4QzI5TTFYdEt3OHltNkprVldGTGJtaE9aRnplWjNXbEhzc2VD?oc=5",
-    "category": "sushi",
-    "published": "Sun, 13 Sep 2026 06:53:11 GMT",
-    "fetched_at": "2026-09-16T00:51:42.234532",
-    "menu_name": "北欧サーモンいくら包み",
-    "one_liner": "北欧サーモンといくらの贅沢な一皿"
-  },
-  {
     "id": "fe8876e3e94079901b400bb52dd71997",
     "shop": "かっぱ寿司",
     "name": "【かっぱ寿司】大とろ・中とろ・あわび・赤貝…豪華6貫 “割引”食べ比べセット4種、発売 - オトナンサー",
@@ -334,18 +310,6 @@
     "fetched_at": "2026-09-21T00:35:15.271277",
     "menu_name": "韓国フェアプレート",
     "one_liner": "旨辛メニューと茶碗蒸しが食べ放題"
-  },
-  {
-    "id": "88736b1bca5cfae458834824fdf009cd",
-    "shop": "フレッシュネスバーガー",
-    "name": "フレッシュネスバーガーより「パクチーバーガー総選挙」で約1万人が選んだ新作1位「カオマンガイ」＆復活1位「バインミー」が登場！ - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2TUhEM0llOS1ZNEdtcGpWbHE4ZV9mbEV2MXlpWHpyb2E0Yi1QMFAwNklMRG",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2TUhEM0llOS1ZNEdtcGpWbHE4ZV9mbEV2MXlpWHpyb2E0Yi1QMFAwNklMRG1NM0ZXXzZrWWJ2bTBsVzYwczZpS1VZa3J2SkpWVWpMNFdR0gFbQVVfeXFMTjF1c21pRUlhX19VeG12OERuTDljTXRlbXFNRzJaQi1HRHBLaTNlZlBhRkEwTXI4UkRsU29jQjNNM3NobFZPMzRJR3dZQXZlaW91RklPVjlGcUJFMA?oc=5",
-    "category": "burger",
-    "published": "Sun, 13 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-22T01:17:59.257849",
-    "menu_name": "カオマンガイ＆バインミー",
-    "one_liner": "パクチー好きが選んだ究極の二品"
   },
   {
     "id": "3fdc63058399a3299b86281e9a61a3f5",
@@ -2926,5 +2890,65 @@
     "fetched_at": "2026-10-14T01:28:05.331646",
     "menu_name": "特製の本格辛味ソース",
     "one_liner": "特製ソースで食欲そそる本格辛味"
+  },
+  {
+    "id": "5058b5ede651d2bf387feb4cf650a7aa",
+    "shop": "かっぱ寿司",
+    "name": "かっぱ寿司、「りんご×寿司」の新提案 - 長野市コラボで限定メニュー登場 - マイナビニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEUm1vQ0FrcXdEQUgyYUhVM0p5d0Q1andHQ0RJVm9kQnZGMzFDdjVRYUtGS1",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEUm1vQ0FrcXdEQUgyYUhVM0p5d0Q1andHQ0RJVm9kQnZGMzFDdjVRYUtGS1lJVEdxZFBNVXhOUTVNMlBweVZQaDY3Qk5tRWlZbk9EYUxsQmkwQnlJ?oc=5",
+    "category": "sushi",
+    "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-15T00:59:58.529265",
+    "menu_name": "りんご×寿司",
+    "one_liner": "長野産りんごを使った斬新な寿司"
+  },
+  {
+    "id": "b3012359a793812f8c74695c5a66ee0f",
+    "shop": "マクドナルド",
+    "name": "【マクドナルド】最大250円お得！　“390円”「サンキューペア」発売　全50組み合わせのサイドメニュー×ドリンクセット - Infoseek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeTE1VnBYTm5GWUdyNDlYVHBwOUJmeUM2SUtwdHVnblpuOWp3RXVCLUthVk",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeTE1VnBYTm5GWUdyNDlYVHBwOUJmeUM2SUtwdHVnblpuOWp3RXVCLUthVko2NUxRazZzVHFUNzZfZVpsM1ptN2owaHRqbGlFUWtOX0cwbEp0RE9VMGVETE1mSE5Vcnl1TWfSAWpBVV95cUxPVnkxNVZwWE5uRllHcjQ5WFRwcDlCZnlDNklLcHR1Z25abjlqd0V1Qi1LYVZKNjVMUWs2c1RxVDc2X2VabDNabTdqMGh0amxpRVFrTl9HMGxKdERPVTBlRExNZkhOVXJ5dU1n?oc=5",
+    "category": "burger",
+    "published": "Wed, 14 Oct 2026 22:45:00 GMT",
+    "fetched_at": "2026-10-15T01:00:02.993066",
+    "menu_name": "サンキューペア",
+    "one_liner": "最大250円お得なサイドとドリンクのセット"
+  },
+  {
+    "id": "a9f471d734068c53d3d352f1c5bb3818",
+    "shop": "モスバーガー",
+    "name": "【話題沸騰!!】モスバーガーがカプセルトイに!? SNSで120万回超の大反響！『モスバーガー×にっこりーノ』発売記念キャンペーン開催！ - 毎日キレイ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5memN0WmJDMU5VcXJZVmZBZFQxV3MyWldlMHotRGJJZTZ0emoxcEg5NWl0cW",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5memN0WmJDMU5VcXJZVmZBZFQxV3MyWldlMHotRGJJZTZ0emoxcEg5NWl0cW1qUWJYYUIzb2lLd3BZUDRJaUhFOVZ4SFY4d0x0UHBfLWVncFAxY1BRZzJPeWRXODFWLVJfNzZ4WEgyUmVqZG9OdlBHSFVB?oc=5",
+    "category": "burger",
+    "published": "Mon, 05 Oct 2026 05:09:51 GMT",
+    "fetched_at": "2026-10-15T01:00:05.060113",
+    "menu_name": "モスバーガー×にっこりーノ",
+    "one_liner": "モスバーガーが可愛いカプセルトイに"
+  },
+  {
+    "id": "ba1b8be7d810505488b72b406ec84f9d",
+    "shop": "フレッシュネスバーガー",
+    "name": "フレッシュネス、ブランド海老3尾の限定バーガー2種を21日発売 - RBB TODAY",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rQWstUVZYenlmX3pMR0lIMWV5Z2JQODIwVEVXLTI0SXJHeUx3eG5xLTNUSk",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rQWstUVZYenlmX3pMR0lIMWV5Z2JQODIwVEVXLTI0SXJHeUx3eG5xLTNUSktCNDZ6aVRzb2E1NnBkaEVENzFjMTA3Qmhva25CRDZ0RF9kRTVBZ2d5SGRLWVlSZ2x6QQ?oc=5",
+    "category": "burger",
+    "published": "Wed, 14 Oct 2026 13:51:31 GMT",
+    "fetched_at": "2026-10-15T01:00:07.307391",
+    "menu_name": "ブランド海老3尾の限定バーガー2種",
+    "one_liner": "ブランド海老3尾を贅沢に使用"
+  },
+  {
+    "id": "f0f904700769f3a7461b391021b5a32b",
+    "shop": "タリーズコーヒー",
+    "name": "タリーズが飲む杏仁豆腐など初夏メニューを新発売 - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsanpreVNQXzM3SzdjdWxzeno3WmtNQVN0bTBBVkRJczloT0ZuUkgtdV9udk",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsanpreVNQXzM3SzdjdWxzeno3WmtNQVN0bTBBVkRJczloT0ZuUkgtdV9udktqSWZqTkJrLUNSX0ppNGRaZTJxbE9OVzBKblA3UDJj0gFYQVVfeXFMTm9vakNCLTFqdzBGWVJlVXBPYXBENjVQNDl5RzU1U1hrOWdPYzRFWG9VU05SOUlVUm13NWlMYm9zODNhUnlpYzIweTRSVS1fZ0hGd3EtcHM3UA?oc=5",
+    "category": "cafe",
+    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-15T01:00:16.498367",
+    "menu_name": "飲む杏仁豆腐",
+    "one_liner": "初夏にぴったりの飲む杏仁豆腐"
   }
 ]
