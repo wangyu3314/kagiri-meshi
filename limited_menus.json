@@ -1,41 +1,5 @@
 [
   {
-    "id": "3b9ab74d2981f9b24b447264ad604d7b",
-    "shop": "魚べい",
-    "name": "ファミマ、大反響！！「かなり良い」「ごはんがススム」「チー牛って凄いんだな」発売直後から話題沸騰 - gourmetbiz.net",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLVHFaSGNIV2RyYnh1QTlXMXZJT2l4UmJ0MUhVeExvR0FZa1llb0xpMHJaMH",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLVHFaSGNIV2RyYnh1QTlXMXZJT2l4UmJ0MUhVeExvR0FZa1llb0xpMHJaMHdxQnJnR2tfNVZLSFRwZ2N5angwRFJB?oc=5",
-    "category": "sushi",
-    "published": "Fri, 18 Sep 2026 03:48:23 GMT",
-    "fetched_at": "2026-09-19T00:43:54.385425",
-    "menu_name": "チー牛",
-    "one_liner": "ごはんがススムと話題の絶品メニュー"
-  },
-  {
-    "id": "191cf2f9d201055ec34a7a6c9ecdd450",
-    "shop": "吉野家",
-    "name": "大好評の「吉野家 牛すき焼うどん」。10月31日までの期間限定で特別価格＆紅生姜1袋付き＆送料無料の大チャンスです！ - zakⅡ",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1d4bzlncFdreGs4LVpLbFprZlVoeUV2cFhnNFBSUVRPNG1IUHZVRDZLen",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1d4bzlncFdreGs4LVpLbFprZlVoeUV2cFhnNFBSUVRPNG1IUHZVRDZLenRQdzRuZkV0VWljQlc4WTJ1QVpTTXJEdU1oUzdsZ3EtN3RkT2I1THk1dHJzcnQ3Z0NjWm5YUFNiS3lMZDQ0VGVlYWVYa0UxUV9oOGpMU3BOMjZMSmJVdEk4eU5yaWNaR3dzQzFUdFFYS2U0ZnFva3o2bg?oc=5",
-    "category": "don",
-    "published": "Fri, 18 Sep 2026 03:00:00 GMT",
-    "fetched_at": "2026-09-19T00:44:18.183687",
-    "menu_name": "吉野家 牛すき焼うどん",
-    "one_liner": "期間限定の特別価格と特典付き"
-  },
-  {
-    "id": "3fdc63058399a3299b86281e9a61a3f5",
-    "shop": "吉野家",
-    "name": "【本日から】吉野家「厚切り豚角煮」が定番発売！ ご飯増量は無料、15時から - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qZzN5Q0U1Y3NvejlPVDhERG9xekZ2dVoxLWVuT1dJU2VMdm40WFZ6NjRoYW",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qZzN5Q0U1Y3NvejlPVDhERG9xekZ2dVoxLWVuT1dJU2VMdm40WFZ6NjRoYWxyaEpLbkxMcUg0MTJMbXRLM0V6Wlc3ZlpnTTNESDNSeQ?oc=5",
-    "category": "don",
-    "published": "Fri, 18 Sep 2026 02:40:00 GMT",
-    "fetched_at": "2026-09-22T01:18:16.726649",
-    "menu_name": "厚切り豚角煮",
-    "one_liner": "とろける美味しさ、ご飯増量無料"
-  },
-  {
     "id": "8f917a1c2461ffaf02714d06692a8f29",
     "shop": "ロイヤルホスト",
     "name": "【ロイヤルホスト デリ】 父の日に“美味しいひととき”を贈ろう父の日限定のギフトセットを5月22日（金）より販売開始！ - CLASSY.[クラッシィ]",
@@ -454,18 +418,6 @@
     "fetched_at": "2026-09-28T01:15:27.732764",
     "menu_name": "背脂生姜タレのポークフライドステーキ定食",
     "one_liner": "濃厚な背脂と生姜が食欲をそそる逸品"
-  },
-  {
-    "id": "22f671e30ba607c9ede86647d3f6b2e1",
-    "shop": "丸亀製麵",
-    "name": "寒い冬にしみる！心も体も温まる！丸亀製麺に冬の手しごとでおいしさ重ねたアツアツ冬限定メニュー登場 - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FckZQRHI3eWdLLUZWbTd1QXRNeGV4OFVQNUcwcndlcjlhUHdPTVdDS045VE",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FckZQRHI3eWdLLUZWbTd1QXRNeGV4OFVQNUcwcndlcjlhUHdPTVdDS045VEU0dmxoOTBmWVV0V0hhYjMzSUp4NGFidk9NNXFyS1h2dXBn0gFbQVVfeXFMUHd6MlNnRVZWN0FXMUxacHRCLVpFaGZQTWZqaFpIanppX2lhRThpVFhVZHh0Q2ZDS19oT3RMSUY4QVZ6ZDA5NXRrVUxrVGQ1TzFNbEVTd3RpYkhXVQ?oc=5",
-    "category": "men",
-    "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-28T01:15:46.607155",
-    "menu_name": "冬の手しごとでおいしさ重ねたアツアツ冬限定メニュー",
-    "one_liner": "心も体も温まる冬限定のうどん"
   },
   {
     "id": "9c846c564422fb9e93a1f7d59e2f2a5d",
@@ -946,18 +898,6 @@
     "fetched_at": "2026-10-03T01:29:55.266670",
     "menu_name": "きゃらめるりんごチーズケーキ、ぷるぷるおばけゼリー",
     "one_liner": "秋の味覚とハロウィンを楽しむ限定スイーツ"
-  },
-  {
-    "id": "e31b55ce6407205ed26d1af36d4de2e1",
-    "shop": "魚べい",
-    "name": "魚べい・元気寿司「北海道フェア」開催 さんま・大ずわいがに・ほたてなど多彩な海の幸、110円から - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbGFWM0w0M05BWnJjSDVjZmdsMXFmX20tMnQ0OF9wYnJGYlktZC12RDhCYk",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbGFWM0w0M05BWnJjSDVjZmdsMXFmX20tMnQ0OF9wYnJGYlktZC12RDhCYkw5Q0VONkc2U0dVQUR4MUpPYmxDcW9hSFhoSm9UMTFRU1UxekhCRFpPbWxDTGxqSWpVS183SjFoSFJvOTNJR29iOG8xVGt5S3RxNkk?oc=5",
-    "category": "sushi",
-    "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-03T01:29:59.072361",
-    "menu_name": "北海道フェア",
-    "one_liner": "北海道の海の幸が110円から楽しめる"
   },
   {
     "id": "bbefc60a52e4e2f8fa66e3035e92ba49",
@@ -2842,5 +2782,77 @@
     "fetched_at": "2026-10-19T00:34:40.077073",
     "menu_name": "背脂ニンニク辛ねぎ醤油",
     "one_liner": "濃厚背脂と辛ねぎの刺激的な一杯"
+  },
+  {
+    "id": "3be4a64013ba101426dd008413e39dd9",
+    "shop": "はま寿司",
+    "name": "【明日から】大切りが110円！ はま寿司フェア3品、まぐろ・にしんなど100円台 - ASCII.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4VUc5UFVBem9TaWxRMW1aRG5pdXhPNlBlRnI5b0YyRVI0TUNsYXAycGZxOV",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4VUc5UFVBem9TaWxRMW1aRG5pdXhPNlBlRnI5b0YyRVI0TUNsYXAycGZxOVBYSjdkMFF5VU94ZVRvVjl3Z2VJYjk1ZGlwc3l0ZUJUYw?oc=5",
+    "category": "sushi",
+    "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-20T01:19:26.145403",
+    "menu_name": "大切りまぐろ・にしん",
+    "one_liner": "大切りネタが100円台で楽しめる"
+  },
+  {
+    "id": "55bb7873580b83a23704bb895784ac72",
+    "shop": "かっぱ寿司",
+    "name": "大とろやまぐろ食べ比べがお得に! 4日間限定セット4種を発売【かっぱ寿司】 - au Webポータル",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9WdzVlR3VDWDgyS0c5TDJpX1ZybnBkSjdjR1NPcmViVkZlR1ZlZGdFVlZvNF",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WdzVlR3VDWDgyS0c5TDJpX1ZybnBkSjdjR1NPcmViVkZlR1ZlZGdFVlZvNFgwaHFfdXVsQ3VVNEpaTktkV0RqTHlhS3FIMlhZYmZZQ1pFWXdJRHQxUVl2Nk9lYmtUeE05S1A1V2Vn?oc=5",
+    "category": "sushi",
+    "published": "Mon, 19 Oct 2026 03:19:00 GMT",
+    "fetched_at": "2026-10-20T01:19:29.350984",
+    "menu_name": "大とろやまぐろ食べ比べ",
+    "one_liner": "大とろとまぐろをお得に食べ比べ"
+  },
+  {
+    "id": "2831436cb8d6104bcc09332aa3b7150d",
+    "shop": "バーガーキング",
+    "name": "「コスパランチ」で規模を拡大したバーガーフランチャイズが今回はメニュー開発に力を入れている。 主要企業が相次いで研究開発(R&D)拠点を開き、新メニューを発売している。 安価なメニューに引き込.. - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIUFZ1ZjNDZjIzUkduVlJOemh5S3hGdG5uVmZlWndsRFd4dnV4QU9ieENoaH",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIUFZ1ZjNDZjIzUkduVlJOemh5S3hGdG5uVmZlWndsRFd4dnV4QU9ieENoaHBDVUpuTzBDUWRjZW5qVmtaS051dWZBUDR5ajV5Q3c?oc=5",
+    "category": "burger",
+    "published": "Mon, 19 Oct 2026 05:19:24 GMT",
+    "fetched_at": "2026-10-20T01:19:36.172234",
+    "menu_name": "新メニュー",
+    "one_liner": "研究開発で進化した高コスパバーガー"
+  },
+  {
+    "id": "f130cb50028babea93d9cd0c7a9a1abc",
+    "shop": "ミスタードーナツ",
+    "name": "マツコ、ミスドで頼むものは“超保守的”だと明かす 新メニューは「絶対に食べないです」（スポニチアネックス） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBMQTNjOHQtWlpQQ0FWOFpReWtvaUZST2gzbGJkWWdoX1JmZV9TLWxEaUlTel",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMQTNjOHQtWlpQQ0FWOFpReWtvaUZST2gzbGJkWWdoX1JmZV9TLWxEaUlTelF3VkdGZkdJamVHc01icTdUdzFlUUl4eDMybDVlNS1FLWdPMm82R3RkbGlfRUc5OThTQ3hwN090ckxXZDBrdFpfeWpDRWFQQ1pETFk?oc=5",
+    "category": "cafe",
+    "published": "Mon, 19 Oct 2026 11:51:23 GMT",
+    "fetched_at": "2026-10-20T01:19:48.728586",
+    "menu_name": "新メニュー",
+    "one_liner": "詳細は不明な新登場のメニュー"
+  },
+  {
+    "id": "a4b25bc9cdfe6fce61902d1125832f9f",
+    "shop": "丸亀製麵",
+    "name": "丸亀製麺に「すみっコぐらし」がやってくる まるで“ピクニック気分”なうどんBOXが登場 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbTJhZURadzFNc3B6aDVXbUowSFgyc0pQZzBJYWRiWUxqeHh4TU05cWJ4MV",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbTJhZURadzFNc3B6aDVXbUowSFgyc0pQZzBJYWRiWUxqeHh4TU05cWJ4MVgycVljNVU2MjRDcFk0ODhlR2JaMW1yeGtTeHluMnc?oc=5",
+    "category": "men",
+    "published": "Sat, 17 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-20T01:20:12.064706",
+    "menu_name": "すみっコぐらし うどんBOX",
+    "one_liner": "すみっコとピクニック気分を楽しむうどん"
+  },
+  {
+    "id": "44d994e630dfae0412bd90637f790a1c",
+    "shop": "幸楽苑",
+    "name": "期間限定「鶏白湯らーめん」「担担麺」「麻辣担担麺」の3種が登場！9月15日（火）より、期間限定メニュー3種を販売開始いたします。 - 朝日新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMb3REcXdpWWdQTE5jTWxaWDc0THBQc2loNlZwci1DaUNiTl9uY0x4dUhmcU",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMb3REcXdpWWdQTE5jTWxaWDc0THBQc2loNlZwci1DaUNiTl9uY0x4dUhmcUtXNmtfZEgtc1pJZVRxOVhucmtEQzhKdWZTNDhUdGJreDVrb1piU3c?oc=5",
+    "category": "ramen",
+    "published": "Mon, 19 Oct 2026 09:14:06 GMT",
+    "fetched_at": "2026-10-20T01:20:17.753017",
+    "menu_name": "鶏白湯らーめん、担担麺、麻辣担担麺",
+    "one_liner": "秋を彩る期間限定の絶品麺3種"
   }
 ]
