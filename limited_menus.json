@@ -1392,18 +1392,6 @@
     "one_liner": "コメダ珈琲店初の驚きのコラボメニュー"
   },
   {
-    "id": "754659dea761cbdbf197785c35a2231b",
-    "shop": "コメダ珈琲店",
-    "name": "1杯190円〜で専門店の味を！ 【無印良品】世界5カ国の「シングルオリジンコーヒー8種」が登場。カフェインレスの展開も - 朝日新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RkFJQUQyZ2hscFdRajhzNXJsek9QMnpnYkRkNnFNY2FXS2EwdDRCaXlQOX",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14RkFJQUQyZ2hscFdRajhzNXJsek9QMnpnYkRkNnFNY2FXS2EwdDRCaXlQOXRBT2dYMlFSMk9lSmx3M2F0QkZVSExZTWp1dmdFR0xtY2JfcmdZYTBkWXhKOEhLZw?oc=5",
-    "category": "cafe",
-    "published": "Sun, 20 Sep 2026 03:32:17 GMT",
-    "fetched_at": "2026-10-07T01:52:25.926450",
-    "menu_name": "世界5カ国の「シングルオリジンコーヒー8種」",
-    "one_liner": "1杯190円から楽しめる専門店の味"
-  },
-  {
     "id": "3c1a4bc29dca678e7f16cb190498f245",
     "shop": "かつや",
     "name": "かつや「海老トリプル丼」新登場 海老カツ・海老フライ・海老クリームコロッケを盛り合わせ - 食品産業新聞社ニュースWEB",
@@ -2962,5 +2950,125 @@
     "fetched_at": "2026-10-21T01:05:11.822707",
     "menu_name": "ラーメンバーガーセット",
     "one_liner": "パンどろぼうと一風堂の夢のコラボ"
+  },
+  {
+    "id": "9c24d254d2fc58f519c35a1173c2fb9b",
+    "shop": "かっぱ寿司",
+    "name": "ミナミマグロの上赤身も食べ放題！茶碗蒸し付き江戸前5貫プレートがかっぱ寿司に登場 - いこーよニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mOXBiNWNVODFJZkQwa0xWWHQyU3Uzc0hJMGR6bEdYc3d4RzBPUU5ya2I2Z2",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mOXBiNWNVODFJZkQwa0xWWHQyU3Uzc0hJMGR6bEdYc3d4RzBPUU5ya2I2Z2lNMjBrSXZRc053dG5fLVdsaVZZSmRKZUYtc2Q0aUE?oc=5",
+    "category": "sushi",
+    "published": "Wed, 21 Oct 2026 09:28:12 GMT",
+    "fetched_at": "2026-10-22T01:01:24.446037",
+    "menu_name": "茶碗蒸し付き江戸前5貫プレート",
+    "one_liner": "ミナミマグロ赤身も食べ放題！"
+  },
+  {
+    "id": "e387cd37bf4125f4f1b753a616c3e66a",
+    "shop": "かっぱ寿司",
+    "name": "かっぱ寿司、一貫“121円”のミナミマグロの上赤身やとろぶつのせが登場！「かっぱの王道まぐろ祭り」を22日から実施 - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9XTzJTbXRWbFg5UVVCQ0VqZVB4RkRGUzZLSzlnbjlpZEt5dlZoWkVJQUVfcX",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XTzJTbXRWbFg5UVVCQ0VqZVB4RkRGUzZLSzlnbjlpZEt5dlZoWkVJQUVfcXc1RDJDWlRXeGY0UnU2aWZ1dkZwam5fNW9DU2UyWi0wZkRPUjBYQzdOb0ltaWhreWtOalVYV0E?oc=5",
+    "category": "sushi",
+    "published": "Mon, 19 Oct 2026 07:04:11 GMT",
+    "fetched_at": "2026-10-22T01:01:25.633033",
+    "menu_name": "ミナミマグロの上赤身やとろぶつのせ",
+    "one_liner": "一貫121円で楽しむ極上マグロ"
+  },
+  {
+    "id": "c51f558ae4c620e0a209bb81536ba5f1",
+    "shop": "マクドナルド",
+    "name": "【本日14時から】マック新メニュー「390ペア」 最大250円お得に！ - ASCII.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZDhhR0xraUpPanlZWS1CRGVVZkU1T2hVNlhnbHVnSDdFX2piX2Fad3NyMU",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZDhhR0xraUpPanlZWS1CRGVVZkU1T2hVNlhnbHVnSDdFX2piX2Fad3NyMUxMcHNxb1pwQUpmZWFCQWozWnI0ZXJPNEM2TjlCc1NGbA?oc=5",
+    "category": "burger",
+    "published": "Wed, 21 Oct 2026 03:45:00 GMT",
+    "fetched_at": "2026-10-22T01:01:28.640162",
+    "menu_name": "390ペア",
+    "one_liner": "最大250円お得な新メニュー"
+  },
+  {
+    "id": "d2f17da377036a097dd63c6237e2bf8e",
+    "shop": "マクドナルド",
+    "name": "マクドナルド、サイドとドリンクが３９０円の「３９０ペア」全国発売、全５０通りから選択可能 - https://kabu-ir.com/",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRXl2dUdueW9DbVZ2a3d3YnNQWmswQUpwOFFWbmdCSWhXYndaVlViYmZGZW",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRXl2dUdueW9DbVZ2a3d3YnNQWmswQUpwOFFWbmdCSWhXYndaVlViYmZGZW1tbzZtYTQ1ZDViZ29ibXI2U2RKSWhNclVOY19sQnJ6cw?oc=5",
+    "category": "burger",
+    "published": "Wed, 21 Oct 2026 08:38:52 GMT",
+    "fetched_at": "2026-10-22T01:01:28.641336",
+    "menu_name": "３９０ペア",
+    "one_liner": "選べるサイドとドリンクのセット"
+  },
+  {
+    "id": "5de63ee838aa374b7caf53d0bb80afe6",
+    "shop": "バーガーキング",
+    "name": "バーガーキング「キットカット」入り新作サンデー発売、濃厚チョコソースとサクサク食感を楽しむ490円のデザート - ｄメニューニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVJzcjBuTUVhWkdyay1OSmRHTnphNXlhZTlnb3VodGt0YTBpQjFBREhTTE",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVJzcjBuTUVhWkdyay1OSmRHTnphNXlhZTlnb3VodGt0YTBpQjFBREhTTEJOU1AyVEpMbldBQ3RqMkhmRnhLYWZuQU1NQ1dRUE1mNG5WWll4Z2ZGUE0weG44a0hscTdQdlRxSXp5Tl9taGVyZE1aWEJmLWRhRmVDZkxKVmzSAYQBQVVfeXFMTllSc3Iwbk1FYVpHcmstTkpkR056YTV5YWU5Z291aHRrdGEwaUIxQURIU0xCTlNQMlRKTG5XQUN0ajJIZkZ4S2FmbkFNTUNXUVBNZjRuVlpZeGdmRlBNMHhuOGtIbHE3UHZUcUl6eU5fbWhlcmRNWlhCZi1kYUZlQ2ZMSlZs?oc=5",
+    "category": "burger",
+    "published": "Wed, 21 Oct 2026 03:04:00 GMT",
+    "fetched_at": "2026-10-22T01:01:31.536158",
+    "menu_name": "キットカット入りサンデー",
+    "one_liner": "濃厚チョコとサクサク食感の贅沢サンデー"
+  },
+  {
+    "id": "9a5aaa113b0984202f24c475327e51cd",
+    "shop": "バーガーキング",
+    "name": "バーガーキング×ハローキティの限定コラボがついに発売、「大人買い」続出か？ - DAILYSUN NEW YORK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qb0N1c0lnNk5jWUdpYlRIdTZNWGZsVU45NFEtNmhyZWoyS3pTN2c2OUh1cF",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qb0N1c0lnNk5jWUdpYlRIdTZNWGZsVU45NFEtNmhyZWoyS3pTN2c2OUh1cF9od2c0S3ZoeklacUJ4ejE1T1hvbjB5UFNNbVVFMnJHWTZSYUdoZXdKMzNRaUhnWQ?oc=5",
+    "category": "burger",
+    "published": "Mon, 19 Oct 2026 16:45:07 GMT",
+    "fetched_at": "2026-10-22T01:01:32.744392",
+    "menu_name": "バーガーキング×ハローキティの限定コラボ",
+    "one_liner": "ハローキティとの夢のコラボが実現"
+  },
+  {
+    "id": "39d829e41602534aa526afa2b315ce29",
+    "shop": "ゼッテリア",
+    "name": "ゼッテリア「とろ～りあったかえびグラタンフェア」を今年も実施！「贅沢ビスクのえびグラタンバーガー」など3品発売 - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zU2FNUEthaGtvX3B6ZW1XLURxdGVYa1QwQzRUYWZxSzF0OEVxTmNnaGZQZV",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zU2FNUEthaGtvX3B6ZW1XLURxdGVYa1QwQzRUYWZxSzF0OEVxTmNnaGZQZVl5ZU5RV1pNcFRta3FsWlpUeldSUV9oTTdYY21vV1R5c1J1dWtzblZzR1BGbUdlSThGNnp4Tnc?oc=5",
+    "category": "burger",
+    "published": "Wed, 21 Oct 2026 07:50:15 GMT",
+    "fetched_at": "2026-10-22T01:01:34.977411",
+    "menu_name": "贅沢ビスクのえびグラタンバーガー",
+    "one_liner": "とろ～り熱々なえびグラタンを堪能"
+  },
+  {
+    "id": "da3914942ce7980deaec19f56bbafc3d",
+    "shop": "松屋",
+    "name": "食欲の秋、お得な盛合せ定食で大満足ボリューム！「倍量フェア」開催｜松のや - 松屋",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1jUDVCS2otODhOYnVhSXNVNjFlTldDNUNCc2szcGlWNWVGdHVvbFpxTXNrYm",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jUDVCS2otODhOYnVhSXNVNjFlTldDNUNCc2szcGlWNWVGdHVvbFpxTXNrYmdEOGpTR1RzS05meXc5NWsyOEVaLUZUWHNvcUFTSUNyNHdnZXp3a3NYVkFQdmY0YXBoT1YzeGJCWWxkaDF3ejVVc2xYbC1B?oc=5",
+    "category": "don",
+    "published": "Fri, 16 Oct 2026 02:02:44 GMT",
+    "fetched_at": "2026-10-22T01:01:50.410651",
+    "menu_name": "お得な盛合せ定食",
+    "one_liner": "秋の大満足ボリューム倍量フェア"
+  },
+  {
+    "id": "a6a2c1576d803f265199178219dc073d",
+    "shop": "はなまるうどん",
+    "name": "はなまるうどんから秋限定の鴨だしうどんが登場!鴨ねぎうどん＆鴨せいろうどんで楽しむ贅沢な味わい - ｄメニューニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1PNU1hdUJEU1dxa1Y3b293enREck1xaVI4WkNVVUtOT3YyaUNIX3Y5S1FrV1",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PNU1hdUJEU1dxa1Y3b293enREck1xaVI4WkNVVUtOT3YyaUNIX3Y5S1FrV1hqdWF0Z3ZRVG9EZGRiemoydWRBdVQwd0prM0JrR3dTTC1MVW5WZF9Kdnc4ai1DOUlYNkZ3OW5fb0dVRzZmaXE5NkYwWmViSDHSAXxBVV95cUxNTzVNYXVCRFNXcWtWN29vd3p0RHJNcWlSOFpDVVVLTk92MmlDSF92OUtRa1dYanVhdGd2UVRvRGRkYnpqMnVkQXVUMHdKazNCa0d3U0wtTFVuVmRfSnZ3OGotQzlJWDZGdzluX29HVUc2ZmlxOTZGMFplYkgx?oc=5",
+    "category": "men",
+    "published": "Wed, 21 Oct 2026 15:30:00 GMT",
+    "fetched_at": "2026-10-22T01:02:12.221545",
+    "menu_name": "鴨ねぎうどん＆鴨せいろうどん",
+    "one_liner": "鴨の旨味が広がる贅沢な秋限定メニュー"
+  },
+  {
+    "id": "908977b2748eb816d15a51a0ab2d0920",
+    "shop": "ピザハット",
+    "name": "韓国ピザハットが40年余り続いてきた代表メニュー「スーパーシュプリーム」を前面に出し、製品競争力強化に乗り出す。 既存のロングセラーにチーズとステーキを加えた新製品を発売し、長期間蓄積したブランド認知.. - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Q2dMYUwxZ0YtMEFOaUpPNjg3SERFbFZsNG1oZ293aHQwQzNuUTlaWWRLQj",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Q2dMYUwxZ0YtMEFOaUpPNjg3SERFbFZsNG1oZ293aHQwQzNuUTlaWWRLQjhDczZQLWc3RmxnQURabmppbGxSM2dtbzVUaVpQaWRV?oc=5",
+    "category": "pizza",
+    "published": "Wed, 21 Oct 2026 05:17:41 GMT",
+    "fetched_at": "2026-10-22T01:02:23.100754",
+    "menu_name": "スーパーシュプリーム",
+    "one_liner": "チーズとステーキが加わった新定番"
   }
 ]
