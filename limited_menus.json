@@ -132,18 +132,6 @@
     "one_liner": "ボリューム満点な夢の欲張り丼"
   },
   {
-    "id": "24f55f57f468b954fd99f06f4b65932c",
-    "shop": "丸亀製麵",
-    "name": "松岡昌宏と共同開発！累計販売数1200万食超えの「トマたま」が今年も。新作「海老カツトマたまカレーうどん」含む3種が登場！ - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oLURnVmF4WHQ1TVNrSHRRYWp6MDhQSEdkWlhwX1Jxdm5uTkNfenE4VW15b2",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oLURnVmF4WHQ1TVNrSHRRYWp6MDhQSEdkWlhwX1Jxdm5uTkNfenE4VW15b2tCZWhZMkZmY2IwN2dseTNSWWg0MlpkOFYtUVBxRkZ2bXZn0gFbQVVfeXFMUEkzY1FrRzdqcWVnRHl4Tm5UR1pRMHhpWXBBS3Zfd2h0R0l4MmVpQ2R1QkM4ckpJbk45R1pGNFh5bG4yV2RGNXVmY1pSbnd1YW9pZ3daXzlUVm9MYw?oc=5",
-    "category": "men",
-    "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-26T00:59:54.616688",
-    "menu_name": "海老カツトマたまカレーうどん",
-    "one_liner": "累計1200万食超えの人気メニュー"
-  },
-  {
     "id": "e51123b63b2d27ef15aaf4b1f0d3c864",
     "shop": "富士そば",
     "name": "名代 富士しば/投票で選ばれた新しい顔がTシャツになって登場 - ニコニコニュース",
@@ -994,18 +982,6 @@
     "fetched_at": "2026-10-04T02:11:50.410872",
     "menu_name": "限定アクリルカラビナ付きセット",
     "one_liner": "制服姿のキャラが可愛い限定セット"
-  },
-  {
-    "id": "aa54ed9615c3161d2a7c758b1089a68b",
-    "shop": "スターバックス",
-    "name": "【韓国スタバ】9月22日発売！ナチュラルなグリーン＆アイボリーが可愛い新作MD「LEAF TO COFFEE」全6種を徹底解説 - K-TREND TIMES",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fX0hXYVFXTVM4VWIxTUxCdE0yWWlkWGNMd0o2bXdXUDJXOTNXWWZRLXUzSH",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fX0hXYVFXTVM4VWIxTUxCdE0yWWlkWGNMd0o2bXdXUDJXOTNXWWZRLXUzSHpBUUt4VmFXSnJnUG01eFBhQ2NodnpVR2tHeTYwb1pLYm9pTUQ1cUhFRE9ubjFlaElHSDZtQ2k3QzdQM1F3dlBNaS11Uw?oc=5",
-    "category": "cafe",
-    "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-04T02:11:54.532149",
-    "menu_name": "LEAF TO COFFEE",
-    "one_liner": "自然な色合いが可愛い新作MD全6種"
   },
   {
     "id": "091f544e1041c460bb979df397d51991",
@@ -3094,5 +3070,77 @@
     "fetched_at": "2026-10-23T01:03:58.952916",
     "menu_name": "濃厚味噌だしうどん",
     "one_liner": "濃厚味噌と山盛り野菜の絶品うどん"
+  },
+  {
+    "id": "1ea70625ffe87c8dfb719c01f2522cff",
+    "shop": "スターバックス",
+    "name": "アルデ新大阪＞＞スターバックスコーヒーの「COFFEE fun PARTY」2日間限定で開催！！「アルデひろば」期間限定ショップのお知らせ - まんたんウェブ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDNNdEZkZkRGNGZiRFhsOHp0LVlxZ295d3dXU3M4THB4ZHVWQmNWOFVZYT",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDNNdEZkZkRGNGZiRFhsOHp0LVlxZ295d3dXU3M4THB4ZHVWQmNWOFVZYTVkSk9DTXAtNDc1NnE4MEhNYTUydzNrVVVlLUtkanlUeTZldF9GYzVqbEF5aldrSlJOY1V6dXhmQUdtZ2Rfd2htVUMtaU5qdVFhOEtVZTAtVEo2YV9z?oc=5",
+    "category": "cafe",
+    "published": "Fri, 23 Oct 2026 16:57:04 GMT",
+    "fetched_at": "2026-10-24T01:12:23.588026",
+    "menu_name": "COFFEE fun PARTY",
+    "one_liner": "2日間限定の特別コーヒー体験"
+  },
+  {
+    "id": "6641236f79740558cacbac5ed3eb0817",
+    "shop": "ミスタードーナツ",
+    "name": "ミスタードーナツ55周年！新食感ドーナツ「もっちゅりん」4種が登場 - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qV3BfSUREeHhSTExpNzFOb1M5TVdMdjYyd3lMaVhTdGJfalJKT0JYZnVxOE",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qV3BfSUREeHhSTExpNzFOb1M5TVdMdjYyd3lMaVhTdGJfalJKT0JYZnVxOENyUjR3WFhJanZySzQtRWpjSHY3X2QyODBVbjVhanVnczNn0gFbQVVfeXFMTmswRW1JeXlqZlhXMDhaS091b05zZXlRM2ZXcno2ZExzdGV4TlBIRk9HNk5TRThjOUZiVWVKS25uVS1XSV9uVHQtS1h5dW5iUzZJU3podkJIc3llaw?oc=5",
+    "category": "cafe",
+    "published": "Sat, 26 Sep 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-24T01:12:31.432139",
+    "menu_name": "もっちゅりん",
+    "one_liner": "新食感が楽しめる注目のドーナツ"
+  },
+  {
+    "id": "1f1cef61186f3cc4074e5e80fb8b27b4",
+    "shop": "ジョナサン",
+    "name": "【JINS】「ジョジョ」コラボ ジョナサン、承太郎、仗助、徐倫らモチーフのメガネ8種が登場ッ 石仮面、エイジャの赤石もパーツに - オトナンサー",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BNW1XOGFnb2FZbmpjUnBmYUVqbzdGTVBWMnhUc2YwRUFWcEJLUlZfdmZQOX",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BNW1XOGFnb2FZbmpjUnBmYUVqbzdGTVBWMnhUc2YwRUFWcEJLUlZfdmZQOXRIUGpYTk9xZWxIUjhrQm1MbXdXQl9n?oc=5",
+    "category": "family",
+    "published": "Fri, 23 Oct 2026 03:33:22 GMT",
+    "fetched_at": "2026-10-24T01:12:55.969326",
+    "menu_name": "「ジョジョ」コラボメガネ8種",
+    "one_liner": "ジョジョの世界観を再現したメガネ"
+  },
+  {
+    "id": "96d233c66ea2976baa447b5ec2a150d7",
+    "shop": "バーミヤン",
+    "name": "バーミヤン初の“桃ロゴ”立体ポーチ！ 総柄エコバッグが付録の宝島社「バーミヤン 40th ANNIVERSARY BOOK」発売 - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSEhoTWZIRzU4cGNBUnF5YnV5Rm1abDRta3BiZ1R6cllzSXNKd2k0Sk9COW",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSEhoTWZIRzU4cGNBUnF5YnV5Rm1abDRta3BiZ1R6cllzSXNKd2k0Sk9COWlPVTRVajA0WFUyc2l2ZUF1aVZjcDFSOGdtaDBoUE1lUEVhbzRhVU5MZHV0b0c4UjNCd2EzQ0E?oc=5",
+    "category": "family",
+    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-24T01:12:57.473384",
+    "menu_name": "バーミヤン 40th ANNIVERSARY BOOK",
+    "one_liner": "桃ロゴポーチとエコバッグ付き記念本"
+  },
+  {
+    "id": "582a76d344055cb393cb3b99f60734ea",
+    "shop": "丸亀製麵",
+    "name": "丸亀製麺、期間限定「豚つけ汁うどん」9・2登場 3玉まで“同一価格”、濃厚魚介か旨辛か…選べる2種 - 山陽新聞デジタル｜さんデジ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tMVR0dTBpVzV3RzJpUm5tVVotTVR1QW1MVTUzNExQMGFZNnVoMVFvZWlyRT",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tMVR0dTBpVzV3RzJpUm5tVVotTVR1QW1MVTUzNExQMGFZNnVoMVFvZWlyRTFZVjlBQjBOazdNclRsNExUeEszN0lIMnZDdU1uUTR5a0FYR2Q?oc=5",
+    "category": "men",
+    "published": "Fri, 23 Oct 2026 18:04:23 GMT",
+    "fetched_at": "2026-10-24T01:12:59.792312",
+    "menu_name": "豚つけ汁うどん",
+    "one_liner": "3玉まで同価格！濃厚で旨辛な選べるつけ汁"
+  },
+  {
+    "id": "ca478db0d0614aac7b9b7055e64db967",
+    "shop": "丸亀製麵",
+    "name": "【丸亀製麺】濃厚味噌だしが麺に絡む! 豚肉がっつり、野菜も山盛り、秋の新作うどんが登場 - ニンニクが効いた「肉辛まぜうどん」も - マイナビニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQMjZHTDdiVWs5a2JibFd3Z1I0MkZzcjhKMkliTXpiR1JDbkFpT1ZwaTlWU1",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQMjZHTDdiVWs5a2JibFd3Z1I0MkZzcjhKMkliTXpiR1JDbkFpT1ZwaTlWU1VSNlVzOVhERUt1VU5QWFhiWHNlSUlaNTVsWm5VdWN5YU1ibnRRRC1l?oc=5",
+    "category": "men",
+    "published": "Wed, 21 Oct 2026 04:10:57 GMT",
+    "fetched_at": "2026-10-24T01:12:59.793503",
+    "menu_name": "濃厚味噌だしが麺に絡む! 豚肉がっつり、野菜も山盛り、秋の新作うどん",
+    "one_liner": "濃厚味噌と山盛り野菜の秋うどん"
   }
 ]
