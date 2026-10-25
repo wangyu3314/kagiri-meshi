@@ -156,18 +156,6 @@
     "one_liner": "長野市の味覚を堪能できるフェア"
   },
   {
-    "id": "9c3d8718288aa76833d8a57a32783b25",
-    "shop": "マクドナルド",
-    "name": "【マクドナルド】月見シリーズ初のじゃがいも素材!9月24日発売「北海道産じゃがペッパー月見」第1弾の「炙り牛すき焼き風月見」は9月23日まで（めざましmedia） - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8ycWY2RjNYOXJWN0RGX3lId2o1cHJNMlRmb0lHVGRkZkdKX25uWVVxejJlUk",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ycWY2RjNYOXJWN0RGX3lId2o1cHJNMlRmb0lHVGRkZkdKX25uWVVxejJlUkxIOEJPdmpiUHY1X2NCWXRWTHZwME4zT0Q4ZlFEQWxFME13YklpMGFiNXA1UW1XLUZLb1gxRlNhYWwzMmVzcTBneXVvZ0VhUmNlUG8?oc=5",
-    "category": "burger",
-    "published": "Wed, 23 Sep 2026 02:50:29 GMT",
-    "fetched_at": "2026-09-27T00:59:12.161574",
-    "menu_name": "北海道産じゃがペッパー月見",
-    "one_liner": "月見初のじゃがいも素材を使った新作"
-  },
-  {
     "id": "1e602ce17bb5b864ec09f09a63f0ad4f",
     "shop": "スターバックス",
     "name": "Pokemon × STARBUCKSのコラボアイテムが9/30より発売！ピカチュウなど人気ポケモンのグラフィックタンブラーなど多彩なグッズ類に注目 - snkrdunk.com",
@@ -214,18 +202,6 @@
     "fetched_at": "2026-09-27T00:59:36.743022",
     "menu_name": "海鮮フライ定食",
     "one_liner": "史上最大級の大海老と広島産牡蠣の贅沢セット"
-  },
-  {
-    "id": "73fe11c196b878c180338382805d8b93",
-    "shop": "ココス",
-    "name": "至福の“ふわふわ”食感！進化した味わい多彩な純氷かき氷がココスで期間限定で販売(1/2) - walkerplus.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YdVF1ekhycG0xMy1zdkxMX3JTVkFoWE93MUpzbUh1RkVQV1NCVTB2R2d4Y2",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YdVF1ekhycG0xMy1zdkxMX3JTVkFoWE93MUpzbUh1RkVQV1NCVTB2R2d4Y2lQOHRycWdfRVRFTDRvaDYxbm9hRV9RZ3kyUWFIMW1PMHp30gFbQVVfeXFMT1BIRWJRQ0N5UDU3QkpCdnN3V1Y1b1BXdk9sTTNUY2FGYnpfSjc1N0lHZzFYZFMya0xGT2Y0YWI0Nnh6cW13M1Z2RDhnY09qaTdhcHpaYm5vcEg4TQ?oc=5",
-    "category": "family",
-    "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-09-27T00:59:44.013240",
-    "menu_name": "純氷かき氷",
-    "one_liner": "至福のふわふわ食感を楽しめる"
   },
   {
     "id": "7000240310ada45a57f85536af7222b4",
@@ -1680,18 +1656,6 @@
     "one_liner": "味噌を隠し味にした和風デミグラス"
   },
   {
-    "id": "04e27d10bd6d2dd48bd2eac0ae22b495",
-    "shop": "スシロー",
-    "name": "中村倫也「ドア×ドアクエスト」で韓国スシロー潜入！ NAZEは新メニュー開発に挑戦 - 推し楽",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1PX2dIWGhPWnNENWNHRWJROGN2R1Jxb3JPanJsemo5aU43YTNpSW1OMkZqcj",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PX2dIWGhPWnNENWNHRWJROGN2R1Jxb3JPanJsemo5aU43YTNpSW1OMkZqcjQ4TjFlc1ZHa2xGUnZQaEo5c3dYOGt0RldGQTZJUm42d0lHQlNNZXpuZGtuWWhVNWpOR2lQM1NkWWxVZTBOZlU?oc=5",
-    "category": "sushi",
-    "published": "Wed, 23 Sep 2026 21:32:00 GMT",
-    "fetched_at": "2026-10-10T01:57:06.323757",
-    "menu_name": "ドア×ドアクエスト",
-    "one_liner": "韓国スシローで開発された絶品新メニュー"
-  },
-  {
     "id": "ba67b4576a4911879ec4fd5500170593",
     "shop": "魚べい",
     "name": "一本穴子や大切りえんがわが登場！秋のお芋スイーツも楽しめる『でかネタ祭』開催 魚べい・元気寿司 - エンタのおはなし",
@@ -3142,5 +3106,77 @@
     "fetched_at": "2026-10-24T01:12:59.793503",
     "menu_name": "濃厚味噌だしが麺に絡む! 豚肉がっつり、野菜も山盛り、秋の新作うどん",
     "one_liner": "濃厚味噌と山盛り野菜の秋うどん"
+  },
+  {
+    "id": "8d38278feaa1f08fd6e8bcef7f8d6d6e",
+    "shop": "マクドナルド",
+    "name": "10/21(水)発売【マクドナルド】新作がさっそく話題！「想像以上のおいしさ♡」「これは大優勝！」 - TRILL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KT20tX3lnRm1UbzBQQWVFamg2ckR2TlRrdXNyQkJORHlZN214X2tRTVdLZF",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KT20tX3lnRm1UbzBQQWVFamg2ckR2TlRrdXNyQkJORHlZN214X2tRTVdLZFpCVFc0a2o3ZmR5QUZSeks5a281ZUxsV1JOZ00?oc=5",
+    "category": "burger",
+    "published": "Fri, 23 Oct 2026 05:19:52 GMT",
+    "fetched_at": "2026-10-25T00:36:51.631346",
+    "menu_name": "新作",
+    "one_liner": "想像以上のおいしさと話題の新作"
+  },
+  {
+    "id": "a81ab02343c099a9956290b450880e46",
+    "shop": "バーガーキング",
+    "name": "【近日発売】「ケンタ」と「マクド」が…！ ほぼ同時に 《鶏もも肉バーガー》！ ハーブ＆スパイス（490円～）か、ザクザク＆タルタル（460円～）か！？ - LASISA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1qa0NZTXJHM05nN0l2UXRub2hia2ZZakdoQU05RGU4UEVEQkU3Q09leGdUX3",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1qa0NZTXJHM05nN0l2UXRub2hia2ZZakdoQU05RGU4UEVEQkU3Q09leGdUX3QwTk9rU3JiaUZtZ25nbnRs?oc=5",
+    "category": "burger",
+    "published": "Sat, 10 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-25T00:36:56.023347",
+    "menu_name": "鶏もも肉バーガー",
+    "one_liner": "ハーブかタルタルか、贅沢な鶏もも肉の競演"
+  },
+  {
+    "id": "70b4033f8c9c8d04d83a2544d5314023",
+    "shop": "ガスト",
+    "name": "【動画】ミセス藤澤涼架、“シェフりょうちゃん”姿で登場 思い出のガストとコラボに「涙が出てきそう」 - Mantan Web",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90Q3lZbDNOckpnc0g3ZGp2MTA0WUwtZG8tMEpTTmtfN0ZjcDZ0N3VKZVB3R3",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90Q3lZbDNOckpnc0g3ZGp2MTA0WUwtZG8tMEpTTmtfN0ZjcDZ0N3VKZVB3R3hXQmhxa3hrcUM0Tl9LT0FRMlBTMnFqVFdIUnV3eFdhZlZYVQ?oc=5",
+    "category": "family",
+    "published": "Wed, 21 Oct 2026 13:30:00 GMT",
+    "fetched_at": "2026-10-25T00:37:24.004081",
+    "menu_name": "ミセス藤澤涼架とのコラボメニュー",
+    "one_liner": "シェフりょうちゃんが手がける想いの詰まった限定品"
+  },
+  {
+    "id": "e18f1c1da64eb81dbcd8f9ed83391ad9",
+    "shop": "ココス",
+    "name": "至福の“ふわふわ”食感！進化した味わい多彩な純氷かき氷がココスで期間限定で販売(1/2) - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YdVF1ekhycG0xMy1zdkxMX3JTVkFoWE93MUpzbUh1RkVQV1NCVTB2R2d4Y2",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YdVF1ekhycG0xMy1zdkxMX3JTVkFoWE93MUpzbUh1RkVQV1NCVTB2R2d4Y2lQOHRycWdfRVRFTDRvaDYxbm9hRV9RZ3kyUWFIMW1PMHp30gFbQVVfeXFMT1BIRWJRQ0N5UDU3QkpCdnN3V1Y1b1BXdk9sTTNUY2FGYnpfSjc1N0lHZzFYZFMya0xGT2Y0YWI0Nnh6cW13M1Z2RDhnY09qaTdhcHpaYm5vcEg4TQ?oc=5",
+    "category": "family",
+    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-10-25T00:37:28.615238",
+    "menu_name": "純氷かき氷",
+    "one_liner": "至福のふわふわ食感が楽しめるかき氷"
+  },
+  {
+    "id": "c748a380577bfe9fd1cdf0a0c3afc71c",
+    "shop": "ココス",
+    "name": "牡蠣のクリームスープパスタ&牡蠣ときのこのアヒージョが登場!【ココス「今月のグルメ～11月～」】 - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uRDZ3QXNBVlVxOUIyUzgyYUdNZ0tkUVl4SGpUNmd3dTZYSm5PWnI2ZFdJUi",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uRDZ3QXNBVlVxOUIyUzgyYUdNZ0tkUVl4SGpUNmd3dTZYSm5PWnI2ZFdJUi14ZFlEUFVXT0ZwZ3YtRFFreGNDVUNiaW1TVndRYmhMaQ?oc=5",
+    "category": "family",
+    "published": "Sat, 24 Oct 2026 01:22:14 GMT",
+    "fetched_at": "2026-10-25T00:37:29.152578",
+    "menu_name": "牡蠣のクリームスープパスタ&牡蠣ときのこのアヒージョ",
+    "one_liner": "旬の牡蠣を贅沢に使用した秋の味覚"
+  },
+  {
+    "id": "b3dfadc5f74d4986c38702aa815bb5ec",
+    "shop": "ジョナサン",
+    "name": "おいしく食べて無理なく健康に！竹脇まりなさん監修「PFCバランスメニュー」が『ジョナサン』など3ブランドに登場 - Excite エキサイト",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZHRUSUlyRDlvNUJIbno1NXVrMzJrZEZFTHlteEdCSHh6NmlMYklDWEpMVE",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZHRUSUlyRDlvNUJIbno1NXVrMzJrZEZFTHlteEdCSHh6NmlMYklDWEpMVEllQjluVHp6WDBORnoxR2tydWNWd3MxS1ZVS0hFOFBiWWtyMnlpeklmRnN5REtDOVFhTkc3Tm14cGJ0QmxsUlFCcHdR?oc=5",
+    "category": "family",
+    "published": "Fri, 23 Oct 2026 08:30:00 GMT",
+    "fetched_at": "2026-10-25T00:37:32.217811",
+    "menu_name": "PFCバランスメニュー",
+    "one_liner": "竹脇まりな監修の健康メニュー"
   }
 ]
