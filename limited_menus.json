@@ -1,41 +1,5 @@
 [
   {
-    "id": "ccbf8908f7e9490aa43cde089cafbdc9",
-    "shop": "かっぱ寿司",
-    "name": "かっぱ寿司、うに･いくらを盛り付けた “ご褒美小丼” 期間限定販売 食べ切りサイズで提供、セットも展開 - ssnp.co.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WM1BoREJHVTZENUNxQnZPMHNaSktJWU1Dc09fQldmcnRoYTFJQmZiUHVmak",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WM1BoREJHVTZENUNxQnZPMHNaSktJWU1Dc09fQldmcnRoYTFJQmZiUHVmak1VdmtXQTQ5cVhlNkRNdzc1T0k5bjU5cDA4QTU4b3g2NA?oc=5",
-    "category": "sushi",
-    "published": "Wed, 30 Sep 2026 07:20:33 GMT",
-    "fetched_at": "2026-10-01T01:38:07.022420",
-    "menu_name": "ご褒美小丼",
-    "one_liner": "うに・いくらを贅沢に盛った食べ切りサイズの小丼"
-  },
-  {
-    "id": "1fe8cde6fc80329b66bd2571e1202db4",
-    "shop": "ミスタードーナツ",
-    "name": "【本日発売】「ミスド新商品」9/30に販売スタート！秋冬あったかメニューが多数ラインナップ - うまいめし - ウレぴあ総研",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IX1hXSWFHdURpcG9IazBoNG8wZHNXbVpkb0h6eWZiazIzQU85bGtjUXlYeX",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IX1hXSWFHdURpcG9IazBoNG8wZHNXbVpkb0h6eWZiazIzQU85bGtjUXlYeXUyOEVCdnUyYndJYjQ1bDBRZE4xQW9hSmVPeGpkcEE?oc=5",
-    "category": "cafe",
-    "published": "Wed, 30 Sep 2026 02:53:00 GMT",
-    "fetched_at": "2026-10-01T01:38:30.311621",
-    "menu_name": "ミスド新商品",
-    "one_liner": "秋冬にぴったりなあったかメニュー"
-  },
-  {
-    "id": "764df859dc2eaf11193f4a1c73000bda",
-    "shop": "松屋",
-    "name": "『ふしぎ遊戯』新作グッズが発売中！“傘”テーマの描き下ろしと場面写アイテムが松屋浅草に10月6日まで登場 - にじめん",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE95RWFXVmFVVHJSMmxKeXEwYnFoT3Z4SUNWdVlCaEhPeXk1b2x5Qzg2Uk1ndW",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95RWFXVmFVVHJSMmxKeXEwYnFoT3Z4SUNWdVlCaEhPeXk1b2x5Qzg2Uk1ndW4zSlRYMm8xOWctQWdMX2hZc21BanpSM2JfZkl6VG5xQVpEQQ?oc=5",
-    "category": "don",
-    "published": "Wed, 30 Sep 2026 08:32:00 GMT",
-    "fetched_at": "2026-10-01T01:38:36.550702",
-    "menu_name": "『ふしぎ遊戯』新作グッズ",
-    "one_liner": "傘テーマの描き下ろしグッズ"
-  },
-  {
     "id": "d73a894e78d8bb28fbe0b20ca935cdb1",
     "shop": "バーガーキング",
     "name": "バーガーキング「ビッグマウスギルティ」2種が10月2日発売！ 特製ガーリックソース仕立て、チーズチキンナゲットも復活 - AppBank",
@@ -72,18 +36,6 @@
     "one_liner": "ハロウィン限定の芋と黒ごまスイーツ"
   },
   {
-    "id": "942283fe9562ec9303729950203c4201",
-    "shop": "デニーズ",
-    "name": "デニーズ、飯田商店監修「味噌らぁ麺」が専用麺と焼きチャーシューになって再登場！ 「辛味噌らぁ麺」「焼き餃子」も - グルメ Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1NZ3I4Z1lHSzJBd2lVU0VZLVlUVWI0Undub3p6ZGxMaWZqQmFtWGJhcUpaYk",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NZ3I4Z1lHSzJBd2lVU0VZLVlUVWI0Undub3p6ZGxMaWZqQmFtWGJhcUpaYkN2Z3c5UTBqX2RkaFhCY0xZMW9jajBWNDVCdkRXVzllenY4b1ZNMUFGemxwcHlFWnNoTnVNZlE?oc=5",
-    "category": "family",
-    "published": "Thu, 01 Oct 2026 01:16:44 GMT",
-    "fetched_at": "2026-10-02T01:52:17.074580",
-    "menu_name": "飯田商店監修「味噌らぁ麺」",
-    "one_liner": "専用麺と焼きチャーシューで刷新"
-  },
-  {
     "id": "02af27f600997d6a101733efcf7fe180",
     "shop": "びっくりドンキー",
     "name": "びっくりドンキー「さつまいもデザート」発売 おいもパフェ・ジョッキパフェなど4種、「今年もガリバー！」も開催 - Yahoo!ニュース",
@@ -94,18 +46,6 @@
     "fetched_at": "2026-10-02T01:52:20.226506",
     "menu_name": "さつまいもデザート",
     "one_liner": "秋の味覚を堪能できる新作パフェ"
-  },
-  {
-    "id": "19c23f92a17d086c71360bbed382fa44",
-    "shop": "びっくりドンキー",
-    "name": "高さ30cmパフェも登場！びっくりドンキーで史上最大ガリバーフェアが開催へ - いこーよニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xajZGOXNFb0VYQzVNeHpZZldaZFlNMklwU012c1RCODNUUmVUcnZHTUk2dH",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xajZGOXNFb0VYQzVNeHpZZldaZFlNMklwU012c1RCODNUUmVUcnZHTUk2dHVPeTV5QXVseGk5VnZadTE2Sk11RmlqcVdyTTZ1a2c?oc=5",
-    "category": "family",
-    "published": "Thu, 01 Oct 2026 00:14:15 GMT",
-    "fetched_at": "2026-10-02T01:52:20.226639",
-    "menu_name": "高さ30cmパフェ",
-    "one_liner": "驚異の高さ！史上最大級パフェ"
   },
   {
     "id": "36b14782e124254729f933da91d1577c",
@@ -192,30 +132,6 @@
     "one_liner": "かぼちゃの美味しさが詰まった濃厚タルト"
   },
   {
-    "id": "f6e3ee7152f5f7756f3e5631bda33d9d",
-    "shop": "マクドナルド",
-    "name": "マクドナルド、北海道91店舗で「月見バーガー」ほか“一部商品”あすまで販売休止 一部のビーフパティ「品質基準を満たしていない可能性」 - oricon.co.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OWhtZEV4aWwwZGliZ00xLWNIdUZKWW8yNzVSYkpXcnFCRGFzSTFHNUt5eG",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51OWhtZEV4aWwwZGliZ00xLWNIdUZKWW8yNzVSYkpXcnFCRGFzSTFHNUt5eGIyY3JlbUZhbWtrYmJYVXNoa25wa1dhZlA1S3BJd3U2YWFR?oc=5",
-    "category": "burger",
-    "published": "Thu, 01 Oct 2026 01:06:00 GMT",
-    "fetched_at": "2026-10-04T02:11:44.609975",
-    "menu_name": "月見バーガー",
-    "one_liner": "秋の訪れを感じる定番の卵バーガー"
-  },
-  {
-    "id": "9113e422644665570192526a92b0bc5d",
-    "shop": "モスバーガー",
-    "name": "黒毛和牛の旨味全開！モスバーガーから「モスの匠味 黒毛和牛のダブルチーズバーガー」が数量限定で登場！ - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DbEt4T0N3bUdLYWtOdDZGc0sxeUdhS2Q4NFJTZVdnakxnOHVBVlNkTlFrak",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DbEt4T0N3bUdLYWtOdDZGc0sxeUdhS2Q4NFJTZVdnakxnOHVBVlNkTlFrak1Kck5wRWtBSE1WMVk3RF9nU29zclhLMmtDR19JQWg0MEZ30gFbQVVfeXFMUGFNekE0cGtZUVJaYVdfZm1sZGFzeHZlMFIyY0UzbnpfT0RFdXBqNk50XzZvYWFXVWY4NHBNT1NTaXNuOWN2MkpWc0JLcXRnUWlXTVp5dVA3NHl3aw?oc=5",
-    "category": "burger",
-    "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-04T02:11:46.255893",
-    "menu_name": "モスの匠味 黒毛和牛のダブルチーズバーガー",
-    "one_liner": "黒毛和牛の旨味が全開の贅沢バーガー"
-  },
-  {
     "id": "7e92905fda1a0ce74c28cceb75f84e21",
     "shop": "ゼッテリア",
     "name": "ゼッテリア、「ナルミヤキャラクターズ」とコラボ 限定アクリルカラビナ付きセット発売 ナカムラくんやべリエちゃんが制服姿に - 山陽新聞",
@@ -226,18 +142,6 @@
     "fetched_at": "2026-10-04T02:11:50.410872",
     "menu_name": "限定アクリルカラビナ付きセット",
     "one_liner": "制服姿のキャラが可愛い限定セット"
-  },
-  {
-    "id": "091f544e1041c460bb979df397d51991",
-    "shop": "ミスタードーナツ",
-    "name": "【ミスド】季節限定メニュー3種が登場！『世界の料理を楽しむサクッとパイ』その中身は？（NET ViVi） - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBka1B2bDBsTldTVldWUUIwQkVYVXhQallfMFR4a2xYT3plNGpVTGo2Yi1xbT",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBka1B2bDBsTldTVldWUUIwQkVYVXhQallfMFR4a2xYT3plNGpVTGo2Yi1xbTZHS0xiMDYyZ3U2M3VkSi1hQnRJaW9VMUJoSkZFR2RENUFIY3hrb0dSU01KcDY0RU1LNW5Id3dINkFISkNmYWhfX19QMVJNQ1pKNVE?oc=5",
-    "category": "cafe",
-    "published": "Wed, 30 Sep 2026 22:50:49 GMT",
-    "fetched_at": "2026-10-04T02:11:59.408628",
-    "menu_name": "世界の料理を楽しむサクッとパイ",
-    "one_liner": "世界の料理が楽しめるサクッと食感の限定パイ"
   },
   {
     "id": "3c73b00313ef9170580d8e829cad0ee6",
@@ -1246,18 +1150,6 @@
     "fetched_at": "2026-10-14T01:28:05.331646",
     "menu_name": "特製の本格辛味ソース",
     "one_liner": "特製ソースで食欲そそる本格辛味"
-  },
-  {
-    "id": "5058b5ede651d2bf387feb4cf650a7aa",
-    "shop": "かっぱ寿司",
-    "name": "かっぱ寿司、「りんご×寿司」の新提案 - 長野市コラボで限定メニュー登場 - マイナビニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEUm1vQ0FrcXdEQUgyYUhVM0p5d0Q1andHQ0RJVm9kQnZGMzFDdjVRYUtGS1",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEUm1vQ0FrcXdEQUgyYUhVM0p5d0Q1andHQ0RJVm9kQnZGMzFDdjVRYUtGS1lJVEdxZFBNVXhOUTVNMlBweVZQaDY3Qk5tRWlZbk9EYUxsQmkwQnlJ?oc=5",
-    "category": "sushi",
-    "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-15T00:59:58.529265",
-    "menu_name": "りんご×寿司",
-    "one_liner": "長野産りんごを使った斬新な寿司"
   },
   {
     "id": "b3012359a793812f8c74695c5a66ee0f",
