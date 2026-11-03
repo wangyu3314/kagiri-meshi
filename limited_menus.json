@@ -1,65 +1,5 @@
 [
   {
-    "id": "4c6342bd675df1f6072ce05008bae355",
-    "shop": "タリーズコーヒー",
-    "name": "かぼちゃを使ったドリンク3品が新登場!「かぼちゃのプリン」をモチーフにしたデザートドリンクなど【タリーズ】 - 食品産業新聞社ニュースWEB",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rdGlpSkNGRkFGc1hocWlyX1dVdGEtSUdGeWxnVml2NFhWbVp4cTdnMTkzVX",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rdGlpSkNGRkFGc1hocWlyX1dVdGEtSUdGeWxnVml2NFhWbVp4cTdnMTkzVXNtV25aMTJ4NjhjLVRXSkNRbmpnTjNXYmpEOHFLNEQtbw?oc=5",
-    "category": "cafe",
-    "published": "Fri, 02 Oct 2026 03:22:53 GMT",
-    "fetched_at": "2026-10-03T01:30:13.737971",
-    "menu_name": "かぼちゃを使ったドリンク3品",
-    "one_liner": "かぼちゃプリンを再現した絶品ドリンク"
-  },
-  {
-    "id": "416c2ea80bb30fe5264e6b1e7ed5ac11",
-    "shop": "松屋",
-    "name": "【松屋フーズ】昨シーズン2万セット超を販売した大ヒット企画！松屋フーズの“おいしい”を凝縮した「2027年 懸賞付き福袋」が新登場～2026年10月3日（土）～2027年2月28日（日）期間限定販売 - MANTANWEB",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1RZVJiYk1FenpDRjdvSkp5MG94S2FILTRJYjZxOWdRS2RmTGh0eUxrVG92bj",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RZVJiYk1FenpDRjdvSkp5MG94S2FILTRJYjZxOWdRS2RmTGh0eUxrVG92bjNqejczemhxYlMxU1pTa1U4NTN3UVBHWUtrMWx4WG04akMzN2ZtSFA0ZXVfMHlmTno2UmVCRlJFTF9QeUxfbFJudXc?oc=5",
-    "category": "don",
-    "published": "Fri, 02 Oct 2026 07:44:25 GMT",
-    "fetched_at": "2026-10-03T01:30:21.232604",
-    "menu_name": "2027年 懸賞付き福袋",
-    "one_liner": "松屋フーズの“おいしい”を凝縮した大ヒット福袋"
-  },
-  {
-    "id": "71a27176e738f80852953ee5bc1ea3db",
-    "shop": "吉野家",
-    "name": "吉野家、新定食「金目鯛の煮付け」登場 「牛肉だけでなく魚メニューもお楽しみいただきたい」【概要・価格】 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9mZXFsQVI0MEVyVHc3SGVEWGZSZ0p3bTRoZ1BoUnctU3RlTVRsY1dEclVwOV",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mZXFsQVI0MEVyVHc3SGVEWGZSZ0p3bTRoZ1BoUnctU3RlTVRsY1dEclVwOVUtNHNOb2lqU19VNlBuTXdHUG0tbGVnY2xGbV9tUlBuSUlrd3JlbkFpc3Baei13YW5jZWRMYnFFQk9B?oc=5",
-    "category": "don",
-    "published": "Fri, 02 Oct 2026 03:58:26 GMT",
-    "fetched_at": "2026-10-03T01:30:23.405438",
-    "menu_name": "金目鯛の煮付け",
-    "one_liner": "吉野家で楽しむ贅沢な金目鯛の煮付け"
-  },
-  {
-    "id": "6a3577edfd06da2bfc34e89f4be7b4d0",
-    "shop": "幸楽苑",
-    "name": "チャーシュー5枚＋濃厚スープの「味噌とんこつらーめん」幸楽苑に限定登場 - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OaTZVME16QzVfQmJONWNwMFdqOW1vS25VQXY5NDR6VWVfLVE2X1p1VTZubk",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OaTZVME16QzVfQmJONWNwMFdqOW1vS25VQXY5NDR6VWVfLVE2X1p1VTZubkxKLTlxNjhyUThnbkhUSV9EZS04TDNBT29jdkhhamtveQ?oc=5",
-    "category": "ramen",
-    "published": "Fri, 02 Oct 2026 09:00:00 GMT",
-    "fetched_at": "2026-10-03T01:30:46.285181",
-    "menu_name": "味噌とんこつらーめん",
-    "one_liner": "チャーシュー5枚の濃厚な一杯"
-  },
-  {
-    "id": "8a31283fd54b28141ef460c012a15216",
-    "shop": "幸楽苑",
-    "name": "ハーゲンダッツからかぼちゃづくし！「パパパパンプキンタルト」登場 - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wYUZMcGtsUHdIS3doZjZoekNJdTVKSmg0TU9QNWlEMmJFUDlnb09GRVBNRm",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wYUZMcGtsUHdIS3doZjZoekNJdTVKSmg0TU9QNWlEMmJFUDlnb09GRVBNRmdJVE5ZYkM3TW9CT0tEb3BrdWpyazFGclUzQkJXOTFDSA?oc=5",
-    "category": "ramen",
-    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-03T01:30:47.241341",
-    "menu_name": "パパパパンプキンタルト",
-    "one_liner": "かぼちゃの美味しさが詰まった濃厚タルト"
-  },
-  {
     "id": "7e92905fda1a0ce74c28cceb75f84e21",
     "shop": "ゼッテリア",
     "name": "ゼッテリア、「ナルミヤキャラクターズ」とコラボ 限定アクリルカラビナ付きセット発売 ナカムラくんやべリエちゃんが制服姿に - 山陽新聞",
@@ -166,30 +106,6 @@
     "fetched_at": "2026-10-06T02:34:30.919881",
     "menu_name": "うどんとだしだけ弁当",
     "one_liner": "シンプルを極めた300円のうどん"
-  },
-  {
-    "id": "8db92f0598744ebb66bfab955f4f627d",
-    "shop": "はなまるうどん",
-    "name": "はなまるうどん、総重量約1キロ「爆坦々」期間限定発売へ 限定29食が290円で食べられる店舗も - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zdS1PUndtanJrNHFqU09jcFY0akk4SFQ3a3FoSjRpamhkQmdFTC1zMC1NaH",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zdS1PUndtanJrNHFqU09jcFY0akk4SFQ3a3FoSjRpamhkQmdFTC1zMC1NaHJ6aUZLNmstTk9JWUYtMzdiVlBOYjhFX0RFMGdNOVRxZXBqT2I?oc=5",
-    "category": "men",
-    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-06T02:34:31.423829",
-    "menu_name": "爆坦々",
-    "one_liner": "総重量約1キロの圧倒的ボリューム"
-  },
-  {
-    "id": "2adf0034385333beb4c35ff84c13824e",
-    "shop": "洋麺屋五右衛門",
-    "name": "秋の味覚を詰め放題！西区亀貝『いっぺこ～と』で『きのこ祭り』開催！10月3日～4日。『柿ま～けっと』は10月10日～12日、17日～18日。『焼き栗販売』は10月12日、24日～25日。 - にいがた速報",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5OGJWbGFXUE1nX0pUOGFKaktSd29fT3FtdF94OFhLb1dQY2tLV01mbWdDbT",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5OGJWbGFXUE1nX0pUOGFKaktSd29fT3FtdF94OFhLb1dQY2tLV01mbWdDbTd2eXc0SnYzUlk0OWJoTm5WMHg1aHE4RktQbklJc3c?oc=5",
-    "category": "men",
-    "published": "Fri, 02 Oct 2026 05:00:00 GMT",
-    "fetched_at": "2026-10-06T02:34:34.840567",
-    "menu_name": "秋の味覚を詰め放題",
-    "one_liner": "秋の味覚を存分に楽しめる詰め放題"
   },
   {
     "id": "46835bae13b273b7ef10e49b856db658",
@@ -2004,18 +1920,6 @@
     "one_liner": "シェフりょうちゃんが手がける想いの詰まった限定品"
   },
   {
-    "id": "e18f1c1da64eb81dbcd8f9ed83391ad9",
-    "shop": "ココス",
-    "name": "至福の“ふわふわ”食感！進化した味わい多彩な純氷かき氷がココスで期間限定で販売(1/2) - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YdVF1ekhycG0xMy1zdkxMX3JTVkFoWE93MUpzbUh1RkVQV1NCVTB2R2d4Y2",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YdVF1ekhycG0xMy1zdkxMX3JTVkFoWE93MUpzbUh1RkVQV1NCVTB2R2d4Y2lQOHRycWdfRVRFTDRvaDYxbm9hRV9RZ3kyUWFIMW1PMHp30gFbQVVfeXFMT1BIRWJRQ0N5UDU3QkpCdnN3V1Y1b1BXdk9sTTNUY2FGYnpfSjc1N0lHZzFYZFMya0xGT2Y0YWI0Nnh6cW13M1Z2RDhnY09qaTdhcHpaYm5vcEg4TQ?oc=5",
-    "category": "family",
-    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-25T00:37:28.615238",
-    "menu_name": "純氷かき氷",
-    "one_liner": "至福のふわふわ食感が楽しめるかき氷"
-  },
-  {
     "id": "c748a380577bfe9fd1cdf0a0c3afc71c",
     "shop": "ココス",
     "name": "牡蠣のクリームスープパスタ&牡蠣ときのこのアヒージョが登場!【ココス「今月のグルメ～11月～」】 - 食品産業新聞社ニュースWEB",
@@ -2988,18 +2892,6 @@
     "one_liner": "こだわりの鶏もも肉を使用した新バーガー"
   },
   {
-    "id": "44f2bdeaf9ac7921fc47e947196910d5",
-    "shop": "バーガーキング",
-    "name": "バーガーキング、にんにく炸裂の「ビッグマウスギルティ」2種が新登場!ガツンとにんにくが効いた「特製ガーリックソース」が味の決め手（めざましmedia） - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9USHNreF9CLWxGcno1NzlGazV4NmxZWWNlN3pxeUs0SFU1T3AyVFAzX1V1ZH",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9USHNreF9CLWxGcno1NzlGazV4NmxZWWNlN3pxeUs0SFU1T3AyVFAzX1V1ZHNYdlRCQXhPQzh2eTl2d0Y1Szl0QWZlZHFlSlNUVUFwMXpWa0IwWFRMalJDeW81bW5CcVFNSEVMUEpSWVVrMEhacl9vc0pRSXNfZzQ?oc=5",
-    "category": "burger",
-    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-02T01:55:53.389445",
-    "menu_name": "ビッグマウスギルティ",
-    "one_liner": "特製ガーリックソースが効いた新バーガー"
-  },
-  {
     "id": "1d28e61647b106016a4c6c3c2981e19d",
     "shop": "ゼッテリア",
     "name": "【ゼッテリア】新「和バーガー」発売 “わさびタルタル”＆舞茸＆特製てりやきソース（オトナンサー） - Yahoo!ニュース",
@@ -3190,5 +3082,125 @@
     "fetched_at": "2026-11-02T01:56:33.531440",
     "menu_name": "巡る鶏白湯",
     "one_liner": "世界で同時発売される創業祭記念ラーメン"
+  },
+  {
+    "id": "ca86263f0477880c53468419e1a8a65c",
+    "shop": "はま寿司",
+    "name": "購入制限なくていいの〜！？即完売の予感【はま寿司】「これアタリじゃね？」限定の新作最強フェア始まる - ヨムーノ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1sb2x6UlFCb3VqVFRmVGRUVElYUUx6NXFxZU1oZzY0YkhSWnpkZzJ1TU5KSl",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1sb2x6UlFCb3VqVFRmVGRUVElYUUx6NXFxZU1oZzY0YkhSWnpkZzJ1TU5KSl9zNU5sV0E5dGVTdDRNWnho?oc=5",
+    "category": "sushi",
+    "published": "Tue, 03 Nov 2026 01:07:20 GMT",
+    "fetched_at": "2026-11-03T03:45:48.666897",
+    "menu_name": "限定の新作最強フェア",
+    "one_liner": "即完売の予感！見逃せない新作"
+  },
+  {
+    "id": "c1be60065ea1c0a5ecad4c9484beb211",
+    "shop": "はま寿司",
+    "name": "『DOUTOR監修 世にもおいしいカフェオレブラウニー』登場！全国のスーパーやドラックストアなどで販売 - GourmetBiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yZmx6VXJWRF9jQ3NJUFdJa0pyLUhKcUNlSFY2NVM0cWtCdmQxb0wzdlNRdT",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yZmx6VXJWRF9jQ3NJUFdJa0pyLUhKcUNlSFY2NVM0cWtCdmQxb0wzdlNRdTU2WC1Kc1BkYzJidnpvM3A5R3ZLWUJR?oc=5",
+    "category": "sushi",
+    "published": "Mon, 02 Nov 2026 03:01:16 GMT",
+    "fetched_at": "2026-11-03T03:45:49.430360",
+    "menu_name": "世にもおいしいカフェオレブラウニー",
+    "one_liner": "DOUTOR監修の濃厚なカフェオレ味"
+  },
+  {
+    "id": "12a7957baad0c1c963cc92c7509e8abf",
+    "shop": "マクドナルド",
+    "name": "マックの三角チョコパイに「いちご味」が新登場！10月7日発売、定番の黒も香ばしくリニューアル - やしおん",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Hck9mSGNITmlFY0puVmtfRXVodUJ3N3E4eDllZWljSG1nbVhpTUhURnlCaX",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Hck9mSGNITmlFY0puVmtfRXVodUJ3N3E4eDllZWljSG1nbVhpTUhURnlCaXJWaHFmNFEya0N1Mlk3ZVhDcHFV?oc=5",
+    "category": "burger",
+    "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-03T03:45:55.252700",
+    "menu_name": "三角チョコパイ いちご味",
+    "one_liner": "甘酸っぱいいちごが楽しめる新フレーバー"
+  },
+  {
+    "id": "2c13a196cdaf6ddc119f751448aeba9f",
+    "shop": "モスバーガー",
+    "name": "モスバーガーに期間限定フード続々！「白いモスバーガー」や「ホット スパイスモスチキン」も - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtamtUS2lydFlMN2g1bkR6M1NMSmhobkc3bktoczBjQ0FKeElaZWtIT2hlZ0",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtamtUS2lydFlMN2g1bkR6M1NMSmhobkc3bktoczBjQ0FKeElaZWtIT2hlZ0FzdHFiN1RrYS1wc3g0TFdfUkY1VU5renRxa01KWHZicE1R0gFbQVVfeXFMUEt3ZDVJQ0FJU1RFeUE4Nzcxc1NSUE84Q21sVm1xYnZsTUxYSHp0c21NUzhHeTB3aVFmRDlRRnRhaEhIM2NMbjdyaXo1akx2X0RyeEN3ck5xUDJpRQ?oc=5",
+    "category": "burger",
+    "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-03T03:45:55.608295",
+    "menu_name": "白いモスバーガー、ホット スパイスモスチキン",
+    "one_liner": "期間限定の注目バーガーとスパイシーチキン"
+  },
+  {
+    "id": "661749565981588bcaf3750f3d8bc798",
+    "shop": "タリーズコーヒー",
+    "name": "【タリーズ新作】夏のご褒美フローズン「国産白桃のとろっとピーチシェイク」「国産メロンの食べごろメロンシェイク」が発売 - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRVGgtcFFRbGotN1dETXFnN3dTdlBTbzdDMFh0eWdFUVptSjc1cmFaU1pBcH",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRVGgtcFFRbGotN1dETXFnN3dTdlBTbzdDMFh0eWdFUVptSjc1cmFaU1pBcHRPc3JpT1FydVM5YzI4SmVZblpfU1R0SnFsamVlRnN4VW930gFbQVVfeXFMUGZESWtOVG5RVTVtREFDTTNha2V2TkJQRl9hQzBqcjdwZlphWW1xR2k4bmdKVERpVVhsZU5vVEdNXy0zRFlnLXBUUFpnMUxMUWhKaTBfV3hVejR3Zw?oc=5",
+    "category": "cafe",
+    "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-03T03:46:05.227254",
+    "menu_name": "国産白桃のとろっとピーチシェイク、国産メロンの食べごろメロンシェイク",
+    "one_liner": "国産フルーツの贅沢な味わい"
+  },
+  {
+    "id": "3d8722accc40d6725026c8cf949f90cb",
+    "shop": "松屋",
+    "name": "リラックマたちが“魔女っ子”に!? 松屋銀座で『マクマクミラクルワンダーランド』期間限定で開催 “リラックマストア店長”の大集合も - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBUaXpsT3h0WFk4N2gxMFhBM2NNT1pGZER0OEFXcjd6MTJDZ1hid25nQ3p2c0",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUaXpsT3h0WFk4N2gxMFhBM2NNT1pGZER0OEFXcjd6MTJDZ1hid25nQ3p2c0ViX0JmRnlXMk5HZlpzNzRYNG1FelZ4TzU4TlJKUi1XaTczVEk5SVdQYlpLWWJVQTFnSktiVmxxRXN6TXkwVVI3?oc=5",
+    "category": "don",
+    "published": "Sat, 31 Oct 2026 19:07:39 GMT",
+    "fetched_at": "2026-11-03T03:46:12.673407",
+    "menu_name": "マクマクミラクルワンダーランド",
+    "one_liner": "リラックマが魔女っ子に変身する限定コラボ"
+  },
+  {
+    "id": "71a27176e738f80852953ee5bc1ea3db",
+    "shop": "吉野家",
+    "name": "吉野家、新定食「金目鯛の煮付け」登場 「牛肉だけでなく魚メニューもお楽しみいただきたい」【概要・価格】 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IVVE2dkpaOXhoWWx3cWhtTHN4c2VUOHRZQnhhbmVkRVV5UlZzLVgzMEZicV",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IVVE2dkpaOXhoWWx3cWhtTHN4c2VUOHRZQnhhbmVkRVV5UlZzLVgzMEZicVY3dHZfRUJ2SjBRYnMtMl93cTFGYjg1OV9qWlljSU94blFQNGc?oc=5",
+    "category": "don",
+    "published": "Mon, 02 Nov 2026 21:55:20 GMT",
+    "fetched_at": "2026-11-03T03:46:14.521891",
+    "menu_name": "金目鯛の煮付け",
+    "one_liner": "吉野家で楽しむ贅沢な魚の煮付け"
+  },
+  {
+    "id": "43fa58548d14861a1ab68bc003c8b34d",
+    "shop": "ロイヤルホスト",
+    "name": "“ロイヤルホスト史上最高”と自負する待望のフェア復活！「Good JAPAN 夏のカレーフェア」を開催 - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPVTEzb0Q4dUxqeVVoLTNveGJybzdVTGtBcXRaejhRd2thbjJmMXV3NlRZTV",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPVTEzb0Q4dUxqeVVoLTNveGJybzdVTGtBcXRaejhRd2thbjJmMXV3NlRZTVBDMWxWRUpXQy0yS3JlQjJ3UU95RE5iRjVmT1k3UDlqRm5n0gFbQVVfeXFMTTZPNXFKYm5URHFxRkFnd2xHbnBRS1A3UlNnUnp1UDlTWURYUWM0WFJlaG5rZnUwRUlvMzFudFM2azR6QzJRVXhGTWRLTGZLWDFyZUFRWW9PUGFFRQ?oc=5",
+    "category": "family",
+    "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-03T03:46:21.593642",
+    "menu_name": "Good JAPAN 夏のカレーフェア",
+    "one_liner": "ロイヤルホスト史上最高のカレー"
+  },
+  {
+    "id": "aed845ca2a773a6d0d8a8e300d208646",
+    "shop": "ピザハット",
+    "name": "【お一人様500円～の最強コスパ！】ピザハットから「3種チーズのラザニア風ミートソースピザ」が新発売！大人から子供まで誰もが大好きな味わいで普段使いの新定番ピザに！ - ピザハット",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE96Z1VEblY0ZXc2bmdfUWJvcWNLVThZUE1BVDRxVTN4LXJhZnlMUlJRR01ReT",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96Z1VEblY0ZXc2bmdfUWJvcWNLVThZUE1BVDRxVTN4LXJhZnlMUlJRR01ReTN2bnJFbWpDQlZVcmlfM0pTY1dJcFdB?oc=5",
+    "category": "pizza",
+    "published": "Mon, 02 Nov 2026 23:55:56 GMT",
+    "fetched_at": "2026-11-03T03:46:41.828074",
+    "menu_name": "3種チーズのラザニア風ミートソースピザ",
+    "one_liner": "大人も子供も大好きな最強コスパピザ"
+  },
+  {
+    "id": "ea4b8a44d87b0b70a95d3f9552ff7bf4",
+    "shop": "ピザーラ",
+    "name": "ピザーラ「大人のピザシリーズ」新登場！ 素材にこだわった ちょっと大人のピザ 『カチョエペペ』『THE - ニコニコニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5peDhoRGQ3YWFnc1RlM0VwU3BMWHZyUUkzTWFMVXVPVnM4MXduel9EakpKTC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5peDhoRGQ3YWFnc1RlM0VwU3BMWHZyUUkzTWFMVXVPVnM4MXduel9EakpKTC1UQ0U1YkhYSkNwOG5xeVR0ZjdodklSMlgzUjc3YXdiSg?oc=5",
+    "category": "pizza",
+    "published": "Mon, 02 Nov 2026 09:15:33 GMT",
+    "fetched_at": "2026-11-03T03:46:43.605153",
+    "menu_name": "大人のピザシリーズ（カチョエペペ、THE）",
+    "one_liner": "素材にこだわった大人の贅沢ピザ"
   }
 ]
