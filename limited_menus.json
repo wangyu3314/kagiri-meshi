@@ -1,29 +1,5 @@
 [
   {
-    "id": "7e92905fda1a0ce74c28cceb75f84e21",
-    "shop": "ゼッテリア",
-    "name": "ゼッテリア、「ナルミヤキャラクターズ」とコラボ 限定アクリルカラビナ付きセット発売 ナカムラくんやべリエちゃんが制服姿に - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNnNPVlh0NTJtejk2THd3M2JnQVJ0Y0N6cjZkOGhScmJxdGs2TEp1NWQ1OG",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNnNPVlh0NTJtejk2THd3M2JnQVJ0Y0N6cjZkOGhScmJxdGs2TEp1NWQ1OGhhNEVVUWFFdzNWd0ZOSk9ka0QwMHZuYk5BeENzM2c?oc=5",
-    "category": "burger",
-    "published": "Sat, 03 Oct 2026 09:57:25 GMT",
-    "fetched_at": "2026-10-04T02:11:50.410872",
-    "menu_name": "限定アクリルカラビナ付きセット",
-    "one_liner": "制服姿のキャラが可愛い限定セット"
-  },
-  {
-    "id": "3c73b00313ef9170580d8e829cad0ee6",
-    "shop": "ガスト",
-    "name": "ガスト、34年前のメニューを復刻 創業当時に展開… 18日から限定で販売 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBndm1fYmNtWDBERzgwR0ZtS1pWdWlLSHpHVERVRVczSXcxdWxuSTBweEl6SE",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBndm1fYmNtWDBERzgwR0ZtS1pWdWlLSHpHVERVRVczSXcxdWxuSTBweEl6SEFiM3hkaVZJZFBya1p0WDRwZUJnd2thSWp0MWdOLTJFY2VZQmVrUjNC?oc=5",
-    "category": "family",
-    "published": "Sat, 03 Oct 2026 10:26:28 GMT",
-    "fetched_at": "2026-10-04T02:12:12.233884",
-    "menu_name": "34年前のメニュー",
-    "one_liner": "創業当時の懐かしい味を復刻"
-  },
-  {
     "id": "6c60d2704def955a54ea66391d32f54c",
     "shop": "ガスト",
     "name": "【きょうから】ガスト、人気20品が26％OFFのクーポンフェス開催 冷麺＆純氷かき氷も登場 - 山陽新聞",
@@ -418,18 +394,6 @@
     "fetched_at": "2026-10-09T02:36:33.988257",
     "menu_name": "おうちで回転寿司気分が味わえる限定アイテム",
     "one_liner": "自宅で手軽に回転寿司気分を楽しめる"
-  },
-  {
-    "id": "a275bd8cc97f25f7e7d62f6a1f0cab35",
-    "shop": "くら寿司",
-    "name": "『呪術廻戦』とくら寿司がコラボ！アニメ5周年を記念したコラボメニューやくら寿司限定描き下ろしグッズが登場！ - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE95alVmd1lta2Y4dkRmcXF4c1JsWWlEblFzMEllWGZfMk5PUEx6ZEh3QzVDST",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95alVmd1lta2Y4dkRmcXF4c1JsWWlEblFzMEllWGZfMk5PUEx6ZEh3QzVDSTV4eEJqTlNmY0RTaXRrUVhYdTBTalpFd3pIN1NHTVVIalVn0gFbQVVfeXFMUF9kcURLNmtSU0xXcWV1ZDJWQzJQUzF4b1FHYUg1WFM0dU5QdkNITVhsQUpMUzdHTTFjdEVUZDZuUG84czV4dS1WSTRmcjExQmkzcktnWXROWU1jYw?oc=5",
-    "category": "sushi",
-    "published": "Sat, 03 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-09T02:36:33.988527",
-    "menu_name": "コラボメニューやくら寿司限定描き下ろしグッズ",
-    "one_liner": "呪術廻戦コラボ限定の特別メニュー"
   },
   {
     "id": "206907b505f72e0c597e292e00fc270b",
@@ -1294,18 +1258,6 @@
     "fetched_at": "2026-10-18T00:28:20.639517",
     "menu_name": "春夏新作6種",
     "one_liner": "サクサクパイと爽やかな涼風麺"
-  },
-  {
-    "id": "495f86ce907ab6548ecf286b22548821",
-    "shop": "はなまるうどん",
-    "name": "【はなまる】異なる食感のシャキシャキ薬味でたっぷりの豚肉をさっぱりと。「３種薬味で食べる 豚しゃぶうどん」6月27日(金)から、期間限定新発売！ピリ辛な「青唐入り」も - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE43YURfc1RPVWJsRlVOS2ZDaDRZaUFYTUVybjRETnZweXY5RHgxd2dPYzNkc3",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43YURfc1RPVWJsRlVOS2ZDaDRZaUFYTUVybjRETnZweXY5RHgxd2dPYzNkc3p2OVFaTjJ4blVhenFTRlBCcUozNHhKNkVaUDVTcmc?oc=5",
-    "category": "men",
-    "published": "Sat, 03 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-18T00:28:47.151638",
-    "menu_name": "３種薬味で食べる 豚しゃぶうどん",
-    "one_liner": "たっぷりの豚肉を薬味でさっぱりと"
   },
   {
     "id": "a016c9b11da4e17c38d0c8bec9d68cbb",
@@ -3202,5 +3154,17 @@
     "fetched_at": "2026-11-03T03:46:43.605153",
     "menu_name": "大人のピザシリーズ（カチョエペペ、THE）",
     "one_liner": "素材にこだわった大人の贅沢ピザ"
+  },
+  {
+    "id": "aa207cd049f3ea518676211e368e1f2b",
+    "shop": "フレッシュネスバーガー",
+    "name": "クア・アイナ「トリュフ コルビージャック チーズバーガー」3種を期間限定販売。トリュフの芳醇な香り×チーズのコク - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5PajdRbDAzbVFRMTlNQzIyaDB4VzNBZHFTd04wd2RLdmZOaXFQNzFDU3pkaj",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PajdRbDAzbVFRMTlNQzIyaDB4VzNBZHFTd04wd2RLdmZOaXFQNzFDU3pkajc4RHV1THNBZGNJcDZyMkJVVTVpZnplNkh6VVc1REE5djBEYlZpQXlqZkU1WDdyUHE5RU1abHc?oc=5",
+    "category": "burger",
+    "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-04T02:46:08.351093",
+    "menu_name": "トリュフ コルビージャック チーズバーガー",
+    "one_liner": "トリュフの香りとチーズのコクが融合"
   }
 ]
