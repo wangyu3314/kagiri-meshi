@@ -1,41 +1,5 @@
 [
   {
-    "id": "6c60d2704def955a54ea66391d32f54c",
-    "shop": "ガスト",
-    "name": "【きょうから】ガスト、人気20品が26％OFFのクーポンフェス開催 冷麺＆純氷かき氷も登場 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuUlk4ZE5jRXZka3d1SXlOVkxFWjQ4NjdTV0V1Y2QyeW5kVFZsVnUzSnJ0dE",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuUlk4ZE5jRXZka3d1SXlOVkxFWjQ4NjdTV0V1Y2QyeW5kVFZsVnUzSnJ0dExDVHBmVTN1N21qbjNzYkM2Y0FEWlVFb1J0NGp0TkE?oc=5",
-    "category": "family",
-    "published": "Sun, 04 Oct 2026 10:04:53 GMT",
-    "fetched_at": "2026-10-05T01:20:36.024090",
-    "menu_name": "冷麺＆純氷かき氷",
-    "one_liner": "ひんやり美味しい夏の定番メニュー"
-  },
-  {
-    "id": "1f992520b760c47f2b1f3efdcf969439",
-    "shop": "日高屋",
-    "name": "日高屋、春の新メニュー発表 『サク旨！ごぼう揚げ』『お肉屋さんのひとくちメンチカツ』『レモンタルタルチキン』『ニラキムチ冷奴』【一覧】 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZaFpzSzVzNUUtR1NWTWhuQ3NnR1Z5R3NTcXRWNGtjU293VkVIWTdPbUMxX2",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZaFpzSzVzNUUtR1NWTWhuQ3NnR1Z5R3NTcXRWNGtjU293VkVIWTdPbUMxX2pEeENkbWxDNFhsTVI0T3VuZEtrbFBqekN2U0NVcEE?oc=5",
-    "category": "ramen",
-    "published": "Sun, 04 Oct 2026 08:34:54 GMT",
-    "fetched_at": "2026-10-05T01:20:55.189792",
-    "menu_name": "サク旨！ごぼう揚げ、お肉屋さんのひとくちメンチカツ、レモンタルタルチキン、ニラキムチ冷奴",
-    "one_liner": "日高屋の春を彩る新作おつまみ4選"
-  },
-  {
-    "id": "c86b2800097fb7a605e581749274c276",
-    "shop": "ピザハット",
-    "name": "「これはイケる！」“横浜家系ラーメンピザ”期間限定で登場【ピザハット×吉村家】 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fUXA0R3NQbkVyOFplVzF5MHAtWGVadUZvVHVPNHQ1VlA1VW9ZNktzUGR3VG",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fUXA0R3NQbkVyOFplVzF5MHAtWGVadUZvVHVPNHQ1VlA1VW9ZNktzUGR3VGo1RkdMVGJkZlJJT2h6T0U5YlQ1MjdONHFKVWFya1E?oc=5",
-    "category": "pizza",
-    "published": "Sun, 04 Oct 2026 09:01:22 GMT",
-    "fetched_at": "2026-10-05T01:20:59.107378",
-    "menu_name": "横浜家系ラーメンピザ",
-    "one_liner": "家系総本山とコラボした濃厚なピザ"
-  },
-  {
     "id": "4a05e407f42c6f105e1cf8c54f3f6bc3",
     "shop": "はま寿司",
     "name": "はま寿司に「大切り 直火焼きびんちょう 100円（税込110円）」が登場！「北海道水揚げ にしん」と「北海道産つぶ貝のキムチ和え軍艦」も期間限定で販売！ | トピックス - hama-sushi.co.jp",
@@ -94,18 +58,6 @@
     "fetched_at": "2026-10-06T02:34:35.335590",
     "menu_name": "期間限定商品",
     "one_liner": "来店頻度を高める注目の新メニュー"
-  },
-  {
-    "id": "65a7d9fb1153a8d63c02f55b26fafe27",
-    "shop": "フレッシュネスバーガー",
-    "name": "フレッシュネスバーガー、ホクホクの国産カボチャたっぷりの「作りたてスコーンサンド パンプキン＆クリームチーズ」発売 - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1lY2x4WGRxWXdmQ1ctRV9pMmx1QlQybVZteGpUeThlMGU1eFVkWGdHdEJCVH",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lY2x4WGRxWXdmQ1ctRV9pMmx1QlQybVZteGpUeThlMGU1eFVkWGdHdEJCVHR2QVJMUjg0aGVfSEcyU1Zhd3pFanVERWMwTnVIdEVzT3FVMjZDeGUyYUVQUlFwN2hGWHN5N2NpZWRPNk0yaVhrSmZTdlc0NGhsTVk?oc=5",
-    "category": "burger",
-    "published": "Sun, 04 Oct 2026 03:00:00 GMT",
-    "fetched_at": "2026-10-07T01:52:11.983730",
-    "menu_name": "作りたてスコーンサンド パンプキン＆クリームチーズ",
-    "one_liner": "国産カボチャと濃厚チーズの秋味"
   },
   {
     "id": "16d02ef0c4d4e144e7c5906da5f94ece",
@@ -300,18 +252,6 @@
     "one_liner": "低温調理でしっとり柔らかな豚肉"
   },
   {
-    "id": "bddf2cc19ebbfaf02fad96a22bd03305",
-    "shop": "すき家",
-    "name": "【すき家】朝食メニューに使える30円引きクーポン登場中！10月12日までアプリ限定で配信。 - Ameba News [アメーバニュース]",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUVR3c2NaRGNfdWl4UjZzOVk5S0V0eXVxWmJOZUw5ZS1vOU5MRlR6anVHZ0",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUVR3c2NaRGNfdWl4UjZzOVk5S0V0eXVxWmJOZUw5ZS1vOU5MRlR6anVHZ044M3psVllqbnBTWklNQktYT3g5M1dXbzh6SldwbGlzdFNMekYyME8wZFE?oc=5",
-    "category": "don",
-    "published": "Sun, 04 Oct 2026 04:03:43 GMT",
-    "fetched_at": "2026-10-08T02:19:33.261495",
-    "menu_name": "朝食メニュー",
-    "one_liner": "アプリ限定！朝食が30円引き"
-  },
-  {
     "id": "c3a572a9948745299ce6a7cede3f15f8",
     "shop": "松屋",
     "name": "【松屋フーズ】とんかつ業態「松のや」監修「カツ丼の具」新発売！ ～厳選素材のカツ・タレ・卵が三位一体となった専門店の味 - ニコニコニュース",
@@ -394,18 +334,6 @@
     "fetched_at": "2026-10-09T02:36:33.988257",
     "menu_name": "おうちで回転寿司気分が味わえる限定アイテム",
     "one_liner": "自宅で手軽に回転寿司気分を楽しめる"
-  },
-  {
-    "id": "206907b505f72e0c597e292e00fc270b",
-    "shop": "マクドナルド",
-    "name": "マクドナルド、「ポケモン夏マック」第3弾発表 期間限定で“バーガー”がオリジナルパッケージに - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4QkJrQURwMllTWEZ4VFhNamlrMHpNak1xaTVhZ0VnM1BOa09sSURySkFHdF",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4QkJrQURwMllTWEZ4VFhNamlrMHpNak1xaTVhZ0VnM1BOa09sSURySkFHdFhtSDRhbTZvTUNHUWtDRHdqdTliZU5vVEc3LXp0cFE?oc=5",
-    "category": "burger",
-    "published": "Sun, 04 Oct 2026 08:16:30 GMT",
-    "fetched_at": "2026-10-09T02:36:37.978417",
-    "menu_name": "ポケモン夏マック",
-    "one_liner": "ポケモンが描かれた限定パッケージ"
   },
   {
     "id": "c2dcb06ebaeebb0b5b34f60536ced28c",
@@ -598,18 +526,6 @@
     "fetched_at": "2026-10-10T01:57:48.938558",
     "menu_name": "北海道ミニソフト",
     "one_liner": "濃厚な北海道ソフトが期間限定で半額"
-  },
-  {
-    "id": "7750df92e37dff3a82c377c6f9ce0400",
-    "shop": "ジョナサン",
-    "name": "フレッシュな国産白桃を使った期間限定スイ－ツが「ジョナサン」に登場 - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTeHJMcVdrN05UYk5IODNONDR6MklfdDU1ZUJtNEN6bnJ1VFVHVWdsSUhZNW",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTeHJMcVdrN05UYk5IODNONDR6MklfdDU1ZUJtNEN6bnJ1VFVHVWdsSUhZNWczZktUMU1zS0MwUzBGcUJXVHFPdEZIOE5ydWFCemdkOdIBWkFVX3lxTFBCdVVCbmtUaVo1aWk4U0owbVp0dk15bFp1azVZclVGamZXTE5lc21oTjdFYmFoenlNWEw4b19ldEFUSW5tTDlTbGFqb0lsdDdhSlpBSE1pR01aZw?oc=5",
-    "category": "family",
-    "published": "Sun, 04 Oct 2026 18:55:52 GMT",
-    "fetched_at": "2026-10-10T01:57:50.373356",
-    "menu_name": "国産白桃を使った期間限定スイーツ",
-    "one_liner": "旬の国産白桃を贅沢に使った逸品"
   },
   {
     "id": "8051a89e708c684cfb7c5f60f5064045",
@@ -3166,5 +3082,89 @@
     "fetched_at": "2026-11-04T02:46:08.351093",
     "menu_name": "トリュフ コルビージャック チーズバーガー",
     "one_liner": "トリュフの香りとチーズのコクが融合"
+  },
+  {
+    "id": "b3d88ad8b631e69afed0f1bdbf6a86cb",
+    "shop": "サンマルクカフェ",
+    "name": "ハーゲンダッツとの最強タッグ！サンマルクカフェの期間限定メニューは「クッキー＆クリーム」がテーマ - ウォーカープラス",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lb19YMVN0NkFoM3pCZW5xeEh1SUwtRHAwTDY1QzZHcF9zbWpTcm0zY09uTF",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lb19YMVN0NkFoM3pCZW5xeEh1SUwtRHAwTDY1QzZHcF9zbWpTcm0zY09uTFg0N0pFRm9JZnBJT3RZVU1iMWhJVjNxVFZnbGgzM1NQeFN30gFbQVVfeXFMTjBjaE1LUnRWUk1zcUJudzVLMjc1Z1l1WmVTS1RGTGhIT0hwaERkWE9neVl0dGM5cDBrM0YwRFRObUtEendDM2l0ZHZJYWhPeVdTeFlKcGNlUmdKcw?oc=5",
+    "category": "cafe",
+    "published": "Sat, 31 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-05T02:55:55.541817",
+    "menu_name": "クッキー＆クリーム",
+    "one_liner": "ハーゲンダッツとの最強コラボ"
+  },
+  {
+    "id": "b5ea11a6a3ccec7a53743ed6820ad917",
+    "shop": "サンマルクカフェ",
+    "name": "【ゴディバ×サンマルクカフェ】初コラボ！贅沢チョコクロやクロッフィンなど4商品が11月6日登場 - LASISA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1URnNTVHl1VG83c0M3T01kTE5aeEdaUW9Ja0RObHJWb1NwNnNWV0FMUTJfWH",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1URnNTVHl1VG83c0M3T01kTE5aeEdaUW9Ja0RObHJWb1NwNnNWV0FMUTJfWHdWay1NY3lOeWIyRFJlYkc2?oc=5",
+    "category": "cafe",
+    "published": "Thu, 29 Oct 2026 04:00:45 GMT",
+    "fetched_at": "2026-11-05T02:55:56.336192",
+    "menu_name": "贅沢チョコクロやクロッフィンなど4商品",
+    "one_liner": "ゴディバと初の豪華コラボスイーツ"
+  },
+  {
+    "id": "046d33efdabc28f78bc7d15d8b8e8260",
+    "shop": "かつや",
+    "name": "「大反省…」「嘘でしょ？」【かつや】“期間限定メニュー”で売り切れ続出？実際に店舗に行くと…【悲報】の真相は？ - TRILL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kSGtLUUdxNWlGbzFqVlBhNkk2N1BPeThyMVV3YnFsQ2tTZTI5YmdHMWIyVT",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kSGtLUUdxNWlGbzFqVlBhNkk2N1BPeThyMVV3YnFsQ2tTZTI5YmdHMWIyVTRqR2JpOVlBYmRxTWlvQkcyOFdmTHlnQUZRY0E?oc=5",
+    "category": "don",
+    "published": "Wed, 04 Nov 2026 15:05:00 GMT",
+    "fetched_at": "2026-11-05T02:56:04.111537",
+    "menu_name": "期間限定メニュー",
+    "one_liner": "かつやの話題沸騰中の限定メニュー"
+  },
+  {
+    "id": "89841183b9bfa42a1556f2bee588dc09",
+    "shop": "かつや",
+    "name": "かつや流「洋風カツ丼」が誕生 でもナポリタンも目玉焼きも盛っちゃう「あいがけ洋風カツライス」発売 - おたくま経済新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdk5ncFRyODVqdTkxV1poci1PQThYRjN3bDFWWlRGQU8wY2EzSjZqTmFRYX",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdk5ncFRyODVqdTkxV1poci1PQThYRjN3bDFWWlRGQU8wY2EzSjZqTmFRYXhQUnhlQ2tYdWhJQ0dpbzNBY0ZxTFBYR0ZhQVdfd1RRT2c5Yw?oc=5",
+    "category": "don",
+    "published": "Wed, 04 Nov 2026 01:02:00 GMT",
+    "fetched_at": "2026-11-05T02:56:04.579829",
+    "menu_name": "あいがけ洋風カツライス",
+    "one_liner": "カツとナポリタンの贅沢な洋風盛り"
+  },
+  {
+    "id": "a5bb6f0f7d9619b1de6a68ecb480786b",
+    "shop": "富士そば",
+    "name": "名代富士そば公式通販 ジップアップパーカー＆コーチジャケット 秋冬ラインナップ登場 - ニコニコニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB2ZDFDNFUzLVQ1VWZ3Uk90cVktcTJMU1RDdGQtVHpYdjdaakVSU0YyMzZjaX",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2ZDFDNFUzLVQ1VWZ3Uk90cVktcTJMU1RDdGQtVHpYdjdaakVSU0YyMzZjaXdvQUJHSEpIU1ZOZDNaeW5xbUg4c3VqSjBXazVTVWtpVzFoTlhqcUVobUxfcHJxN1hIaXpiVXM3d0ZEMEQ0V2F4YkV3dlBlQQ?oc=5",
+    "category": "men",
+    "published": "Wed, 04 Nov 2026 01:06:30 GMT",
+    "fetched_at": "2026-11-05T02:56:18.772442",
+    "menu_name": "ジップアップパーカー＆コーチジャケット",
+    "one_liner": "富士そば公式の秋冬アパレル登場"
+  },
+  {
+    "id": "17b618a2400079dc1cb3c0df23ba0ed1",
+    "shop": "ピザーラ",
+    "name": "人気サイドメニューが最大500円お得！ピザーラ『お得なスペシャルセット』 冬の新商品「カチョディップソース」付きセットも登場！選べる5種類を期間限定販売 - Infoseek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8zZ2VaaVF5NXdxc1Fhb2YyaUJMcFFLa0lDRHVBQVBNMXZCcWEwSEd1aXBzLU",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zZ2VaaVF5NXdxc1Fhb2YyaUJMcFFLa0lDRHVBQVBNMXZCcWEwSEd1aXBzLUlNTkZfcTNfUjREeFJBelFrUmhxNm9oNW81NWNfb3RMOUdRSl9yOEdIZU04cjlGNTBKSDl1ZURzbTlLYnNRZw?oc=5",
+    "category": "pizza",
+    "published": "Wed, 04 Nov 2026 15:15:37 GMT",
+    "fetched_at": "2026-11-05T02:56:26.470892",
+    "menu_name": "お得なスペシャルセット",
+    "one_liner": "サイドメニューが最大500円お得"
+  },
+  {
+    "id": "b495c91761680c9a2105733405d413a8",
+    "shop": "ピザーラ",
+    "name": "ピザーラで新登場！サンエックスユニバーススペシャルパック販売中！ - San-xネット",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FanE4dzJNcGF1THRMeEpJUExiSUNWMTAydlJHc2FYRFJJcHgzempCVDk5d0",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FanE4dzJNcGF1THRMeEpJUExiSUNWMTAydlJHc2FYRFJJcHgzempCVDk5d09keEZqbFhwUEZRQjlObk51Qk9mVndfM0JKY1FiZUg1dmtWT0hJbnExMFZVb041MA?oc=5",
+    "category": "pizza",
+    "published": "Thu, 05 Nov 2026 01:30:00 GMT",
+    "fetched_at": "2026-11-05T02:56:26.850647",
+    "menu_name": "サンエックスユニバーススペシャルパック",
+    "one_liner": "サンエックスキャラの限定パック"
   }
 ]
