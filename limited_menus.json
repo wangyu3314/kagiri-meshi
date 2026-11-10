@@ -1,77 +1,5 @@
 [
   {
-    "id": "a110b301d5598232bcbf1d4078efac61",
-    "shop": "マクドナルド",
-    "name": "ハッピーセットにユニバーサル・スタジオ・ジャパンとコラボした「USJオールスターズ」のおもちゃが登場！10月16日（金）から期間限定で販売！ - 電撃ホビーウェブ",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5URWNxNlV3NENlWmU5RF8xaFVDTWtwc3o2Y1AyR3BfZ1pVajh2S3FCajNtTW",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5URWNxNlV3NENlWmU5RF8xaFVDTWtwc3o2Y1AyR3BfZ1pVajh2S3FCajNtTWFWamRMTXlneFowbk4wUnVFdEtOZkpPMzNadFFp?oc=5",
-    "category": "burger",
-    "published": "Fri, 09 Oct 2026 05:26:02 GMT",
-    "fetched_at": "2026-10-10T01:57:13.715846",
-    "menu_name": "USJオールスターズ",
-    "one_liner": "USJの人気キャラが大集合！"
-  },
-  {
-    "id": "83ffd1eb3e8423f8bd02394d7935e587",
-    "shop": "ガスト",
-    "name": "餃子1個55円！都内に店舗が多い「てけてけ」の新メニューは\"ちょい足し\"にうれしい。 - 東京バーゲンマニア",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQXU3TVZOeVpHMTVibHhHS2M1RWhHanNlMGt3TFhmdzZ4eW0xdkRhVnI1cn",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQXU3TVZOeVpHMTVibHhHS2M1RWhHanNlMGt3TFhmdzZ4eW0xdkRhVnI1cnJ3TThoU2pqY1VRZWR3QU1hWGd4WDBUYmYtZGhPd0Ew?oc=5",
-    "category": "family",
-    "published": "Fri, 09 Oct 2026 08:03:39 GMT",
-    "fetched_at": "2026-10-11T01:22:41.776109",
-    "menu_name": "餃子",
-    "one_liner": "1個55円でちょい足しに最適"
-  },
-  {
-    "id": "23c459ef25c030adadb4236b766d7923",
-    "shop": "スシロー",
-    "name": "構想約1年…リュウジ×安元洋貴監修“至高のバズメニュー”がスシローに登場 “背徳マヨ”使用メニューも「相性がマジで異常」 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVVRvdnhROUVUWGdYTjJxcGRaY2pRY2RmdEpSZGN6WTIzVExza0gwZEE1bz",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVVRvdnhROUVUWGdYTjJxcGRaY2pRY2RmdEpSZGN6WTIzVExza0gwZEE1bzU3anFRcWdrLV9HRTdFZTM1TGJqVE0zSFRXVFZtRXc?oc=5",
-    "category": "sushi",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-12T01:52:45.105382",
-    "menu_name": "至高のバズメニュー",
-    "one_liner": "リュウジと安元洋貴が監修した背徳の味"
-  },
-  {
-    "id": "f8dbb7b165f701cbd0369b878bf40c5e",
-    "shop": "バーガーキング",
-    "name": "【あすまで】バーガーキング「春のワッパー祭り」開催 5日間限定でワッパーセットが300円引きに - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBoaGlRanVMY0paYmFCWk02N2JBUXgxRWplOUJqSUZrWFduOTdnRkUyMi1lWn",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoaGlRanVMY0paYmFCWk02N2JBUXgxRWplOUJqSUZrWFduOTdnRkUyMi1lWnFJM1VIUmtJM3NOUG16QWY0WmtaQ2dTcGh5dElLSFFOTlJvVzA1QW4tZFNXYnV5VXZFNW9SYUdRbHdxYw?oc=5",
-    "category": "burger",
-    "published": "Sat, 10 Oct 2026 04:15:50 GMT",
-    "fetched_at": "2026-10-12T01:52:57.007660",
-    "menu_name": "ワッパーセット",
-    "one_liner": "5日間限定で300円引きのお得なセット"
-  },
-  {
-    "id": "0d5ad9aade2e3d8163db6f015aef28e6",
-    "shop": "ケンタッキーフライドチキン",
-    "name": "【きょうから】ケンタッキー“夏の風物詩”が今年も 愛され「レッドホットチキン」登場＆待望「グリーンホットウィング」リニューアル復活 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQ2MwMUVidV9yZVFlU3J3UHpXYmFTZm9BTTNhZlR5OFNLRjhSYkpjWUdYS2",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BQ2MwMUVidV9yZVFlU3J3UHpXYmFTZm9BTTNhZlR5OFNLRjhSYkpjWUdYS2pYSkpLR1VPTXg1TlF6UUUtNC1ldFZ3OWFvZ1V0d3c?oc=5",
-    "category": "burger",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-12T01:53:02.122238",
-    "menu_name": "レッドホットチキン、グリーンホットウィング",
-    "one_liner": "夏の定番辛口チキンが今年も登場"
-  },
-  {
-    "id": "7de1ddeecfd05135b85eeb65bc80dd6e",
-    "shop": "ケンタッキーフライドチキン",
-    "name": "ケンタッキー史上初、アボカドを使用した“バーガー”登場 「ザ・アメリカンバーガーズ」数量限定で発売【5・27から】 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1reVV0dTRtNGJ0NnJnaTRJRDlVemJORFgtSmZMVXpMQ25wRHNHQjRhOU5LTj",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1reVV0dTRtNGJ0NnJnaTRJRDlVemJORFgtSmZMVXpMQ25wRHNHQjRhOU5LTjVOS25qRHlkV2NjTjFJS3VmZW51bVJ3R3JLOTFQUWhrNU90SU8?oc=5",
-    "category": "burger",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-12T01:53:03.320527",
-    "menu_name": "ザ・アメリカンバーガーズ",
-    "one_liner": "ケンタッキー初のアボカドバーガー"
-  },
-  {
     "id": "9250d63472cac1956ea4cd057878a535",
     "shop": "松屋",
     "name": "松屋、店舗限定『4種のチーズ牛めし』が発売6日で販売終了 - ギュメシー",
@@ -82,18 +10,6 @@
     "fetched_at": "2026-10-12T01:53:16.651164",
     "menu_name": "4種のチーズ牛めし",
     "one_liner": "濃厚な4種のチーズが絡む絶品牛めし"
-  },
-  {
-    "id": "4ec8caad9e7951066e9d793cc1eb8fc6",
-    "shop": "ココス",
-    "name": "ファミレス『ココス』、「2026春グランドメニュー」3・3導入 ガッツリメニューやビーフジャンバラヤ、“本気の唐揚げ”など登場 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZVZJc21NaWpYaE8zZjh5X0h3VElJLUo5dmdWODdWMmR5Wklsd2lSemV6Uj",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZVZJc21NaWpYaE8zZjh5X0h3VElJLUo5dmdWODdWMmR5Wklsd2lSemV6Ujd1cjNFeF9qNHIxU0JBS0FIdlRSWndxWmNveEZ4SWU0WTFNTnlEZw?oc=5",
-    "category": "family",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-12T01:53:30.721466",
-    "menu_name": "2026春グランドメニュー",
-    "one_liner": "ガッツリ肉料理と本気の唐揚げが登場"
   },
   {
     "id": "1cfe45db217531ce6322411e5b1ba893",
@@ -156,18 +72,6 @@
     "one_liner": "オマール海老の旨味が広がる贅沢な一品"
   },
   {
-    "id": "ec65d23b19d373bf70a7ef1c8d103c77",
-    "shop": "ケンタッキーフライドチキン",
-    "name": "ケンタッキー“春の定番”『パリパリ旨塩チキン』 今年はレモンの爽やかさを加えて新登場 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kbkJ4eC1WLUVabUh1cUUzQnlZMzlKb3ZQU0pOaXg1cWdNeldlSm5BeWRzNE",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kbkJ4eC1WLUVabUh1cUUzQnlZMzlKb3ZQU0pOaXg1cWdNeldlSm5BeWRzNE5aXzhHNjkxUnFVNEZoblY0ck9SRUEySWpVM1VyN2c?oc=5",
-    "category": "burger",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-13T03:14:52.943551",
-    "menu_name": "パリパリ旨塩チキン",
-    "one_liner": "レモンの爽やかさが香るパリパリチキン"
-  },
-  {
     "id": "5eb4e297000165634d636d78aaae7f8e",
     "shop": "ドトールコーヒー",
     "name": "ドトール、きのこクリーム×チキンのホットモーニング発売。「パリパリチョコキャラメルミルクレープ」再登場 - グルメ Watch",
@@ -178,18 +82,6 @@
     "fetched_at": "2026-10-13T03:14:56.344871",
     "menu_name": "きのこクリーム×チキンのホットモーニング、パリパリチョコキャラメルミルクレープ",
     "one_liner": "秋の味覚と贅沢スイーツの新メニュー"
-  },
-  {
-    "id": "7953028cf65d95ae23ab325934810adc",
-    "shop": "松屋",
-    "name": "【松屋】お肉を贅沢に楽しむ大満足メニューがレギュラー化！「たっぷり牛皿定食」 発売 - ニコニコニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MamlZdFdKamlsbmlSVlFNeGNpMExqNEM2Um5qQTRGeGR3ZlJFWDJIZjRjS2",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MamlZdFdKamlsbmlSVlFNeGNpMExqNEM2Um5qQTRGeGR3ZlJFWDJIZjRjS2pyajJzSzdvWWdDa3NDSjQ3SVNjc3hUNVhBTnZJanl6RQ?oc=5",
-    "category": "don",
-    "published": "Fri, 09 Oct 2026 17:00:26 GMT",
-    "fetched_at": "2026-10-13T03:15:04.810455",
-    "menu_name": "たっぷり牛皿定食",
-    "one_liner": "お肉を贅沢に楽しめる大満足メニュー"
   },
   {
     "id": "a0296d1f0e17d5201539263b455af072",
@@ -274,18 +166,6 @@
     "fetched_at": "2026-10-15T01:00:07.307391",
     "menu_name": "ブランド海老3尾の限定バーガー2種",
     "one_liner": "ブランド海老3尾を贅沢に使用"
-  },
-  {
-    "id": "f0f904700769f3a7461b391021b5a32b",
-    "shop": "タリーズコーヒー",
-    "name": "タリーズが飲む杏仁豆腐など初夏メニューを新発売 - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsanpreVNQXzM3SzdjdWxzeno3WmtNQVN0bTBBVkRJczloT0ZuUkgtdV9udk",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsanpreVNQXzM3SzdjdWxzeno3WmtNQVN0bTBBVkRJczloT0ZuUkgtdV9udktqSWZqTkJrLUNSX0ppNGRaZTJxbE9OVzBKblA3UDJj0gFYQVVfeXFMTm9vakNCLTFqdzBGWVJlVXBPYXBENjVQNDl5RzU1U1hrOWdPYzRFWG9VU05SOUlVUm13NWlMYm9zODNhUnlpYzIweTRSVS1fZ0hGd3EtcHM3UA?oc=5",
-    "category": "cafe",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-15T01:00:16.498367",
-    "menu_name": "飲む杏仁豆腐",
-    "one_liner": "初夏にぴったりの飲む杏仁豆腐"
   },
   {
     "id": "96e517a7397fe1af3c91846f1199b786",
@@ -696,18 +576,6 @@
     "one_liner": "秋を彩る期間限定の絶品麺3種"
   },
   {
-    "id": "db462841f27cbbcc00f1d7aa55ac1047",
-    "shop": "スターバックス",
-    "name": "スターバックス「730円の新商品」を飲んだら、個人的に薄かった（進撃のグルメ） - エキスパート - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVW1wa21KVUhhRldmODItVGk5MnNLRENQekN5cUp5S1I0TEpzdzk5bnVwcm",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVW1wa21KVUhhRldmODItVGk5MnNLRENQekN5cUp5S1I0TEpzdzk5bnVwcmZGVkVQakswZmZmRjU4NXQwM3oxVzhsRkpuM0ExZFptSDR3VGhYM2NwTUVVSjQ3MTFJUTdQUnE0NGhVbnpvd2I0bV83aExMOE4wXzI1MkJYbmxQYnUw?oc=5",
-    "category": "cafe",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-21T01:04:28.711412",
-    "menu_name": "730円の新商品",
-    "one_liner": "スターバックスの新作ドリンク"
-  },
-  {
     "id": "d07f1f5be3e71497d23771a3e6064d12",
     "shop": "タリーズコーヒー",
     "name": "【タリーズ秋の新作】期間限定やみつきベーグルと相性抜群「こだわりコーヒー」3選（コーヒーソムリエKazu） - エキスパート - Yahoo!ニュース",
@@ -1068,18 +936,6 @@
     "one_liner": "ジョジョの世界観を再現したメガネ"
   },
   {
-    "id": "96d233c66ea2976baa447b5ec2a150d7",
-    "shop": "バーミヤン",
-    "name": "バーミヤン初の“桃ロゴ”立体ポーチ！ 総柄エコバッグが付録の宝島社「バーミヤン 40th ANNIVERSARY BOOK」発売 - グルメ Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSEhoTWZIRzU4cGNBUnF5YnV5Rm1abDRta3BiZ1R6cllzSXNKd2k0Sk9COW",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kSEhoTWZIRzU4cGNBUnF5YnV5Rm1abDRta3BiZ1R6cllzSXNKd2k0Sk9COWlPVTRVajA0WFUyc2l2ZUF1aVZjcDFSOGdtaDBoUE1lUEVhbzRhVU5MZHV0b0c4UjNCd2EzQ0E?oc=5",
-    "category": "family",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-24T01:12:57.473384",
-    "menu_name": "バーミヤン 40th ANNIVERSARY BOOK",
-    "one_liner": "桃ロゴポーチとエコバッグ付き記念本"
-  },
-  {
     "id": "582a76d344055cb393cb3b99f60734ea",
     "shop": "丸亀製麵",
     "name": "丸亀製麺、期間限定「豚つけ汁うどん」9・2登場 3玉まで“同一価格”、濃厚魚介か旨辛か…選べる2種 - 山陽新聞デジタル｜さんデジ",
@@ -1306,18 +1162,6 @@
     "fetched_at": "2026-10-27T01:39:33.304679",
     "menu_name": "出汁からあげ",
     "one_liner": "出汁の旨味と香りが広がる逸品"
-  },
-  {
-    "id": "1c70261690dcc1dc3907fd716b3e733d",
-    "shop": "ミスタードーナツ",
-    "name": "ミスド「ポン・デ・ショコラ」9月30日発売|もちもち食感を改良した全3種（おとなの週末） - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50aWNQODVOd29UTzFURDBpSmJpZWFycVZiQ2Q1TE5FWWFfUEUwUUJsLWk5Sz",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50aWNQODVOd29UTzFURDBpSmJpZWFycVZiQ2Q1TE5FWWFfUEUwUUJsLWk5Szc0V0RHazBHSGF1bG5VSFRXVDVVU3ppdW1sYngxYkN6dUZ3Q3Rwai1HUW9ua3lxMkRwZkFuRHh4QUFDUlBITFFBREp0b1Zab3RzMTQ?oc=5",
-    "category": "cafe",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-27T01:39:45.047026",
-    "menu_name": "ポン・デ・ショコラ",
-    "one_liner": "もちもち食感が進化したショコラドーナツ"
   },
   {
     "id": "e0ecd14ebf000620bd19eccdbdf8422e",
@@ -2712,18 +2556,6 @@
     "one_liner": "大阪の名店とコラボした炭水化物サンド"
   },
   {
-    "id": "f109c44191535148cc12a931baf40a9d",
-    "shop": "かつや",
-    "name": "かつや、新商品「海老トリプル丼」で本気の海老尽くし！ 海老カツ・海老フライ・海老クリームコロッケが集結 - ロケットニュース24",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YeUdOUzBjVHNzblZBSTFfaU5STTJYay1UY1haSzFTZjhrdUprNFVVM0dBWG",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YeUdOUzBjVHNzblZBSTFfaU5STTJYay1UY1haSzFTZjhrdUprNFVVM0dBWG9OSjVueEtxQWxnR3B6SFFsXzdZYWhCako4al9yaDJ6aEltd9IBXEFVX3lxTE9VM3hPTUFHeldMVXJKRF9mV0dMYU15Q2loOUtkNEdFRVl5ZGZOM253MUNmMjdjdUtHbndGQXpsS3lrZzJjcm5WRzU0MDQ3SWlabkRPOV9DTzk3TEZ2?oc=5",
-    "category": "don",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-07T02:25:47.512686",
-    "menu_name": "海老トリプル丼",
-    "one_liner": "海老カツ・フライ・コロッケの豪華共演"
-  },
-  {
     "id": "af4577b6ad21173b308f3fe5b04e1bfe",
     "shop": "ガスト",
     "name": "「薬屋のひとりごと」ゲーム『薬屋のひとりごと ～偽りの皇弟～』来年3月18日発売へ。コエテクのガスト手がける“猫猫のアトリエ” - AUTOMATON",
@@ -2794,18 +2626,6 @@
     "fetched_at": "2026-11-08T01:55:33.758771",
     "menu_name": "洋梨＆林檎",
     "one_liner": "秋の味覚を堪能する期間限定スイーツ"
-  },
-  {
-    "id": "47528d0a8bca58148e648ab822ac05d0",
-    "shop": "日高屋",
-    "name": "【本日】日高屋に「濃厚豚骨醤油ラーメン」登場！ コク旨な新作690円 - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iTEdpQkxQOVRCS3JiZjhMWFlxdG4yX3hRT3pubEJlWC1md0dRYTlPMEZCNT",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iTEdpQkxQOVRCS3JiZjhMWFlxdG4yX3hRT3pubEJlWC1md0dRYTlPMEZCNTZndU9WMUxTVERybzBKNmhhMGUwVEdkTGF0SlJRSFBKeQ?oc=5",
-    "category": "ramen",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-08T01:55:42.360461",
-    "menu_name": "濃厚豚骨醤油ラーメン",
-    "one_liner": "コク旨な味わいの新作ラーメン"
   },
   {
     "id": "f0a63aa148018d27589adbcfe08f6336",
