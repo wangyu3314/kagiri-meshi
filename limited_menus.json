@@ -1,17 +1,5 @@
 [
   {
-    "id": "9250d63472cac1956ea4cd057878a535",
-    "shop": "松屋",
-    "name": "松屋、店舗限定『4種のチーズ牛めし』が発売6日で販売終了 - ギュメシー",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SVXRSMkxXYnFwSURyMHVIX1kweGtDRG42Tk5ZYXJSVTd3YVk2cnRibUp0N2",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SVXRSMkxXYnFwSURyMHVIX1kweGtDRG42Tk5ZYXJSVTd3YVk2cnRibUp0N2d6V0FDd0MwUmtWVnM3ZXRTVnJOOVUwVHI?oc=5",
-    "category": "don",
-    "published": "Mon, 12 Oct 2026 01:30:18 GMT",
-    "fetched_at": "2026-10-12T01:53:16.651164",
-    "menu_name": "4種のチーズ牛めし",
-    "one_liner": "濃厚な4種のチーズが絡む絶品牛めし"
-  },
-  {
     "id": "7b1b84af154bf96d5af3a342e13ffebe",
     "shop": "はま寿司",
     "name": "はま寿司、広島県産牡蠣/カキフライつつみなど110円！ 塩〆黒そい/炙り豚とろなども登場 - グルメ Watch",
@@ -34,18 +22,6 @@
     "fetched_at": "2026-10-13T03:14:44.871262",
     "menu_name": "チーズベーコンポテトパイ",
     "one_liner": "食べ進めるたびに変化する味わい"
-  },
-  {
-    "id": "4a8984eb55f4046a0da1e8961ff8752b",
-    "shop": "ケンタッキーフライドチキン",
-    "name": "ケンタッキーフライドチキン「期間限定」オマール海老の旨味ひろがるフィレバーガー West Seattle Garage Sale (dLNSbpmDej) - Unisba Media",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QdHN3RUZIMS1MUWtxWldVTWNxN3pucWhmUnNvM1hRdFRoOWxXU2ZNTTNoVz",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QdHN3RUZIMS1MUWtxWldVTWNxN3pucWhmUnNvM1hRdFRoOWxXU2ZNTTNoVzg5OERvZ05va2VfWmNzYkREanNyWEdoQk5OYkRnQXdRTGJsMXJxUmNUOFphYkZldU5Udw?oc=5",
-    "category": "burger",
-    "published": "Mon, 12 Oct 2026 01:18:18 GMT",
-    "fetched_at": "2026-10-13T03:14:52.404130",
-    "menu_name": "オマール海老の旨味ひろがるフィレバーガー",
-    "one_liner": "オマール海老の旨味が広がる贅沢な一品"
   },
   {
     "id": "5eb4e297000165634d636d78aaae7f8e",
@@ -214,18 +190,6 @@
     "fetched_at": "2026-10-16T00:51:12.588233",
     "menu_name": "フライドチキン",
     "one_liner": "選べるソースで楽しむ揚げたてチキン"
-  },
-  {
-    "id": "72ae89bfeaa1dce2c78c563199dbfc04",
-    "shop": "ゼッテリア",
-    "name": "【10月14日から開始】ゼッテリアで期間限定のポテトフライ……“インカのめざめ”にSNS「毎週食べに行っちゃう」 - Lmaga.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Zc09SSkFUNklEWXM4RmYxOEhyOFJ5bEZ4SFpnZUgtYVlhdThuX0dOMldGdz",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Zc09SSkFUNklEWXM4RmYxOEhyOFJ5bEZ4SFpnZUgtYVlhdThuX0dOMldGdzFpQ2tycHBKdnBfeDNqZkdJTE04WDBObFhGYjVSRnJKQw?oc=5",
-    "category": "burger",
-    "published": "Mon, 12 Oct 2026 03:03:00 GMT",
-    "fetched_at": "2026-10-16T00:51:13.022804",
-    "menu_name": "インカのめざめのポテトフライ",
-    "one_liner": "希少なじゃがいもを使用した贅沢な味"
   },
   {
     "id": "9b6f8595466f9af63a87d817bd4483d8",
@@ -430,18 +394,6 @@
     "fetched_at": "2026-10-19T00:33:53.992052",
     "menu_name": "テリヤキバーガーのリニューアルと4種の新メニュー",
     "one_liner": "定番の進化と期待の新作が登場"
-  },
-  {
-    "id": "11504a7ecaa3af3f01e4a38b8c303550",
-    "shop": "デニーズ",
-    "name": "上品な甘味と芳醇な香りを堪能。デニーズでみずみずしいマスクメロンを使った贅沢デザートが6品登場 - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UzNoSzZfcEhFMUlGRzVqRW96WVhiVm9Pc1RIcmVKU2FLYVhEWGFTY2twUk",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UzNoSzZfcEhFMUlGRzVqRW96WVhiVm9Pc1RIcmVKU2FLYVhEWGFTY2twUkFpSVhKaDJHSnFSSVd2WVZwRnU0Y1dUUnpYQnRJd25HSGdR0gFbQVVfeXFMTnVOVWE3NGk3V19WcHJQd3NHMWlJMGhkOF9EcnZsVDN2cVNndTktTTQ2WUl0aUMzZWNqUlVDYUVXbVE1dmZIYmhldlk5c0MxOHhVRTVGbk1ieU9ucw?oc=5",
-    "category": "family",
-    "published": "Sun, 11 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-19T00:34:21.217917",
-    "menu_name": "みずみずしいマスクメロンを使った贅沢デザート",
-    "one_liner": "芳醇な香りと甘味を堪能する贅沢なメロンデザート"
   },
   {
     "id": "9876bb1af86774b736f4652e22a704bc",
@@ -2926,5 +2878,233 @@
     "fetched_at": "2026-11-11T02:20:15.278507",
     "menu_name": "サーティワンのアイス",
     "one_liner": "ピザハットで買える人気アイスの新定番"
+  },
+  {
+    "id": "0cbad8b054e8da0cc028a414c2101150",
+    "shop": "スシロー",
+    "name": "【11月29日まで】「これはっ！！！！」スシロー、“ジャンボ”な新商品発売！「3種全部食べたい」「チーズマヨ炙りおいしそうだな」 - TRILL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLMS15U25EWk5Nd0RqOHRVb2IzNm9FeEtDLUEyaE1QMkNfX1NtRE5RRnFzZG",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLMS15U25EWk5Nd0RqOHRVb2IzNm9FeEtDLUEyaE1QMkNfX1NtRE5RRnFzZGxSdDNMWk1SUktUbUVBa1NJTm5naVdpRmRHdlk?oc=5",
+    "category": "sushi",
+    "published": "Wed, 11 Nov 2026 11:05:00 GMT",
+    "fetched_at": "2026-11-12T03:27:25.311504",
+    "menu_name": "“ジャンボ”な新商品",
+    "one_liner": "食べ応え抜群のジャンボな新メニュー"
+  },
+  {
+    "id": "fc9e3027097b5cb690a10524e7e34002",
+    "shop": "マクドナルド",
+    "name": "【マック】\"250円の値引き\"「激アツすぎ」「ぜったい買う」神キャンペーンの内容とは？サンエックスコラボ箱で登場 - LASISA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE9lZVVsS2poMTdZR1NkUlNFOGlHN1MyRGFRMzVDalY5cS16REZoNDMxSGNybm",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9lZVVsS2poMTdZR1NkUlNFOGlHN1MyRGFRMzVDalY5cS16REZoNDMxSGNybmVpQS1DNF9jWmZ2QVJBWWlI?oc=5",
+    "category": "burger",
+    "published": "Wed, 11 Nov 2026 09:35:08 GMT",
+    "fetched_at": "2026-11-12T03:27:30.549875",
+    "menu_name": "サンエックスコラボ箱",
+    "one_liner": "250円引きのお得なコラボメニュー"
+  },
+  {
+    "id": "98c2920dabeb2fd4a595b0acd5099c0c",
+    "shop": "マクドナルド",
+    "name": "マクドナルド、11・18より『マックフルーリー ザクザク いちごのミルフィーユ味』期間限定発売 - 朝日新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XelJKOTQxMWxfdkFHbzBSQjdFWVdITW9zdm5WRlNhaVRleXkzSC1ZV0lNY1",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XelJKOTQxMWxfdkFHbzBSQjdFWVdITW9zdm5WRlNhaVRleXkzSC1ZV0lNY1BlcGFkM2FFc2NIYUVCQ1B0c1VKalpLdVN3VXByVHNWR2NxWnRYX1JZ?oc=5",
+    "category": "burger",
+    "published": "Wed, 11 Nov 2026 19:00:00 GMT",
+    "fetched_at": "2026-11-12T03:27:31.072821",
+    "menu_name": "マックフルーリー ザクザク いちごのミルフィーユ味",
+    "one_liner": "ザクザク食感のいちごミルフィーユ"
+  },
+  {
+    "id": "34dd41200da2f91dd6cf88c5fe3c53ad",
+    "shop": "マクドナルド",
+    "name": "マクドナルド、新商品「ザクザクジューシーマック」が一時販売休止へ想定を上回る販売で、チキンパティを安定的に用意できない状況に - ライブドアニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M25fSVlzSjktSkJnOFducWhXcDhRdGlMUHJOcHZFTHFLb3dLaXVtQlA1TH",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M25fSVlzSjktSkJnOFducWhXcDhRdGlMUHJOcHZFTHFLb3dLaXVtQlA1THBEWEdGNmJUeHBzVXdGTXVnMl9QcEJORmtTOGoxYklKcElOTkdoNnE3bUV3?oc=5",
+    "category": "burger",
+    "published": "Tue, 10 Nov 2026 08:56:58 GMT",
+    "fetched_at": "2026-11-12T03:27:31.076545",
+    "menu_name": "ザクザクジューシーマック",
+    "one_liner": "ザクザク食感と溢れる肉汁が魅力"
+  },
+  {
+    "id": "1a662f02340e2e097adcce4c9eb01d9b",
+    "shop": "モスバーガー",
+    "name": "モスバーガー、大大大ヒット！！「世界中でいちばん美味しい」「期間限定なのがもったいない」初日から大反響！ - GourmetBiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SZi0yWllodnA2OGVNQXNYZUxKaVpoM3UyMVFjQXFXQWFFYzF1Vy00cl8zYj",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SZi0yWllodnA2OGVNQXNYZUxKaVpoM3UyMVFjQXFXQWFFYzF1Vy00cl8zYjRzaWtEdGQ1VzktaHJEVzNIT1lhUTJB?oc=5",
+    "category": "burger",
+    "published": "Thu, 12 Nov 2026 02:48:34 GMT",
+    "fetched_at": "2026-11-12T03:27:31.780387",
+    "menu_name": "モスバーガー",
+    "one_liner": "世界中で一番美味しいと評判の期間限定メニュー"
+  },
+  {
+    "id": "ef5f4b8f1f0228444c462920e7b0d0e6",
+    "shop": "モスバーガー",
+    "name": "今週はこの新商品がすごい！！！「これは大優勝」「絶対に食べるしかない」注目の新作グルメ5選 - GourmetBiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qdFRkNlBXd2pKZUx4VEdkaTkzMTFwWndaNnlvd2tzeE5kZV9WLXZvamtWb3",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qdFRkNlBXd2pKZUx4VEdkaTkzMTFwWndaNnlvd2tzeE5kZV9WLXZvamtWb3o0RDZjOHVuYnBVQW1aOXBXXzhRWTJR?oc=5",
+    "category": "burger",
+    "published": "Wed, 11 Nov 2026 10:10:49 GMT",
+    "fetched_at": "2026-11-12T03:27:32.228167",
+    "menu_name": "注目の新作グルメ5選",
+    "one_liner": "今週必食の絶品グルメが勢揃い"
+  },
+  {
+    "id": "558c7b133c6fd682f17ad93ca0e6a523",
+    "shop": "ゼッテリア",
+    "name": "【ゼッテリア】「和バーガーフェア 第2弾」、まいたけ×竜田チキンのバーガー2商品を販売 - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYQ1lFZW1mak9fMnlpM3lreW9vQ01DbG9ZUHNCX2V0cTRqamZyVEppWEVCWl",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYQ1lFZW1mak9fMnlpM3lreW9vQ01DbG9ZUHNCX2V0cTRqamZyVEppWEVCWlZQemZLNTh1WmtDZFBEUTdVc1o2TG12N0pkWVB3d3M4cg?oc=5",
+    "category": "burger",
+    "published": "Thu, 12 Nov 2026 01:44:04 GMT",
+    "fetched_at": "2026-11-12T03:27:35.079443",
+    "menu_name": "まいたけ×竜田チキンのバーガー",
+    "one_liner": "まいたけの旨味と竜田チキンの絶妙な調和"
+  },
+  {
+    "id": "487a4e994ff5bd0a0849085020c0baff",
+    "shop": "スターバックス",
+    "name": "【スターバックス】ストロベリー＆クランベリー ブリスバー【新作スイーツ・新メニュー】 - https://foodfighter.jp/",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE85cmlVekxRbFdVMHFZZy00Wi15a2Npc21zcnlnOXpuaGhIRmhtaDBxN0hCam",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85cmlVekxRbFdVMHFZZy00Wi15a2Npc21zcnlnOXpuaGhIRmhtaDBxN0hCamFSZy1KQVFBaUFYbjlKd0FjVU9TZWFuVGFZdjJoMlpWaFRFMzUzUTJXS3lWR3RRY3NYY3JM?oc=5",
+    "category": "cafe",
+    "published": "Fri, 06 Nov 2026 22:30:32 GMT",
+    "fetched_at": "2026-11-12T03:27:37.860364",
+    "menu_name": "ストロベリー＆クランベリー ブリスバー",
+    "one_liner": "ベリーの甘酸っぱさが広がる冬の贅沢スイーツ"
+  },
+  {
+    "id": "0aaa2afd18bfb6379952d0c9e9cd9481",
+    "shop": "スターバックス",
+    "name": "スタバ新作売り切れ必至？！Bearista(ベアリスタ)全5種が11/10カナダで発売 - LifeVancouver カナダ・バンクーバー現地情報",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1ieW1FQ2Z2bWROU2tOS1c5X1hteEJ0eUlHdU5DWnVJNmViS2ZaSm94bDlvVz",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ieW1FQ2Z2bWROU2tOS1c5X1hteEJ0eUlHdU5DWnVJNmViS2ZaSm94bDlvVzNtZFd5MzY1WC1GQm9RTUZmem9rdEVvVGlzcjYtQVFMNmdLTW1qVGQ4VWlnVHJhRXA3ckZrbDdkUDVsMV8xMDBNVUZCSVhNSQ?oc=5",
+    "category": "cafe",
+    "published": "Mon, 09 Nov 2026 18:53:38 GMT",
+    "fetched_at": "2026-11-12T03:27:38.188227",
+    "menu_name": "Bearista(ベアリスタ)全5種",
+    "one_liner": "カナダ限定の可愛いベアリスタ"
+  },
+  {
+    "id": "73d5f069e0ab88981be5980710df5f48",
+    "shop": "スターバックス",
+    "name": "スタバ初のカプセルトイ、11．18発売！ キャラメル マキアートやドーナツがミニサイズに - au Webポータル",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5NS1lXbEcyYkRjSjM3U2VhdHFJSFpOY0JMR0twcDY2UzdYUzM5MnBrcjUzQ2",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NS1lXbEcyYkRjSjM3U2VhdHFJSFpOY0JMR0twcDY2UzdYUzM5MnBrcjUzQ282SDVrb3JLaHA3SVBVQzludGU3ZXBDZi0waEZ5cThPWG5DNDg3NmpWOFkzTDhpckNNbnp0Q1RjRDV3?oc=5",
+    "category": "cafe",
+    "published": "Wed, 11 Nov 2026 02:21:00 GMT",
+    "fetched_at": "2026-11-12T03:27:38.188384",
+    "menu_name": "スタバ初のカプセルトイ",
+    "one_liner": "スタバの味がミニチュアに"
+  },
+  {
+    "id": "b5c335e7722677b0aae29eb83ce4c728",
+    "shop": "タリーズコーヒー",
+    "name": "タリーズで見つけたら即買い！「激かわぬい＆限定コーヒー豆」などホリデーアイテム発売中 - ぴあエンタメ情報",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rZU5GNHVmc0kxaTJFN2ZWcDdCWHVkbnRjQlhBSnZSMVdIeHpWbVVzd0NDNn",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rZU5GNHVmc0kxaTJFN2ZWcDdCWHVkbnRjQlhBSnZSMVdIeHpWbVVzd0NDNnpxTjBscTQzcVV0QmJHN3NWdGNCZm1GVUNHY2ZWNmlmN19PTWRSUTNTNktR?oc=5",
+    "category": "cafe",
+    "published": "Wed, 11 Nov 2026 10:30:00 GMT",
+    "fetched_at": "2026-11-12T03:27:40.408569",
+    "menu_name": "激かわぬい＆限定コーヒー豆",
+    "one_liner": "ホリデー気分高まる限定グッズ"
+  },
+  {
+    "id": "660b0f88f72a8e0bec796b4279ae299b",
+    "shop": "ミスタードーナツ",
+    "name": "【福袋2027】ミスタードーナツ、“未年”を彩るフレンチウーラーのグッズが登場 ぬいぐるみやヘアバンドでキュートを届ける - Infoseek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZ1dObVk4LWtVa19HMVRUQ1JYcjZlUDRwT0RDZ21UUnVhMWliSnZsYm1zbk",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWZ1dObVk4LWtVa19HMVRUQ1JYcjZlUDRwT0RDZ21UUnVhMWliSnZsYm1zbkV5OTVrREd0cEZmNFB0QXZZMXRHY2xpMmsyNTRLWDVyeTl2clFpYlpxUTM5Sw?oc=5",
+    "category": "cafe",
+    "published": "Thu, 12 Nov 2026 01:17:08 GMT",
+    "fetched_at": "2026-11-12T03:27:41.891767",
+    "menu_name": "福袋2027",
+    "one_liner": "未年を彩るキュートな限定グッズ"
+  },
+  {
+    "id": "fb88e65645a212682f1220016ab651ca",
+    "shop": "松屋",
+    "name": "松屋、店舗限定『ガリマヨご馳走ポークカレー』を全国70店舗で発売 - ギュメシー",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ILVRmNXNHRzZTRV94NFE3R012TnRCSFZGbExBNEt0NlZOWGdDUERmVTdQUm",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ILVRmNXNHRzZTRV94NFE3R012TnRCSFZGbExBNEt0NlZOWGdDUERmVTdQUmM1WDlwZWprMFhBclpuTmk4M05kelg4b28?oc=5",
+    "category": "don",
+    "published": "Tue, 10 Nov 2026 09:29:56 GMT",
+    "fetched_at": "2026-11-12T03:27:45.185539",
+    "menu_name": "ガリマヨご馳走ポークカレー",
+    "one_liner": "ガリマヨが食欲をそそる贅沢カレー"
+  },
+  {
+    "id": "aaca781e0a62d5a4344f2103dfa1ddc7",
+    "shop": "松屋",
+    "name": "松屋『キムカル丼MEGA盛り』など2品、好評で11月17日まで販売延長 - ギュメシー",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFByZHRlRV9NYTZSS0ZOdVdYMVpWZXFOQnVKMjRMNHBYa052cUNjT09MR05rQn",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByZHRlRV9NYTZSS0ZOdVdYMVpWZXFOQnVKMjRMNHBYa052cUNjT09MR05rQnNfX3ZGWlAxRnR2NjkwY3hITng3QVB1R20?oc=5",
+    "category": "don",
+    "published": "Wed, 11 Nov 2026 09:48:51 GMT",
+    "fetched_at": "2026-11-12T03:27:45.185632",
+    "menu_name": "キムカル丼MEGA盛り",
+    "one_liner": "キムチとカルビの相性抜群な丼"
+  },
+  {
+    "id": "ff28dcff1ecbfbbdbdb82e0d9650c72b",
+    "shop": "吉野家",
+    "name": "吉野家が公式通販ショップで 2027年「福箱」を期間限定で販売開始 -先着5000個限定で干支「未」入り超小盛丼をプレゼント-（株式会社 吉野家） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZakZYSXJiZUJIMkxfb2lvb0J6MklMSEVZNldGenpGUVY2ZUVzS2tQTzFLN3",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZakZYSXJiZUJIMkxfb2lvb0J6MklMSEVZNldGenpGUVY2ZUVzS2tQTzFLN3Nhd2o5blZUQlRFVVFweFdPeC1kdFREUGMyNFVIQlNZV1hPTWFKOVU2bG1PckZwQm9JX0RaQ21TbTdPcjB5aHlVX3k5T0JLelpQTnc?oc=5",
+    "category": "don",
+    "published": "Thu, 12 Nov 2026 01:00:09 GMT",
+    "fetched_at": "2026-11-12T03:27:46.340962",
+    "menu_name": "2027年「福箱」",
+    "one_liner": "限定の干支丼付きでお得な福箱"
+  },
+  {
+    "id": "cab63e7b9cfbd8ef70e9f0476741eafa",
+    "shop": "なか卯",
+    "name": "【期間限定】「こ、こ、今年もきたー！」なか卯、“ごはんが見えないほど”の「天然丼」が登場「やばいやばい食べたい」 - TRILL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lMHBmWExjWVhGV1JlYUVjeWpCbjNzUGE4eXlCZEF3VUM1cjN5OWZRcjNwU1",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lMHBmWExjWVhGV1JlYUVjeWpCbjNzUGE4eXlCZEF3VUM1cjN5OWZRcjNwU1VxRUNCU2NOaWhzR0xVTXpoQ2RocV9ucWVMVEk?oc=5",
+    "category": "don",
+    "published": "Thu, 12 Nov 2026 01:10:57 GMT",
+    "fetched_at": "2026-11-12T03:27:47.457445",
+    "menu_name": "天然丼",
+    "one_liner": "ごはんが見えないほど贅沢な具材"
+  },
+  {
+    "id": "3df975e2d47c17c8d69a072d81b33449",
+    "shop": "ガスト",
+    "name": "ガストの看板メニューを自宅で楽しめる！冷凍食品『10種チーズのチーズIN生ハンバーグ』新発売 - GourmetBiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DalNIM1VOMVl1MjFzMF91VTBIdHNleExMeFhpeDU3WXNSakpDS0FyRTl5SU",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DalNIM1VOMVl1MjFzMF91VTBIdHNleExMeFhpeDU3WXNSakpDS0FyRTl5SUVuQlF3Nk81emVtTUNCeldBbFJpRk5B?oc=5",
+    "category": "family",
+    "published": "Mon, 09 Nov 2026 07:25:31 GMT",
+    "fetched_at": "2026-11-12T03:27:51.097636",
+    "menu_name": "10種チーズのチーズIN生ハンバーグ",
+    "one_liner": "ガストの味を自宅で楽しむ冷凍ハンバーグ"
+  },
+  {
+    "id": "af34c450af34a1d00497632d79cfc594",
+    "shop": "幸楽苑",
+    "name": "【幸楽苑】「大満足のボリューム」「ニンニク最高」期間限定で大人気ラーメンが復活中♡食べ応え抜群だよ！ - TRILL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlWnVIdGpWXzE1YmpFVk5abDF4WmRtR1Z3WE1Pdm1EZkI2OVBCY3ZyV3ZJTn",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlWnVIdGpWXzE1YmpFVk5abDF4WmRtR1Z3WE1Pdm1EZkI2OVBCY3ZyV3ZJTnJUc3h2dldSLThORVNtclYwaTJBNlBrZmExVDQ?oc=5",
+    "category": "ramen",
+    "published": "Wed, 11 Nov 2026 11:37:43 GMT",
+    "fetched_at": "2026-11-12T03:28:03.081872",
+    "menu_name": "大人気ラーメン",
+    "one_liner": "ニンニク香る大満足のボリューム"
+  },
+  {
+    "id": "cd69250639b6ddd068e630d08204e36f",
+    "shop": "ピザーラ",
+    "name": "【2026年4月】ピザーラなど、注目グルメチェーン最新情報特集！春の新メニューとお得キャンペーンを一挙紹介！～資さんうどん・ピザハット・なか卯～ - えん食べ [グルメニュース]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBncUprbzhkUU9PZE5vdmRjUDVIR0sySVVicWoxNXVUb3NEcDhCWFg0SFZrWG",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBncUprbzhkUU9PZE5vdmRjUDVIR0sySVVicWoxNXVUb3NEcDhCWFg0SFZrWGYxUWNsYW5VWlB1ZzRJWFloQnBqOXRGcUUyZ1pWVGtfRG1BcWJwRFlaVVYwYjRpTXljaWtTTG90UkthWjNBeGlFclpza3gyQTnSAYIBQVVfeXFMTTVMSmlYc1QxT0lIQkV2Snk5T2Y2dlMwSHVVRmJvMDhwNzF2dUNVcVY4NU12R29LMDQ4a3lkeHdYWU5ob0ZNZGtZQjdjenV2Q1FNX19xRmFnd3FnOXJuQ2dydmpESUFQRFdjeG9CSjlTZl9lZkZCNXZkRmhhNEstOUFPUQ?oc=5",
+    "category": "pizza",
+    "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-12T03:28:08.567841",
+    "menu_name": "春の新メニュー",
+    "one_liner": "注目グルメチェーンの春の新作"
   }
 ]
