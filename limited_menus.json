@@ -1,53 +1,5 @@
 [
   {
-    "id": "7b1b84af154bf96d5af3a342e13ffebe",
-    "shop": "はま寿司",
-    "name": "はま寿司、広島県産牡蠣/カキフライつつみなど110円！ 塩〆黒そい/炙り豚とろなども登場 - グルメ Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1hbEdBRHRBQnpHWmZQcGN1MERZR2tER0FLcXVXSFI0UU5oaVhjODNBSlUyeG",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hbEdBRHRBQnpHWmZQcGN1MERZR2tER0FLcXVXSFI0UU5oaVhjODNBSlUyeG1zdjZaRHM1emd4U2pFOVl0d19vRFcwNUpsbDNlREJTX3QtRDBJVUhwR0Q1NHFOQkJlUHhKX2c?oc=5",
-    "category": "sushi",
-    "published": "Tue, 13 Oct 2026 01:43:53 GMT",
-    "fetched_at": "2026-10-13T03:14:39.053848",
-    "menu_name": "広島県産牡蠣/カキフライつつみ、塩〆黒そい/炙り豚とろ",
-    "one_liner": "旬の牡蠣や脂の乗ったネタが110円から楽しめる"
-  },
-  {
-    "id": "034e85cfad92dfe921fed3faee33a5b0",
-    "shop": "マクドナルド",
-    "name": "【きょうから】マクドナルド「チーズベーコンポテトパイ」期間限定復活 食べ進めるたびに味わい変化 - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkNlYnhZVndfa1ZrWHBUcVNtNG9FaXh4cTVlRDhENUZzdGppUm5xRTVkZF",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkNlYnhZVndfa1ZrWHBUcVNtNG9FaXh4cTVlRDhENUZzdGppUm5xRTVkZFFHdW0zYmw5aWRXNzN0cXpqSFBEU241bWtEaWEwU2hxRXdFYU9hZTBQb20zTC1Qb0Jia3M3NDNGUWxoczVRWktoNTN3YUZMeDhZS2dldEg1dWgtck5y?oc=5",
-    "category": "burger",
-    "published": "Mon, 12 Oct 2026 15:24:24 GMT",
-    "fetched_at": "2026-10-13T03:14:44.871262",
-    "menu_name": "チーズベーコンポテトパイ",
-    "one_liner": "食べ進めるたびに変化する味わい"
-  },
-  {
-    "id": "5eb4e297000165634d636d78aaae7f8e",
-    "shop": "ドトールコーヒー",
-    "name": "ドトール、きのこクリーム×チキンのホットモーニング発売。「パリパリチョコキャラメルミルクレープ」再登場 - グルメ Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5hM093dm15UUNZaDFERWVYSTVla2dIbXZjazlLcnhQTnRSeGZMNFh5Qnd5Zj",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hM093dm15UUNZaDFERWVYSTVla2dIbXZjazlLcnhQTnRSeGZMNFh5Qnd5ZjJFY0FCc1RZQ3JEUXJqcGptUHZ2d3lWYndlakd6RjFPVzFkVTFWVWZIUjRZd3BWUHJoWWowT1E?oc=5",
-    "category": "cafe",
-    "published": "Mon, 12 Oct 2026 23:00:00 GMT",
-    "fetched_at": "2026-10-13T03:14:56.344871",
-    "menu_name": "きのこクリーム×チキンのホットモーニング、パリパリチョコキャラメルミルクレープ",
-    "one_liner": "秋の味覚と贅沢スイーツの新メニュー"
-  },
-  {
-    "id": "4588279f880bc96b3449b06b4a77a6e3",
-    "shop": "びっくりドンキー",
-    "name": "北海道の“おいしい”が博多駅に集結！「北海道うまいもの館」が博多エキナカマイングに期間限定出店中！ - アットプレス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtYm40al9wLUNfWmFnLXpRcUxJakNpekhpSndsUExxcl9VMGdkX3FiT2VoeG",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtYm40al9wLUNfWmFnLXpRcUxJakNpekhpSndsUExxcl9VMGdkX3FiT2VoeGdSRGhoZ2xJZjV0dHpaN3RIeVNHSDhmNXQwLUE?oc=5",
-    "category": "family",
-    "published": "Tue, 13 Oct 2026 02:30:00 GMT",
-    "fetched_at": "2026-10-13T03:15:17.220797",
-    "menu_name": "北海道うまいもの館",
-    "one_liner": "北海道の絶品グルメが博多に集結"
-  },
-  {
     "id": "1beac8d1bf024b56a0d1bce741bb517c",
     "shop": "スシロー",
     "name": "スシロー“110円”の「本鮪中とろ」を14日から販売！ 一皿で2種を味わう「馬刺し食べ比べ」なども登場 - グルメ Watch",
@@ -310,18 +262,6 @@
     "fetched_at": "2026-10-17T00:51:13.278225",
     "menu_name": "バルカの伝統料理",
     "one_liner": "ドラマの世界観を再現した注目の新メニュー"
-  },
-  {
-    "id": "267328e9bc6328e756dabe11b0474b45",
-    "shop": "ドトールコーヒー",
-    "name": "ドトールコーヒーが「期間限定ミラノサンド牛カルビシリーズ」を7月4日に新発売！(1/2) - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DcTFDU3U2OTg2ZTMzaTlxNTZvZFh2bFhVUER4LXdraDlwbzEyYXlOQ0Jsb1",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DcTFDU3U2OTg2ZTMzaTlxNTZvZFh2bFhVUER4LXdraDlwbzEyYXlOQ0Jsb1FsREtxaEc1Xy1Ocjg4N2tPanBxaVhsSVJYRTdpOHVpQ1Z30gFbQVVfeXFMUGJPN0kwVGptcXh5b0cyazRkRXVVOU1iaTRYaDY2R0ZGSHVtNm5XRU8xVHZnNlVKdWxXVEpvVWFVMXZSZXpMeW1yOVBQQnYtWTFNSkc4N3FVZi03VQ?oc=5",
-    "category": "cafe",
-    "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-17T00:51:23.928553",
-    "menu_name": "期間限定ミラノサンド牛カルビシリーズ",
-    "one_liner": "夏にぴったりの旨辛牛カルビサンド"
   },
   {
     "id": "90646b4b53437152a147302fb9a649c8",
@@ -3106,5 +3046,149 @@
     "fetched_at": "2026-11-12T03:28:08.567841",
     "menu_name": "春の新メニュー",
     "one_liner": "注目グルメチェーンの春の新作"
+  },
+  {
+    "id": "c94b1251d02c1996008e9f9f4a678ca5",
+    "shop": "はま寿司",
+    "name": "広島県産牡蠣を使った握りやカキフライのお寿司が100円（税込110円）！「はま寿司の牡蠣と旨ねた秋祭り 第3弾」開催！ - はま寿司",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hVDdMM1hoVUpPWWtSa2FrWlRvd3FpbUgtSi13ZEZQWVZ2QTJ0TXhHNzJzVH",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hVDdMM1hoVUpPWWtSa2FrWlRvd3FpbUgtSi13ZEZQWVZ2QTJ0TXhHNzJzVHZNTTVOZmx5SURYNUNlU3d6VG9CbFFnd3BKMXRjNEl2OEZ0dmFPNDRaRnpiTmxvVEZjWVk?oc=5",
+    "category": "sushi",
+    "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-13T02:58:57.497208",
+    "menu_name": "広島県産牡蠣を使った握りやカキフライのお寿司",
+    "one_liner": "広島県産牡蠣の贅沢な味わいを110円で！"
+  },
+  {
+    "id": "072672b4bd97efc90ed68f5939f0aa24",
+    "shop": "かっぱ寿司",
+    "name": "モロゾフ、「アーモンドミルクプリン」をリニューアル！アーモンドのコクと風味を活かした期間限定プリン - GourmetBiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ITjJRanhOemp5cF83NllpZ3Z2dTZDYVhLVDh0NHU0UGRCNHZ3NFVUUEp3Ql",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ITjJRanhOemp5cF83NllpZ3Z2dTZDYVhLVDh0NHU0UGRCNHZ3NFVUUEp3QlpwUXBTTW5MSm51SURjdmk2aTg3TWFB?oc=5",
+    "category": "sushi",
+    "published": "Thu, 12 Nov 2026 02:58:33 GMT",
+    "fetched_at": "2026-11-13T02:58:59.432378",
+    "menu_name": "アーモンドミルクプリン",
+    "one_liner": "アーモンドのコクと風味広がる限定プリン"
+  },
+  {
+    "id": "07cdc112b00b3f0ad9e4c6395dce3085",
+    "shop": "かっぱ寿司",
+    "name": "かっぱ寿司で「焦がし栗のアイスカタラーナ」11月26日発売！世界大会金賞シェフ監修 - いこーよニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ybnV0Y0tnRHVlVDVBTWd1X3l2NWNsZThMSjNMZVgyYks0U3FiWFRZczV1RU",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ybnV0Y0tnRHVlVDVBTWd1X3l2NWNsZThMSjNMZVgyYks0U3FiWFRZczV1RU91RUpBdmdlcEl6dnJfMktaRlNuWF9lMFNWbVBfQ2c?oc=5",
+    "category": "sushi",
+    "published": "Thu, 12 Nov 2026 11:22:03 GMT",
+    "fetched_at": "2026-11-13T02:59:00.588083",
+    "menu_name": "焦がし栗のアイスカタラーナ",
+    "one_liner": "金賞シェフ監修の濃厚な秋スイーツ"
+  },
+  {
+    "id": "29d0ac4177bab85033ba330e51f143db",
+    "shop": "魚べい",
+    "name": "発売直後から異例の争奪戦！！！「買える気がしない」「10軒以上回ったけど売ってない」「いったいどこに売ってるんですか！？」 - GourmetBiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiMC1BSkJmVGEtZ0JOZEtUMFNqX0dzZ0thQ3JlOFZnakZFdzNqQzVQS0M3NE",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiMC1BSkJmVGEtZ0JOZEtUMFNqX0dzZ0thQ3JlOFZnakZFdzNqQzVQS0M3NEl0N2xDU0tEQWU3RVhOc0VBT0h5eUNR?oc=5",
+    "category": "sushi",
+    "published": "Wed, 11 Nov 2026 15:19:25 GMT",
+    "fetched_at": "2026-11-13T02:59:01.860917",
+    "menu_name": "発売直後から異例の争奪戦",
+    "one_liner": "入手困難な話題の注目メニュー"
+  },
+  {
+    "id": "ac800a6ed329526cbbfb077fee891547",
+    "shop": "マクドナルド",
+    "name": "【きょうから】マクドナルド、浜崎あゆみとのコラボメニュー期間限定で販売 “お気に入り”メニューをセットに (オリコン) - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObldrQXdfemtTSGJrbmNZMVo2ZGVWdWtaaHNBNE8zTnBWcU12eUhSNlNNR2",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObldrQXdfemtTSGJrbmNZMVo2ZGVWdWtaaHNBNE8zTnBWcU12eUhSNlNNR25CUkJObno2VHEzNW40LWNIb1EyT2xlWW84RjhzSWc1YjB6MDNGT0dSOHltTHBHSUJKM2JJbnlxZWRmaGdqUGE5M0NHc19hTlRqRzBzVG1VajVIbHYzaG41clpB?oc=5",
+    "category": "burger",
+    "published": "Tue, 10 Nov 2026 20:05:00 GMT",
+    "fetched_at": "2026-11-13T02:59:02.462831",
+    "menu_name": "浜崎あゆみとのコラボメニュー",
+    "one_liner": "浜崎あゆみのお気に入りセット"
+  },
+  {
+    "id": "86024e740b68b0128c4ab0571c554c86",
+    "shop": "マクドナルド",
+    "name": "期間限定【ハッピーセット】11/13発売の新作おもちゃを全部見せ「神クオリティ！」「絶対ほしい」 - Ameba News [アメーバニュース]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTaHJUV2hYcm5JRnFnOEVmaTExWWo0VnVVM3g2RHU5RTdEQzFQYUE4UnlTY3",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTaHJUV2hYcm5JRnFnOEVmaTExWWo0VnVVM3g2RHU5RTdEQzFQYUE4UnlTY3JSYUNHUUVtUlUyZmFib3liaWtaUjRnRjhRVlNOVFMxOFV0dURfdw?oc=5",
+    "category": "burger",
+    "published": "Thu, 12 Nov 2026 06:47:45 GMT",
+    "fetched_at": "2026-11-13T02:59:02.463128",
+    "menu_name": "ハッピーセット",
+    "one_liner": "神クオリティの新作おもちゃ"
+  },
+  {
+    "id": "343dbbf481611c4c78a65297d3a89dc6",
+    "shop": "マクドナルド",
+    "name": "マクドナルド「ご不便をおかけいたします」発売から1ヶ月足らずで…“異例の事態”にSNS騒然「マジか」「悲しすぎる」 - TRILL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0djVyd2EyQVN5RFJRVXI3YVNpbjd2Z1ZSUGVHMDNsS0JOLXEyc3ZaeExwa1",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0djVyd2EyQVN5RFJRVXI3YVNpbjd2Z1ZSUGVHMDNsS0JOLXEyc3ZaeExwa1RRaHVoUHlyQVdINmdGbkNGQl9wZkNRTXFtNGM?oc=5",
+    "category": "burger",
+    "published": "Wed, 11 Nov 2026 02:44:00 GMT",
+    "fetched_at": "2026-11-13T02:59:03.126166",
+    "menu_name": "ご不便をおかけいたします",
+    "one_liner": "販売開始から短期間で終了した幻のメニュー"
+  },
+  {
+    "id": "a70dd5f4d5052009a95b2587fd020aed",
+    "shop": "ケンタッキーフライドチキン",
+    "name": "ケンタッキー「欲望まみれの背徳バーガーズ」発売。チキンにマカロニチーズや厚切りベーコンを重ねる背徳感 - グルメ Watch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zei1FVzZReUpGb2JSZVphcWN4ejlrSk1uMTVaTy1RbjZDVkoydzl1YWR5MT",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zei1FVzZReUpGb2JSZVphcWN4ejlrSk1uMTVaTy1RbjZDVkoydzl1YWR5MTBrNmxseDV4NkROMkFQd0JrMGtiXzdiTzJxa3pzMVZteVVmbXZEZ0hwNGJfcDBjXzJlbE1YdUE?oc=5",
+    "category": "burger",
+    "published": "Thu, 12 Nov 2026 03:01:15 GMT",
+    "fetched_at": "2026-11-13T02:59:09.223977",
+    "menu_name": "欲望まみれの背徳バーガーズ",
+    "one_liner": "チキンにチーズやベーコンの背徳感"
+  },
+  {
+    "id": "f292043d7c26d7d438b941ef28ba7e46",
+    "shop": "ケンタッキーフライドチキン",
+    "name": "ケンタッキー、初日から大反響！！！数量限定なので急げ「寒い日にぴったり」「食べやすい」「リピートしたくなる」 - GourmetBiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xYUVLYjlnRU01bVpVOTlkWU9vZ0NNRVBTYldiYU9aYkYzeTROTHk3c0tZZk",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xYUVLYjlnRU01bVpVOTlkWU9vZ0NNRVBTYldiYU9aYkYzeTROTHk3c0tZZk5UYUd5OTJjNllvQUFuUHZxRzZfWEtR?oc=5",
+    "category": "burger",
+    "published": "Thu, 12 Nov 2026 07:40:40 GMT",
+    "fetched_at": "2026-11-13T02:59:09.226347",
+    "menu_name": "ケンタッキーの新メニュー",
+    "one_liner": "寒い日に最適で食べやすい限定品"
+  },
+  {
+    "id": "5d23a36a7a2b55452d1b6e34061101ac",
+    "shop": "スターバックス",
+    "name": "ふわふわ仕立て、冬の「ご自愛スープ」ほくほくポテトとミルクのやさしい味わいの『ポテト スープチーノ®』が登場 - スターバックス ストーリーズ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVE9CVURBcVVmYzBnTHd2VUJDOFNrQW4yVTBTRVNac3Vsc1NUbE9QTWtxV0",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVE9CVURBcVVmYzBnTHd2VUJDOFNrQW4yVTBTRVNac3Vsc1NUbE9QTWtxV0ZZRDBHRFB6dTZrcVNnMkc2TTQxNi1PdXF6UFFiTmpDaXMxWTlzN2htd1VJQVFfRHV4amM?oc=5",
+    "category": "cafe",
+    "published": "Mon, 09 Nov 2026 01:30:00 GMT",
+    "fetched_at": "2026-11-13T02:59:11.100680",
+    "menu_name": "ポテト スープチーノ®",
+    "one_liner": "ポテトとミルクのやさしい味わい"
+  },
+  {
+    "id": "dffd3938094f55bc4a883abc1aa320af",
+    "shop": "タリーズコーヒー",
+    "name": "期間限定フルーツティー タリーズコーヒージャパン | | 全国のニュース - 佐賀新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INUNpcmROdXlSd1BoMXFPekJibmFfZXZ3OF9xSVo2VHBPdkdZcDVFQUhfaE",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INUNpcmROdXlSd1BoMXFPekJibmFfZXZ3OF9xSVo2VHBPdkdZcDVFQUhfaEhocWNnTVAyOU9JSkdUajBMM1VfeW9fNHZqaDkwUGNyMTFn?oc=5",
+    "category": "cafe",
+    "published": "Thu, 12 Nov 2026 05:18:00 GMT",
+    "fetched_at": "2026-11-13T02:59:12.829373",
+    "menu_name": "期間限定フルーツティー",
+    "one_liner": "旬の果実を楽しめる爽やかな一杯"
+  },
+  {
+    "id": "8055581f77f4bfb9c25584acff7b2d16",
+    "shop": "サンマルクカフェ",
+    "name": "「サンマルクカフェ福袋2027」で“大人かわいい”グッズや500円チケット入った福袋などが12月26日より数量限定発売！冬初オンライン先行販売も開始 - めざましmedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KcmVZRVF5ODNUVXRBZTlxaTB3NWNYNGQ0QUhDdmFOS2puVFhYZGhxdWg0Z2",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KcmVZRVF5ODNUVXRBZTlxaTB3NWNYNGQ0QUhDdmFOS2puVFhYZGhxdWg0Z2lia1hmTHZUY3BidF9GNzdSaURWX25yd2ZCRnJudnhN?oc=5",
+    "category": "cafe",
+    "published": "Thu, 12 Nov 2026 03:33:00 GMT",
+    "fetched_at": "2026-11-13T02:59:13.802847",
+    "menu_name": "サンマルクカフェ福袋2027",
+    "one_liner": "大人かわいいグッズとチケット入り"
   }
 ]
