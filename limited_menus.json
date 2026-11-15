@@ -1,29 +1,5 @@
 [
   {
-    "id": "b3012359a793812f8c74695c5a66ee0f",
-    "shop": "マクドナルド",
-    "name": "【マクドナルド】最大250円お得！　“390円”「サンキューペア」発売　全50組み合わせのサイドメニュー×ドリンクセット - Infoseek",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeTE1VnBYTm5GWUdyNDlYVHBwOUJmeUM2SUtwdHVnblpuOWp3RXVCLUthVk",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeTE1VnBYTm5GWUdyNDlYVHBwOUJmeUM2SUtwdHVnblpuOWp3RXVCLUthVko2NUxRazZzVHFUNzZfZVpsM1ptN2owaHRqbGlFUWtOX0cwbEp0RE9VMGVETE1mSE5Vcnl1TWfSAWpBVV95cUxPVnkxNVZwWE5uRllHcjQ5WFRwcDlCZnlDNklLcHR1Z25abjlqd0V1Qi1LYVZKNjVMUWs2c1RxVDc2X2VabDNabTdqMGh0amxpRVFrTl9HMGxKdERPVTBlRExNZkhOVXJ5dU1n?oc=5",
-    "category": "burger",
-    "published": "Wed, 14 Oct 2026 22:45:00 GMT",
-    "fetched_at": "2026-10-15T01:00:02.993066",
-    "menu_name": "サンキューペア",
-    "one_liner": "最大250円お得なサイドとドリンクのセット"
-  },
-  {
-    "id": "ba1b8be7d810505488b72b406ec84f9d",
-    "shop": "フレッシュネスバーガー",
-    "name": "フレッシュネス、ブランド海老3尾の限定バーガー2種を21日発売 - RBB TODAY",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rQWstUVZYenlmX3pMR0lIMWV5Z2JQODIwVEVXLTI0SXJHeUx3eG5xLTNUSk",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rQWstUVZYenlmX3pMR0lIMWV5Z2JQODIwVEVXLTI0SXJHeUx3eG5xLTNUSktCNDZ6aVRzb2E1NnBkaEVENzFjMTA3Qmhva25CRDZ0RF9kRTVBZ2d5SGRLWVlSZ2x6QQ?oc=5",
-    "category": "burger",
-    "published": "Wed, 14 Oct 2026 13:51:31 GMT",
-    "fetched_at": "2026-10-15T01:00:07.307391",
-    "menu_name": "ブランド海老3尾の限定バーガー2種",
-    "one_liner": "ブランド海老3尾を贅沢に使用"
-  },
-  {
     "id": "96e517a7397fe1af3c91846f1199b786",
     "shop": "くら寿司",
     "name": "くら寿司で田辺の産品 16～25日の期間限定販売、和歌山 - AGARA 紀伊民報",
@@ -46,18 +22,6 @@
     "fetched_at": "2026-10-16T00:51:02.872750",
     "menu_name": "くら寿司×スリコ 全9アイテム",
     "one_liner": "おうちでビッくらポンが楽しめるコラボ雑貨"
-  },
-  {
-    "id": "44ad8158ba2e12059f3bc9365ee12cca",
-    "shop": "魚べい",
-    "name": "沖縄・瀬底島の人気アイス店が全国進出！県産の塩と紅芋を使ったカップアイス発売 - au Webポータル",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Y0kwUmFBREFFUVlsTGt0Qmt5c1RzMXY4RUV1bEV4azUwUGU3X0dxNDdKaz",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Y0kwUmFBREFFUVlsTGt0Qmt5c1RzMXY4RUV1bEV4azUwUGU3X0dxNDdKazd0OVJod1BIMEdlRFppZ0JWRDBZMDRMM2NBQklJN3JsZ0lXaEcySTQ5SWdqbG9yWThVYXQtb0lCdDV3?oc=5",
-    "category": "sushi",
-    "published": "Thu, 15 Oct 2026 00:07:00 GMT",
-    "fetched_at": "2026-10-16T00:51:06.275798",
-    "menu_name": "県産の塩と紅芋を使ったカップアイス",
-    "one_liner": "沖縄の素材が香る贅沢アイス"
   },
   {
     "id": "aa5fc6ea786e684af5dd1a3b61d206c2",
@@ -96,18 +60,6 @@
     "one_liner": "国産すもも秋姫の贅沢な味わい"
   },
   {
-    "id": "0c437c6e25cd0c4e3004f40da2948522",
-    "shop": "フレッシュネスバーガー",
-    "name": "＼お酒が進む、やみつきポテトがフレバルに登場／ 明太子のコクとガーリックの旨味がクセに - FRESHNESS BURGER フレッシュネスバーガー",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WaXFpUG5Bd3ZLTGc2N2FJczJTR09Lc0V0T0pIaGZZczcxclBZQXZ1TVZLUm",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WaXFpUG5Bd3ZLTGc2N2FJczJTR09Lc0V0T0pIaGZZczcxclBZQXZ1TVZLUmdMeFNEN25GNXN0U21VR1BlVlRsMDNUcXkzWGdpQ3Z1VUNqOU1FYmFVYmc?oc=5",
-    "category": "burger",
-    "published": "Thu, 15 Oct 2026 02:02:17 GMT",
-    "fetched_at": "2026-10-16T00:51:12.168544",
-    "menu_name": "明太ガーリックポテト",
-    "one_liner": "明太子とガーリックのやみつきな旨味"
-  },
-  {
     "id": "9b6f8595466f9af63a87d817bd4483d8",
     "shop": "スターバックス",
     "name": "スタバ フラペチーノが猫に変身！？「ねこ耳カスタマイズ」が期間限定で登場！自分だけの“推し猫”を作れる一杯はハロウィンにぴったり - めざましmedia",
@@ -118,18 +70,6 @@
     "fetched_at": "2026-10-16T00:51:16.187963",
     "menu_name": "ねこ耳カスタマイズ",
     "one_liner": "自分だけの推し猫が作れる一杯"
-  },
-  {
-    "id": "794d37ff9176273a4fb431ddab9845de",
-    "shop": "ドトールコーヒー",
-    "name": "ドトール、さつまいもを使ったドリンクやスイーツなど新商品4種を9月17日発売へ - Dellows News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JcXZ0dEF6eTkwU2dLeDluNUxka2tDTUFqc0FiSlJ0ckw0STFfakVZQkhYUm",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JcXZ0dEF6eTkwU2dLeDluNUxka2tDTUFqc0FiSlJ0ckw0STFfakVZQkhYUm5JQU5JS2djd0VwVlF3UnJQb2c?oc=5",
-    "category": "cafe",
-    "published": "Wed, 14 Oct 2026 23:48:45 GMT",
-    "fetched_at": "2026-10-16T00:51:18.282245",
-    "menu_name": "さつまいもを使ったドリンクやスイーツなど新商品4種",
-    "one_liner": "秋の味覚、さつまいも尽くしの新作メニュー"
   },
   {
     "id": "a67f23bcbdcd1ff1cd56a054084aa559",
@@ -154,18 +94,6 @@
     "fetched_at": "2026-10-16T00:51:26.799165",
     "menu_name": "ウインターエディション",
     "one_liner": "冬の星々をイメージした幻想的な限定パッケージ"
-  },
-  {
-    "id": "5830c15801ac882ce2d4d5325a213598",
-    "shop": "松屋",
-    "name": "人気シリーズから待望の\"中華版\"が登場！「ごろチキチリソース」発売 - 松屋",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tOV9DYXVEam1IbXhIaTZMVHVUOHRZOVM2Wk9DUVVCa0hPOHJyNGNjTk13Yz",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tOV9DYXVEam1IbXhIaTZMVHVUOHRZOVM2Wk9DUVVCa0hPOHJyNGNjTk13YzR1M0YtSTdnaUVteTExSVIyWEl2NWdFYm5lY1c2eTcyY3V1RVJHMTdJWTlGSGIwT0RESTA?oc=5",
-    "category": "don",
-    "published": "Thu, 15 Oct 2026 01:04:38 GMT",
-    "fetched_at": "2026-10-16T00:51:27.320604",
-    "menu_name": "ごろチキチリソース",
-    "one_liner": "人気シリーズ待望の中華版が登場"
   },
   {
     "id": "c5bcfd5b4d9f03010b6497fc2598faae",
@@ -228,18 +156,6 @@
     "one_liner": "ジョジョの世界観を纏う限定コラボイヤホン"
   },
   {
-    "id": "d9b23d993667322e5846be58cff047fc",
-    "shop": "マクドナルド",
-    "name": "「5ピースじゃ足りん！」マックの期間限定エビプリオの悪魔的ウマさで胃袋掴まれた件 - au Webポータル",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5qZlhkbUlWcEF6bFc3dmtpRmpheXNDMUo4YlZjZ1o5Z0RxRVg3SHk1VHNHY1",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qZlhkbUlWcEF6bFc3dmtpRmpheXNDMUo4YlZjZ1o5Z0RxRVg3SHk1VHNHY19OVkFvbzg4aGRDV3BTMDBCeHY3dUNENUdWYkNzbzc2MmxHeG1yOElFdnVweDVtTzJPN3RTNU9GTWZB?oc=5",
-    "category": "burger",
-    "published": "Wed, 14 Oct 2026 22:42:00 GMT",
-    "fetched_at": "2026-10-18T00:28:04.752859",
-    "menu_name": "エビプリオ",
-    "one_liner": "悪魔的なウマさで胃袋を掴む期間限定商品"
-  },
-  {
     "id": "b6ecf7009fece49cf0d8b9607afe60fe",
     "shop": "フレッシュネスバーガー",
     "name": "フレッシュネスバーガーに“うま味1.5倍”の『神の海老バーガー』が期間限定で登場、希少すもも「秋姫」レモネードも (オリコン) - Yahoo!ニュース",
@@ -298,18 +214,6 @@
     "fetched_at": "2026-10-19T00:34:22.658395",
     "menu_name": "SWEET POTATO & MARRON SELECTION～あなたはどちらがお好き？～",
     "one_liner": "秋の味覚、芋と栗の贅沢デザート。"
-  },
-  {
-    "id": "ea688fb16ca886f82a93e946632a9e06",
-    "shop": "一風堂",
-    "name": "シャキシャキ辛ねぎ！×濃厚背脂！×ガツンとニンニク！「背脂ニンニク辛ねぎ醤油」誕生！10月15日(木)からTOKYO豚骨BASE MADE by 一風堂13店舗で販売開始… - フーズチャネル",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbEt2eC1RSVNrVFYyWlo0ZlNuVktDVmFhMmNvRkt5V1ZzLTdGQUd5NjFsNV",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbEt2eC1RSVNrVFYyWlo0ZlNuVktDVmFhMmNvRkt5V1ZzLTdGQUd5NjFsNVFKUUhuUzVHTlRVcUI4SEk2UW9hd2UzOFJnMjhucS01NHZB?oc=5",
-    "category": "ramen",
-    "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-10-19T00:34:40.077073",
-    "menu_name": "背脂ニンニク辛ねぎ醤油",
-    "one_liner": "濃厚背脂と辛ねぎの刺激的な一杯"
   },
   {
     "id": "55bb7873580b83a23704bb895784ac72",
@@ -1680,18 +1584,6 @@
     "one_liner": "チーズたっぷりの濃厚な味わい"
   },
   {
-    "id": "c09f817139d8339696a50f53c9e57cc2",
-    "shop": "マクドナルド",
-    "name": "【本日】ケンタ新バーガー発売！ マクドナルドも続く、両社そろって「鶏もも肉」に - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tZWpWeHFmbTZIWEtWNmpxSXdiaDhtRGdVMlRLNTZvVEs1OGxWRk5GUTdYQ0",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tZWpWeHFmbTZIWEtWNmpxSXdiaDhtRGdVMlRLNTZvVEs1OGxWRk5GUTdYQ050MW5LcU80Q3JERzVvR1E2Vm8yRUthRll0d0xBVmV1Rg?oc=5",
-    "category": "burger",
-    "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-02T01:55:51.759165",
-    "menu_name": "新バーガー",
-    "one_liner": "こだわりの鶏もも肉を使用した新バーガー"
-  },
-  {
     "id": "4802479029f3df4893a39c52eb05e507",
     "shop": "ケンタッキーフライドチキン",
     "name": "【あすから】ケンタッキーで9日間だけ！“380円お得”な「大容量パック」が登場 - Lmaga.jp",
@@ -1738,18 +1630,6 @@
     "fetched_at": "2026-11-02T01:56:17.383964",
     "menu_name": "デニーズのハロウィンパーティー",
     "one_liner": "見て楽しいハロウィン限定スイーツ"
-  },
-  {
-    "id": "eb9f3f3aa79678572182beb899062b0a",
-    "shop": "デニーズ",
-    "name": "デニーズ“蜜いもデザート”「蜜いものブリュレパンケーキ」や黒ごまアイスで進化した「ザ・サンデー」など8品を発売！ - グルメ Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5IcFRYaEpUdGxrVDVKaldoazY5OFgwWDRDZFhOdGpHbHRfUTdtb29fMUljRF",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IcFRYaEpUdGxrVDVKaldoazY5OFgwWDRDZFhOdGpHbHRfUTdtb29fMUljRFE2UlN4eklQQW1BX0JhVHp2RC1paXNsLWdOQUJxcTNwOU1BNW44RlFzUWFMX0dxRUhiZUpZVEE?oc=5",
-    "category": "family",
-    "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-02T01:56:18.370282",
-    "menu_name": "蜜いもデザート",
-    "one_liner": "秋の味覚を堪能できる新作スイーツ"
   },
   {
     "id": "9fc8420d3f8731004f5283831a683799",
@@ -2448,18 +2328,6 @@
     "one_liner": "浅草で楽しむ最新VR体験"
   },
   {
-    "id": "e111de5b22799226c45e4676f6e75a91",
-    "shop": "なか卯",
-    "name": "【本日発売】なか卯の“和風ハンバーグ”がおいしそ！ 温たまトッピングもあるよ - ASCII.jp",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJdGRHSm9hVlBwNHNjX3J5WENfMkh6RTR3bkdwc01xVzZrUHozTHNYTkl0Nj",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJdGRHSm9hVlBwNHNjX3J5WENfMkh6RTR3bkdwc01xVzZrUHozTHNYTkl0NjNjXzRheUFobjRfcGo4djh5UzMtdkhSaUFCVWFmS3pWOQ?oc=5",
-    "category": "don",
-    "published": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-09T02:08:03.318211",
-    "menu_name": "和風ハンバーグ",
-    "one_liner": "温たまトッピングも楽しめる逸品"
-  },
-  {
     "id": "8c133345688f6100df2fb138316ce7dc",
     "shop": "くら寿司",
     "name": "くら寿司「ぶりととろ」フェアで“寒ぶり”が一皿無料に！ 希少な「寒ぶりとろ」もひと足先に味わってみた（グルメ Watch） - Yahoo!ニュース",
@@ -3142,5 +3010,89 @@
     "fetched_at": "2026-11-14T02:45:44.718916",
     "menu_name": "ねぎ塩豚タン丼",
     "one_liner": "歯ごたえと旨塩だれが絶妙な丼"
+  },
+  {
+    "id": "06803e3325d65b0636fd56bd18c10b89",
+    "shop": "くら寿司",
+    "name": "【くら寿司】寒ぶり、寒ぶりとろ、まぐろ中とろ「ぶりととろ」フェア - オトナンサー",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JLWpobF9vLUEyYTdoTVJnYUlUNm5iVnNYaTUxemduTllERFllMXRjS2ROX2",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JLWpobF9vLUEyYTdoTVJnYUlUNm5iVnNYaTUxemduTllERFllMXRjS2ROX2FNSGp6M01PYXhWYXdyT21NY2dEel9R?oc=5",
+    "category": "sushi",
+    "published": "Sun, 15 Nov 2026 02:03:39 GMT",
+    "fetched_at": "2026-11-15T02:12:47.272868",
+    "menu_name": "寒ぶり、寒ぶりとろ、まぐろ中とろ",
+    "one_liner": "旬の寒ぶりと極上中とろを堪能"
+  },
+  {
+    "id": "031bbc7f99b4f4522b3a3f396f05a6de",
+    "shop": "マクドナルド",
+    "name": "【マクドナルド】新チキンバーガー発売1ヵ月足らずで休売！ もも肉人気、想定以上だった - ASCII.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoVVNMWjNMSnhFdTZTMkZvMUQ4cnhDM002U0lxMzVtcFFDZkw5ZFZFQVFBYU",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoVVNMWjNMSnhFdTZTMkZvMUQ4cnhDM002U0lxMzVtcFFDZkw5ZFZFQVFBYURWUU56cTdoNXlJTkNfRWl5bmlhQ1ppWDA1SkV5T2RBSA?oc=5",
+    "category": "burger",
+    "published": "Wed, 11 Nov 2026 05:30:00 GMT",
+    "fetched_at": "2026-11-15T02:12:50.320045",
+    "menu_name": "新チキンバーガー",
+    "one_liner": "想定以上の人気を誇るもも肉のチキンバーガー"
+  },
+  {
+    "id": "52b92d56ba7435d64307e3e7138cab04",
+    "shop": "ケンタッキーフライドチキン",
+    "name": "【ケンタッキー】定番バーガーが43年ぶりに刷新！鶏もも肉になった「オリジナルチキンバーガーズ」が登場（ファンファン福岡） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1XVVV0UWxKbW1yWkkwRGJld2VqMjlQbjZNQmFPSmFOWnUyV1huR3kxdE5iMW",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XVVV0UWxKbW1yWkkwRGJld2VqMjlQbjZNQmFPSmFOWnUyV1huR3kxdE5iMWpyczVSMjBFbXJwSVdrejF6cFZhbTJzMmZlUE1hNEVZOWppVlhKZktMUHlsM2RiTzdTVXhBaWo4YUVpLWY5X3ZLeHltSWExMDZxNTg?oc=5",
+    "category": "burger",
+    "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-15T02:12:55.326055",
+    "menu_name": "オリジナルチキンバーガーズ",
+    "one_liner": "43年ぶりに刷新、鶏もも肉で新登場"
+  },
+  {
+    "id": "5b076d2ee9e05e9193b06a5908e50df3",
+    "shop": "タリーズコーヒー",
+    "name": "【タリーズコーヒー】ホリデー限定ドリンク＆スイーツを発売、ピスタチオペースト×カダイフ入りチョコの「ドバイチョコレートラテ」やクリスマスケーキ登場（食品産業新聞社ニュースWEB） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE53Z3dNanMxZXVLb2NJdDdBNmJhSkVTV2dELWd1M0FnUlQ0WVlMREVETzZVNG",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53Z3dNanMxZXVLb2NJdDdBNmJhSkVTV2dELWd1M0FnUlQ0WVlMREVETzZVNGlxNm16cVNGMWNWb0tUT1BSWDZBcVVISHlPdy12dVpucG1XdFRKT2J6SkItQjBNTWJRRFI5M1p3eXhSdDRSeEhvaTRVQUZzOUE4TEU?oc=5",
+    "category": "cafe",
+    "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+    "fetched_at": "2026-11-15T02:12:58.537136",
+    "menu_name": "ホリデー限定ドリンク＆スイーツ、ドバイチョコレートラテ、クリスマスケーキ",
+    "one_liner": "ピスタチオとカダイフが香る贅沢なホリデー体験"
+  },
+  {
+    "id": "75f5dad33a7700cc76a545c5fbdb69cb",
+    "shop": "すき家",
+    "name": "【きょうから】すき家から本格欧風カレーが登場 柔らか牛肉×スパイスが効いた「ビーフカレー」発売 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nVlBhYXllY2MyZG1BLU1RRFJBTHk5ZjlwNmdpUUJOVDF0ZUUtc083VEpXaF",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nVlBhYXllY2MyZG1BLU1RRFJBTHk5ZjlwNmdpUUJOVDF0ZUUtc083VEpXaFYyak9fZVQ4c1NPUXlSMjNLcEV3NjdERzlBNHNNbmc?oc=5",
+    "category": "don",
+    "published": "Mon, 09 Nov 2026 15:27:58 GMT",
+    "fetched_at": "2026-11-15T02:13:02.435392",
+    "menu_name": "ビーフカレー",
+    "one_liner": "柔らか牛肉とスパイスが効いた本格欧風カレー"
+  },
+  {
+    "id": "7779a89b3d7f45be55a67a2f4d31b668",
+    "shop": "松屋",
+    "name": "【松のや】ロースかつ定食、日本ハム「麦小町」【国産豚総選挙・期間限定メニュー】 - https://foodfighter.jp/",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE94Z0VycWtvWkhqVGotdVpUdERpZm9xWTBDNmJOSDZiT01EQ005TXQ0QWFPbX",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94Z0VycWtvWkhqVGotdVpUdERpZm9xWTBDNmJOSDZiT01EQ005TXQ0QWFPbXZQOUJmQWtkV3BmZnM1bXBWekpPeWhSQlh5a0M3Znc?oc=5",
+    "category": "don",
+    "published": "Thu, 12 Nov 2026 07:38:22 GMT",
+    "fetched_at": "2026-11-15T02:13:02.837682",
+    "menu_name": "ロースかつ定食（麦小町）",
+    "one_liner": "日本ハムのブランド豚を使用したジューシーな一品"
+  },
+  {
+    "id": "b685eb41f3a54e1de77b81dde3ddd56d",
+    "shop": "ジョナサン",
+    "name": "『ジョジョの奇妙な冒険』描き下ろしアクスタ＆箔押しクリアカードがファミマに登場！歴代ジョジョとジャイロの全8人、11月13日より順次発売 - にじめん",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHTDc4WHFCSEZpbjVKN19RWmpzMWhOVWRMalJWeE5idDFQSTF3VVZ5c2NlNz",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHTDc4WHFCSEZpbjVKN19RWmpzMWhOVWRMalJWeE5idDFQSTF3VVZ5c2NlNzEyZ2U3UjMzQmppU3ZURVRqM3hGSmNKM0s5Y29FOGx6cFI2Yw?oc=5",
+    "category": "family",
+    "published": "Thu, 12 Nov 2026 22:59:00 GMT",
+    "fetched_at": "2026-11-15T02:13:12.888360",
+    "menu_name": "『ジョジョの奇妙な冒険』描き下ろしアクスタ＆箔押しクリアカード",
+    "one_liner": "歴代ジョジョが勢揃いした限定グッズ"
   }
 ]
