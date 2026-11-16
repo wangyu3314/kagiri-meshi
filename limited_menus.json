@@ -1,125 +1,5 @@
 [
   {
-    "id": "96e517a7397fe1af3c91846f1199b786",
-    "shop": "くら寿司",
-    "name": "くら寿司で田辺の産品 16～25日の期間限定販売、和歌山 - AGARA 紀伊民報",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWHdzcmFWWVV0NS15cnlmdXN2S2Ftbm5jMjdJUzNra0VzX3ZCb0R2V29IWV",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWHdzcmFWWVV0NS15cnlmdXN2S2Ftbm5jMjdJUzNra0VzX3ZCb0R2V29IWV9HZGJ5S3l2Y3RuZmRRb3VDdVFNY1hkbHVQZVE?oc=5",
-    "category": "sushi",
-    "published": "Thu, 15 Oct 2026 05:30:00 GMT",
-    "fetched_at": "2026-10-16T00:51:02.341173",
-    "menu_name": "田辺の産品",
-    "one_liner": "和歌山・田辺の魅力を味わう限定メニュー"
-  },
-  {
-    "id": "a1c576f5b398b59cd8e6405c31353a32",
-    "shop": "くら寿司",
-    "name": "【3COINS新発売】おうちで“ビッくらポン”もできる！「くら寿司×スリコ」全9アイテム出るよ♪（写真 1/5） - ウレぴあ総研",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbDFheWRpSFRSVHkwbG5YWmI0RG5xM3F2Wi1GSGtlNUNlZUJiRlp1UVVqT0",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbDFheWRpSFRSVHkwbG5YWmI0RG5xM3F2Wi1GSGtlNUNlZUJiRlp1UVVqT0ozeHBFMXBGSjgyWUJfWmNPWE45OHlxaEoxNGhjTDdZU3lBNC1tRF8td0N6WGluTEVleU1lRDdrT0p3TTdWODBNVThLZnpJaGk1SVFDZWotanRfc2UyM2NnUndWRmthbzBrRVFYYWxHX3dEQU03Z2NFcGlvOGtYbTRxTWcwU0h3RmRvb0FKdWp1YUNwQWI1dGlOMXpiQTNfNkpzQ0FnSWc?oc=5",
-    "category": "sushi",
-    "published": "Thu, 15 Oct 2026 12:10:00 GMT",
-    "fetched_at": "2026-10-16T00:51:02.872750",
-    "menu_name": "くら寿司×スリコ 全9アイテム",
-    "one_liner": "おうちでビッくらポンが楽しめるコラボ雑貨"
-  },
-  {
-    "id": "aa5fc6ea786e684af5dd1a3b61d206c2",
-    "shop": "バーガーキング",
-    "name": "学生ハンバーグに期間限定で新ラインアップが登場!香味野菜おろし･ハンバーガー風･マルゲリータ風の全3種【ステーキのあさくま】 - 食品産業新聞社ニュースWEB",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE42eThENjRTN2Q2NVlSal94LXI4THVFVXBYRHFHN2RLOEpjc2J6MVRkUWFfOE",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42eThENjRTN2Q2NVlSal94LXI4THVFVXBYRHFHN2RLOEpjc2J6MVRkUWFfOElncGVJQW42QS00czVqZXZlUmM5M0NIS0ZNZERLR0NxMQ?oc=5",
-    "category": "burger",
-    "published": "Thu, 15 Oct 2026 07:07:08 GMT",
-    "fetched_at": "2026-10-16T00:51:10.097558",
-    "menu_name": "学生ハンバーグ",
-    "one_liner": "3種の味を楽しめる新メニュー登場"
-  },
-  {
-    "id": "c493da64ee04da29fd2aa8a9117e1c2a",
-    "shop": "バーガーキング",
-    "name": "バーガーキング、直火焼きの100%ビーフパティをそのまま味わえる「オン ザ ビーフ」を10月16日から復活発売 - GAME Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CNXVFWElTSW42UmNzdHJjOEhSVDFvV1o0WFlNMFluOGo2a25KcFZzRFdVZ2",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CNXVFWElTSW42UmNzdHJjOEhSVDFvV1o0WFlNMFluOGo2a25KcFZzRFdVZ2xnRmc5Y2laWW9EQjNhdUd5YUNJYjBHNmtUYXhMSURTNzBxUThMUWhRVWstX2VhS3NTQQ?oc=5",
-    "category": "burger",
-    "published": "Thu, 15 Oct 2026 02:48:21 GMT",
-    "fetched_at": "2026-10-16T00:51:11.147543",
-    "menu_name": "オン ザ ビーフ",
-    "one_liner": "直火焼き100%ビーフを堪能"
-  },
-  {
-    "id": "9cd6476e462d825cb1bf3460aae12b97",
-    "shop": "フレッシュネスバーガー",
-    "name": "国産すもも『秋姫』を使ったクラフトレモネードが秋限定で登場【フレッシュネスバーガー】 - 食品産業新聞社ニュースWEB",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJdndldzJNa1c4VWxpQzBlUGZjWTNEa0dhMjBuMHA5NGs3dGYyaXpuaVNNUG",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJdndldzJNa1c4VWxpQzBlUGZjWTNEa0dhMjBuMHA5NGs3dGYyaXpuaVNNUG1uV3VtaGx6RHNWVjZnRjB4RDFhY3dRTWNBRHlVMzQ4Wg?oc=5",
-    "category": "burger",
-    "published": "Thu, 15 Oct 2026 03:16:46 GMT",
-    "fetched_at": "2026-10-16T00:51:11.683844",
-    "menu_name": "国産すもも『秋姫』を使ったクラフトレモネード",
-    "one_liner": "国産すもも秋姫の贅沢な味わい"
-  },
-  {
-    "id": "9b6f8595466f9af63a87d817bd4483d8",
-    "shop": "スターバックス",
-    "name": "スタバ フラペチーノが猫に変身！？「ねこ耳カスタマイズ」が期間限定で登場！自分だけの“推し猫”を作れる一杯はハロウィンにぴったり - めざましmedia",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtVDVfbF84ZnRCckJULUF0NG14eGpnczN0d0ZIb0s4aE15NmZoNjYwN3pCVW",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtVDVfbF84ZnRCckJULUF0NG14eGpnczN0d0ZIb0s4aE15NmZoNjYwN3pCVWFmY1BMeUM5ckZIMWkxdVFiTXdUSks1dGNZLXc0dmhF?oc=5",
-    "category": "cafe",
-    "published": "Thu, 15 Oct 2026 03:26:00 GMT",
-    "fetched_at": "2026-10-16T00:51:16.187963",
-    "menu_name": "ねこ耳カスタマイズ",
-    "one_liner": "自分だけの推し猫が作れる一杯"
-  },
-  {
-    "id": "a67f23bcbdcd1ff1cd56a054084aa559",
-    "shop": "すき家",
-    "name": "すき家、期間限定フレーバー「Sukiシェイク アサイー・バナナ」登場 - マイナビニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fb2Z6QTdDcDI5RmVlaXFUNHA0akNFVkF0UTZXLTM1el9sMUd6Y0dib0J0em",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fb2Z6QTdDcDI5RmVlaXFUNHA0akNFVkF0UTZXLTM1el9sMUd6Y0dib0J0emk5S1dPUHVmZW41OEVXSUlnX3lOYlBvcWJuNjJOejRWUmFOLVF2MEVR?oc=5",
-    "category": "don",
-    "published": "Thu, 15 Oct 2026 10:01:53 GMT",
-    "fetched_at": "2026-10-16T00:51:25.311390",
-    "menu_name": "Sukiシェイク アサイー・バナナ",
-    "one_liner": "濃厚バナナと爽やかアサイーの贅沢シェイク"
-  },
-  {
-    "id": "ab0a070ea114c750a3fefa2d92dbc5b0",
-    "shop": "松屋",
-    "name": "期間限定≫冬の星々が紡ぐ、幻想的な装い。冬季限定パッケージ『ウインターエディション』が【MILLE-FEUILLE - ニコニコニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZmI3ZEUwdFZoRzhwcjBBb3daNVlSc0VpbWc3N09ud25JR0R0Z3lrMXZCST",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZmI3ZEUwdFZoRzhwcjBBb3daNVlSc0VpbWc3N09ud25JR0R0Z3lrMXZCSTFjMzNQYjJLX0M1LVgweFYtWUpLQ0VDTk9vdEhfZmVZamNQZmRaMGhIT3VvbWN0cll1R05YNksxeFBPNldOWF80NHNNa3Z0WQ?oc=5",
-    "category": "don",
-    "published": "Thu, 15 Oct 2026 13:21:22 GMT",
-    "fetched_at": "2026-10-16T00:51:26.799165",
-    "menu_name": "ウインターエディション",
-    "one_liner": "冬の星々をイメージした幻想的な限定パッケージ"
-  },
-  {
-    "id": "c5bcfd5b4d9f03010b6497fc2598faae",
-    "shop": "天丼てんや",
-    "name": "てんや、ポテサラ天が主役の「鮮やか ベジポテ天丼」を限定発売！ - RBB TODAY",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QY05xRFJGTmU2QVYyb2JvNlRJU2MyclBwTE5QX0xvSjBmS0c2ZUVSbnZJZH",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QY05xRFJGTmU2QVYyb2JvNlRJU2MyclBwTE5QX0xvSjBmS0c2ZUVSbnZJZHBEdVU0WF9CYWZZbzVjVnJuNE90Q0UtanBxd3F5YUJSbDg3VWlUcXU5Yzh6Zlc4V0hHUQ?oc=5",
-    "category": "don",
-    "published": "Thu, 15 Oct 2026 07:30:53 GMT",
-    "fetched_at": "2026-10-16T00:51:33.425322",
-    "menu_name": "鮮やか ベジポテ天丼",
-    "one_liner": "ポテサラ天が主役の彩り豊かな天丼"
-  },
-  {
-    "id": "d977eb3124ef496267cd80a015bd5b27",
-    "shop": "スシロー",
-    "name": "【スシロー】「頑者」監修「魚粉薫る 魚介豚骨ラーメン」 期間限定で販売 (オトナンサー) - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaTJHN1Z2RnE1VEl6RjdNTFFLOUpyaDAtWEZDeDk1ZGRrWDVDZzhFaVJ4Zm",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaTJHN1Z2RnE1VEl6RjdNTFFLOUpyaDAtWEZDeDk1ZGRrWDVDZzhFaVJ4Zm81Zi10WEtXN1h1TEJ1MEpoQldMS3hVWHFKb1NNVlNkQXpuVHgteEFFVmkyU3JLbDNlT1RrcW9nS0I2a2JMMjNBYzFtaktGMUE3NGZXaGE5V055SFIwcW5IX2xR?oc=5",
-    "category": "sushi",
-    "published": "Thu, 15 Oct 2026 03:45:00 GMT",
-    "fetched_at": "2026-10-17T00:51:04.577224",
-    "menu_name": "魚粉薫る 魚介豚骨ラーメン",
-    "one_liner": "名店頑者監修の濃厚な魚介豚骨"
-  },
-  {
     "id": "68ffa2224844c520d32d2ec00faa1fe9",
     "shop": "かっぱ寿司",
     "name": "かっぱ寿司、「〆こはだ」「〆こはだ炙り」を１０月２２日から期間限定販売 - https://kabu-ir.com/",
@@ -130,18 +10,6 @@
     "fetched_at": "2026-10-17T00:51:09.386857",
     "menu_name": "〆こはだ、〆こはだ炙り",
     "one_liner": "旬の旨みを堪能できる期間限定の逸品"
-  },
-  {
-    "id": "da8dde64f21ddb687dd27ebe969bd940",
-    "shop": "マクドナルド",
-    "name": "「え、バルカの伝統料理？」 阿部寛さん起用の「マクドナルド新商品」にVIVANTファン以外も熱狂 - au Webポータル",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbU8yRWtocWJxaS12akJWbkJJalRvdW8zcjFsUXZpZWsxbndBTXFtVUgwTF",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbU8yRWtocWJxaS12akJWbkJJalRvdW8zcjFsUXZpZWsxbndBTXFtVUgwTFlWLTBUdnMybUh1bWdoMUlVMkNmT3cxZnR4TlhTN2pHNHdkWjNhbXpyc2dheXJBbmRoZEpneFBmOGNB?oc=5",
-    "category": "burger",
-    "published": "Fri, 16 Oct 2026 02:14:00 GMT",
-    "fetched_at": "2026-10-17T00:51:13.278225",
-    "menu_name": "バルカの伝統料理",
-    "one_liner": "ドラマの世界観を再現した注目の新メニュー"
   },
   {
     "id": "90646b4b53437152a147302fb9a649c8",
@@ -166,18 +34,6 @@
     "fetched_at": "2026-10-18T00:28:09.822263",
     "menu_name": "神の海老バーガー",
     "one_liner": "うま味1.5倍の贅沢な海老バーガー"
-  },
-  {
-    "id": "d5cba49079b98d0f58847e946f9aca00",
-    "shop": "タリーズコーヒー",
-    "name": "【2026年10月発売】秋限定ドリンク5選！ゴンチャ・タリーズ・ゴディバなど - えん食べ [グルメニュース]",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQm1TbXlpMHhYZmNWNDVFbUxscVlpZEdwNWJEc1ZyU2FYUkxEV284Q2sxMj",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQm1TbXlpMHhYZmNWNDVFbUxscVlpZEdwNWJEc1ZyU2FYUkxEV284Q2sxMjZPY0NwUzFzYnQ4T0RrOGVrOWJ2UzdqM3pBZ3ZQR041StIBWkFVX3lxTE1RbHpyV2REZFh1UzNFX0hRQWtGSEFOVXE3R2ljX2ZHQURZX2hoazRGS2xmdFppNXJpVzZDZVExWHRlUmYyazFHRHBtamhMdW5RaXl4TnJla2ZkZw?oc=5",
-    "category": "cafe",
-    "published": "Thu, 15 Oct 2026 08:30:00 GMT",
-    "fetched_at": "2026-10-18T00:28:18.657008",
-    "menu_name": "秋限定ドリンク5選",
-    "one_liner": "人気チェーンの秋限定ドリンク"
   },
   {
     "id": "a9169e20c077f7273f23c75cfea377ca",
@@ -490,18 +346,6 @@
     "fetched_at": "2026-10-22T01:01:34.977411",
     "menu_name": "贅沢ビスクのえびグラタンバーガー",
     "one_liner": "とろ～り熱々なえびグラタンを堪能"
-  },
-  {
-    "id": "da3914942ce7980deaec19f56bbafc3d",
-    "shop": "松屋",
-    "name": "食欲の秋、お得な盛合せ定食で大満足ボリューム！「倍量フェア」開催｜松のや - 松屋",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1jUDVCS2otODhOYnVhSXNVNjFlTldDNUNCc2szcGlWNWVGdHVvbFpxTXNrYm",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jUDVCS2otODhOYnVhSXNVNjFlTldDNUNCc2szcGlWNWVGdHVvbFpxTXNrYmdEOGpTR1RzS05meXc5NWsyOEVaLUZUWHNvcUFTSUNyNHdnZXp3a3NYVkFQdmY0YXBoT1YzeGJCWWxkaDF3ejVVc2xYbC1B?oc=5",
-    "category": "don",
-    "published": "Fri, 16 Oct 2026 02:02:44 GMT",
-    "fetched_at": "2026-10-22T01:01:50.410651",
-    "menu_name": "お得な盛合せ定食",
-    "one_liner": "秋の大満足ボリューム倍量フェア"
   },
   {
     "id": "a6a2c1576d803f265199178219dc073d",
@@ -2172,18 +2016,6 @@
     "one_liner": "コメダの新レギュラーメニュー"
   },
   {
-    "id": "17a1678ca7474d08a2e019ef762dcd9f",
-    "shop": "コメダ珈琲店",
-    "name": "「コメダ珈琲」の新メニュー、大阪の名店とまさかのコラボ……「パンに炭水化物を挟む、そうきたか！」「関西人には違和感ないハズ」 - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkprblpZWVRVYzdPOEN6VnZFU2NreVZRbVk1NkJsaW16X3lodkZfbTBTc0",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkprblpZWVRVYzdPOEN6VnZFU2NreVZRbVk1NkJsaW16X3lodkZfbTBTc0R2VUYwVVRoSlFWQTg2RnZGZkhhbHJ5UEhsNy1sYTNpdl9kcWQ3S1BpcERSdHp6LV9KZzk5TC1maDlzX0U5RE40MkRvVTBIaE5oRGVaWHhtMmhSNDZ0MWdmZlpn?oc=5",
-    "category": "cafe",
-    "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-07T02:25:42.415978",
-    "menu_name": "コメダ珈琲の新メニュー",
-    "one_liner": "大阪の名店とコラボした炭水化物サンド"
-  },
-  {
     "id": "af4577b6ad21173b308f3fe5b04e1bfe",
     "shop": "ガスト",
     "name": "「薬屋のひとりごと」ゲーム『薬屋のひとりごと ～偽りの皇弟～』来年3月18日発売へ。コエテクのガスト手がける“猫猫のアトリエ” - AUTOMATON",
@@ -3094,5 +2926,29 @@
     "fetched_at": "2026-11-15T02:13:12.888360",
     "menu_name": "『ジョジョの奇妙な冒険』描き下ろしアクスタ＆箔押しクリアカード",
     "one_liner": "歴代ジョジョが勢揃いした限定グッズ"
+  },
+  {
+    "id": "9969c2483150ac0f60a6960b136fe0f7",
+    "shop": "天丼てんや",
+    "name": "【本日発売】てんやに「ポテサラ天」が登場！ ポテトサラダを揚げちゃった!? - 週刊アスキー",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpVy1fdEpLUWV5ajNMaXlsdjVpOV9YRXJjWWdYMEs2OUJ2MHlZT0djbGg0RG",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpVy1fdEpLUWV5ajNMaXlsdjVpOV9YRXJjWWdYMEs2OUJ2MHlZT0djbGg0RGNDeXp3UnRaLXFVQnBNTFN3ZGRENEJDbnZKczhyRWd0QU5Zc1FsMWdZakE?oc=5",
+    "category": "don",
+    "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-16T02:26:28.617170",
+    "menu_name": "ポテサラ天",
+    "one_liner": "ポテトサラダを揚げた新感覚の天ぷら"
+  },
+  {
+    "id": "a14d6bc391434a7c8661885a214e70de",
+    "shop": "丸亀製麵",
+    "name": "讃岐うどんの名店が丸亀製麺に期間限定で集結！『讃岐うどん職人祭2026』開催決定！2026年5月25日（月）～27日（水）丸亀製麺 神田小川町店に6つの名店が登場 - 山陽新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBN180ajVPUG1OVnN6bUlkVU5yUm01NG1TZmlWc3htUzRrT2ljOXQ1NHI4M0",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBN180ajVPUG1OVnN6bUlkVU5yUm01NG1TZmlWc3htUzRrT2ljOXQ1NHI4M0JIRW00TDFOdUlUTWw0YmdfRVRiZXRMY2M5ZkhRZ0E?oc=5",
+    "category": "men",
+    "published": "Sun, 15 Nov 2026 08:04:51 GMT",
+    "fetched_at": "2026-11-16T02:26:36.894696",
+    "menu_name": "讃岐うどん職人祭2026",
+    "one_liner": "讃岐の名店が丸亀製麺に集結"
   }
 ]
