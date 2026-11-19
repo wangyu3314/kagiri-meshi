@@ -1,29 +1,5 @@
 [
   {
-    "id": "9876bb1af86774b736f4652e22a704bc",
-    "shop": "ロイヤルホスト",
-    "name": "ロイヤルホストが贈る秋のデザートを2026年9月16日（水）より販売開始『SWEET POTATO & MARRON SELECTION～あなたはどちらがお好き？～』 - 朝日新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Ujk0UjdONWhHTU9FUzZReWYzeThRV3ZINkFGTkVBTUVjZUh5MlBzVEp3RT",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Ujk0UjdONWhHTU9FUzZReWYzeThRV3ZINkFGTkVBTUVjZUh5MlBzVEp3RTZBRDVYTm5MNlNmaWJqZVRQN2dqU1A2eGtMa1VWZkFiRnpzUmxsYm8?oc=5",
-    "category": "family",
-    "published": "Sun, 18 Oct 2026 07:41:54 GMT",
-    "fetched_at": "2026-10-19T00:34:22.658395",
-    "menu_name": "SWEET POTATO & MARRON SELECTION～あなたはどちらがお好き？～",
-    "one_liner": "秋の味覚、芋と栗の贅沢デザート。"
-  },
-  {
-    "id": "55bb7873580b83a23704bb895784ac72",
-    "shop": "かっぱ寿司",
-    "name": "大とろやまぐろ食べ比べがお得に! 4日間限定セット4種を発売【かっぱ寿司】 - au Webポータル",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9WdzVlR3VDWDgyS0c5TDJpX1ZybnBkSjdjR1NPcmViVkZlR1ZlZGdFVlZvNF",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WdzVlR3VDWDgyS0c5TDJpX1ZybnBkSjdjR1NPcmViVkZlR1ZlZGdFVlZvNFgwaHFfdXVsQ3VVNEpaTktkV0RqTHlhS3FIMlhZYmZZQ1pFWXdJRHQxUVl2Nk9lYmtUeE05S1A1V2Vn?oc=5",
-    "category": "sushi",
-    "published": "Mon, 19 Oct 2026 03:19:00 GMT",
-    "fetched_at": "2026-10-20T01:19:29.350984",
-    "menu_name": "大とろやまぐろ食べ比べ",
-    "one_liner": "大とろとまぐろをお得に食べ比べ"
-  },
-  {
     "id": "2831436cb8d6104bcc09332aa3b7150d",
     "shop": "バーガーキング",
     "name": "「コスパランチ」で規模を拡大したバーガーフランチャイズが今回はメニュー開発に力を入れている。 主要企業が相次いで研究開発(R&D)拠点を開き、新メニューを発売している。 安価なメニューに引き込.. - 매일경제",
@@ -142,18 +118,6 @@
     "fetched_at": "2026-10-21T01:04:46.339714",
     "menu_name": "いももち串、厚切りハムカツなど惣菜4品",
     "one_liner": "かつやのタレが染みた絶品惣菜"
-  },
-  {
-    "id": "2076bc544b849ef68b219e89ecac956f",
-    "shop": "ジョナサン",
-    "name": "ジョナサン×八天堂コラボスイーツ、高さ28cmのみかんパフェやブリュレパンケーキが登場 - Excite エキサイト",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NbGVXQ282Q2pmTjFaSEt0YjRjMGZHcEE4WUY1czhXNmFDQXZFMzhSLVpucV",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NbGVXQ282Q2pmTjFaSEt0YjRjMGZHcEE4WUY1czhXNmFDQXZFMzhSLVpucVhPUnFFNmFmV3FfUllyOWlYRU5qQ1JvMG15dnM2QS1BQ2lHeVd1M2NTTFE?oc=5",
-    "category": "family",
-    "published": "Mon, 19 Oct 2026 03:39:00 GMT",
-    "fetched_at": "2026-10-21T01:04:58.105435",
-    "menu_name": "八天堂コラボスイーツ",
-    "one_liner": "高さ28cmのみかんパフェとパンケーキ"
   },
   {
     "id": "22908b3ad2ce49319c827bd4dfd5308f",
@@ -490,18 +454,6 @@
     "fetched_at": "2026-10-26T00:47:17.592059",
     "menu_name": "“月見”バーガー・サンド",
     "one_liner": "秋の風物詩、月見シリーズが登場"
-  },
-  {
-    "id": "5b19c59da3916480f7f7815c2f1a8511",
-    "shop": "ミスタードーナツ",
-    "name": "「ポケモン」とミスドのコラボ再びか!? 公式Xで新商品の一部がチラ見せ - GAME Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tLU1LNnBQSTl3dGQySWsyVHNyYmN1RXJtd05YelhJZE8tYlU3bzBEWTdUVF",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tLU1LNnBQSTl3dGQySWsyVHNyYmN1RXJtd05YelhJZE8tYlU3bzBEWTdUVFRpSGtsTTBPaW4tb2NlX1M4a0Ywc1BOSlJYWEg2aTJiY3JpcEZHelZVZjdVZGV2bVZOQQ?oc=5",
-    "category": "cafe",
-    "published": "Mon, 19 Oct 2026 01:39:19 GMT",
-    "fetched_at": "2026-10-26T00:47:25.117649",
-    "menu_name": "ポケモンコラボの新商品",
-    "one_liner": "ポケモンたちがドーナツになって登場"
   },
   {
     "id": "24209250ec4c80da2480d583b651194f",
@@ -3022,5 +2974,113 @@
     "fetched_at": "2026-11-18T03:55:53.069228",
     "menu_name": "黒の肉盛り丼",
     "one_liner": "3種の肉を豪快に味わう黒の丼"
+  },
+  {
+    "id": "a59003f979c306e4ac31d284dd88d6e5",
+    "shop": "はま寿司",
+    "name": "かっぱ寿司「ししゃもっこ」たっぷり盛った新商品4品発売、いか・えび・サラダ軍艦などと組み合わせ - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmZkdxRnZYVERsZEVmV1h1ejBfTkpsYWtDVkZLbUp2UDFxZDBKN2VPaWxHWm",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmZkdxRnZYVERsZEVmV1h1ejBfTkpsYWtDVkZLbUp2UDFxZDBKN2VPaWxHWmNXazQ3WWhfZDhVdzQzME5NajZaelFyUEZTTW1JYXRpQg?oc=5",
+    "category": "sushi",
+    "published": "Wed, 18 Nov 2026 04:39:52 GMT",
+    "fetched_at": "2026-11-19T03:53:20.673124",
+    "menu_name": "「ししゃもっこ」たっぷり盛った新商品4品",
+    "one_liner": "ししゃもっこを贅沢に盛り付けた新作4品"
+  },
+  {
+    "id": "d0b5475ddae041852ba4db19743f378b",
+    "shop": "マクドナルド",
+    "name": "冬の風物詩、グラコロ®の季節がやってきた！今年はミルク入りふわふわバンズにリニューアル コク旨ボロネーゼグラコロ・シャカシャカポテト® ビーフガーリック醤油味が新登場！11月25日から期間限定販売：紀伊民報AGARA｜和歌山県のニュースサイト - AGARA 紀伊民報",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fUi1tZW5Vb3JFbkRIa0ZQY18yaW9jaEh0SXZQWDdiSmJRdkpmcndYWlhxWj",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fUi1tZW5Vb3JFbkRIa0ZQY18yaW9jaEh0SXZQWDdiSmJRdkpmcndYWlhxWjZDaDUyaktKV3NLU0VYNHFvYjlfbEVXcURxdms?oc=5",
+    "category": "burger",
+    "published": "Wed, 18 Nov 2026 19:00:00 GMT",
+    "fetched_at": "2026-11-19T03:53:24.923263",
+    "menu_name": "コク旨ボロネーゼグラコロ・シャカシャカポテト® ビーフガーリック醤油味",
+    "one_liner": "ミルク入りバンズで進化した冬の定番グラコロ"
+  },
+  {
+    "id": "87510e69a2b3258d1c3cbc62735d653d",
+    "shop": "スターバックス",
+    "name": "いつものチルドカップがクリスマス仕様に！ スターバックスの期間限定ラテを華やかにアレンジ - マイナビウーマン",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZlBNR2JHN19GREJ2X0pCX2VRZ2lmdE11YmV5S3I3djZ3YXVZMXQ1V3duUn",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZlBNR2JHN19GREJ2X0pCX2VRZ2lmdE11YmV5S3I3djZ3YXVZMXQ1V3duUnhYMlpEbDBNa0c2OHRMUUc3b2ZVRi1pb0JHU3oyaXA3ZmJ1dGlQVFBBT2c?oc=5",
+    "category": "cafe",
+    "published": "Fri, 13 Nov 2026 02:00:16 GMT",
+    "fetched_at": "2026-11-19T03:53:32.710418",
+    "menu_name": "期間限定ラテ",
+    "one_liner": "クリスマス仕様の華やかなラテ"
+  },
+  {
+    "id": "8f5a4adba709f56c0d0a2bfb303ab195",
+    "shop": "コメダ珈琲店",
+    "name": "コメダ珈琲店「おぐらあんフェア」開催 おぐらノワールやバターオーレなど全6品 - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pVmozRlhUclAwR1lXWTVibmxybHpiRGRrcjJpdFpXdzhmTVRFWFpvNDNRMF",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pVmozRlhUclAwR1lXWTVibmxybHpiRGRrcjJpdFpXdzhmTVRFWFpvNDNRMFB0c3paU2p3Nm5ERE8wczVOYjZ0elkyay1ZWEp2MFRESg?oc=5",
+    "category": "cafe",
+    "published": "Wed, 18 Nov 2026 09:00:24 GMT",
+    "fetched_at": "2026-11-19T03:53:38.815302",
+    "menu_name": "おぐらあんフェア",
+    "one_liner": "小倉あんの魅力を堪能できる全6品"
+  },
+  {
+    "id": "271e52dfb00f7df96c5467f88dea1df8",
+    "shop": "コメダ珈琲店",
+    "name": "「待ってました」「今年も食べます!!」コメダ珈琲店、冬の定番に新作登場で歓喜の声！ 「晩御飯が決まった」 - au Webポータル",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1EcXRHQ2MzMlpvZjhEX1QxR3dqQWpFVGpVM3B4bVN3UUMyTVIxeUc2a2U0Mn",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EcXRHQ2MzMlpvZjhEX1QxR3dqQWpFVGpVM3B4bVN3UUMyTVIxeUc2a2U0MndWSmFlLWx6cWIzNkctTE5jYlliQmgxa2NxY254M2RsdGZUNllHbHNxTnBQenhnSXhkZlIxVlNHRFRn?oc=5",
+    "category": "cafe",
+    "published": "Wed, 18 Nov 2026 10:50:00 GMT",
+    "fetched_at": "2026-11-19T03:53:39.628476",
+    "menu_name": "冬の定番",
+    "one_liner": "毎年人気の冬の定番に新作が登場"
+  },
+  {
+    "id": "4199fb6d7037be0df4b367a7c4a9b235",
+    "shop": "松屋",
+    "name": "松屋、初登場「オニオングラタンチーズハンバーグ」発売 熱々の鉄皿で提供 - 食品産業新聞社ニュースWEB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Odzc3UC1qbWNSLUJUZU9mMEdpWTNJY1pjT21zcWhWOERBbkp3SC1Na3E2Mm",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Odzc3UC1qbWNSLUJUZU9mMEdpWTNJY1pjT21zcWhWOERBbkp3SC1Na3E2Mm8tNXo5bUdyRlhJMU92TVNRdm5mV2tqTnJQZnVENUZjcA?oc=5",
+    "category": "don",
+    "published": "Thu, 19 Nov 2026 01:42:14 GMT",
+    "fetched_at": "2026-11-19T03:53:41.827039",
+    "menu_name": "オニオングラタンチーズハンバーグ",
+    "one_liner": "熱々鉄皿で楽しむ濃厚チーズハンバーグ"
+  },
+  {
+    "id": "cc47a1250530974b1c90569280ad2fbd",
+    "shop": "ジョナサン",
+    "name": "ジョナサン＆むさしの森珈琲が八天堂と初コラボ!ブリュレパンケーキや旬の早生みかんパフェが登場 贅沢なカスタードくりーむと旬の味覚が夢の共演!（めざましmedia） - Yahoo!ニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE02WUdMZFp2RE0ycUZYQUpmMXJvX2ZZVFNlc1VSUnpnOVk5VTFSVWFnTHFXcj",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WUdMZFp2RE0ycUZYQUpmMXJvX2ZZVFNlc1VSUnpnOVk5VTFSVWFnTHFXcjkzUTViUHNoSDNzZUx3aVFxM2NRcHVZVjA2QVRiNEtIT2xqbm5tRnI4RkwzdUxsWU1XaGxjZEVVeV9ScTNDMGxzbVJVWkp5Z05WcTA?oc=5",
+    "category": "family",
+    "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-19T03:53:54.300801",
+    "menu_name": "ブリュレパンケーキや旬の早生みかんパフェ",
+    "one_liner": "八天堂コラボの贅沢カスタードスイーツ"
+  },
+  {
+    "id": "3034374487b6ab509445b5533cdd8db1",
+    "shop": "バーミヤン",
+    "name": "バーミヤン40周年ムック登場！ 立体桃ロゴポーチ＆エコバッグ付 - 電撃オンライン",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wLVJNdlVxVWFOTFFYVm1FOGdaem1idERMWVBQQXV1T2Z2bGlKaDJ6MGVfYU",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wLVJNdlVxVWFOTFFYVm1FOGdaem1idERMWVBQQXV1T2Z2bGlKaDJ6MGVfYU9ZYm5lMGNfV0dUV0MxOFBtY2s2ZXFJeDF3WUVXak04aDNhVmxvUQ?oc=5",
+    "category": "family",
+    "published": "Wed, 18 Nov 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-19T03:53:56.253555",
+    "menu_name": "バーミヤン40周年ムック",
+    "one_liner": "限定ポーチとエコバッグ付きの記念ムック"
+  },
+  {
+    "id": "c66f138b13f003ec4c5177fdf0bdd5b1",
+    "shop": "はなまるうどん",
+    "name": "吉野家ＨＤ、はなまるうどんで鴨だし２商品を全国発売、１０月２２日から - https://kabu-ir.com/",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BU1BtY0xfZ2dxQnEtcndPX2NhcnQyVDBNbjEzVEhYa1UtbHUzWnEtdjBudF",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BU1BtY0xfZ2dxQnEtcndPX2NhcnQyVDBNbjEzVEhYa1UtbHUzWnEtdjBudFBBdnVGYi1OUTZneGhIdTB1VHFQM3M2WTVTTm1US3JiMQ?oc=5",
+    "category": "men",
+    "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-19T03:53:59.068485",
+    "menu_name": "鴨だし２商品",
+    "one_liner": "鴨の旨味が広がる贅沢なうどん"
   }
 ]
