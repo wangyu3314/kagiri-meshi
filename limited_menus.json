@@ -1,89 +1,5 @@
 [
   {
-    "id": "1ea70625ffe87c8dfb719c01f2522cff",
-    "shop": "スターバックス",
-    "name": "アルデ新大阪＞＞スターバックスコーヒーの「COFFEE fun PARTY」2日間限定で開催！！「アルデひろば」期間限定ショップのお知らせ - まんたんウェブ",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDNNdEZkZkRGNGZiRFhsOHp0LVlxZ295d3dXU3M4THB4ZHVWQmNWOFVZYT",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDNNdEZkZkRGNGZiRFhsOHp0LVlxZ295d3dXU3M4THB4ZHVWQmNWOFVZYTVkSk9DTXAtNDc1NnE4MEhNYTUydzNrVVVlLUtkanlUeTZldF9GYzVqbEF5aldrSlJOY1V6dXhmQUdtZ2Rfd2htVUMtaU5qdVFhOEtVZTAtVEo2YV9z?oc=5",
-    "category": "cafe",
-    "published": "Fri, 23 Oct 2026 16:57:04 GMT",
-    "fetched_at": "2026-10-24T01:12:23.588026",
-    "menu_name": "COFFEE fun PARTY",
-    "one_liner": "2日間限定の特別コーヒー体験"
-  },
-  {
-    "id": "1f1cef61186f3cc4074e5e80fb8b27b4",
-    "shop": "ジョナサン",
-    "name": "【JINS】「ジョジョ」コラボ ジョナサン、承太郎、仗助、徐倫らモチーフのメガネ8種が登場ッ 石仮面、エイジャの赤石もパーツに - オトナンサー",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BNW1XOGFnb2FZbmpjUnBmYUVqbzdGTVBWMnhUc2YwRUFWcEJLUlZfdmZQOX",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BNW1XOGFnb2FZbmpjUnBmYUVqbzdGTVBWMnhUc2YwRUFWcEJLUlZfdmZQOXRIUGpYTk9xZWxIUjhrQm1MbXdXQl9n?oc=5",
-    "category": "family",
-    "published": "Fri, 23 Oct 2026 03:33:22 GMT",
-    "fetched_at": "2026-10-24T01:12:55.969326",
-    "menu_name": "「ジョジョ」コラボメガネ8種",
-    "one_liner": "ジョジョの世界観を再現したメガネ"
-  },
-  {
-    "id": "582a76d344055cb393cb3b99f60734ea",
-    "shop": "丸亀製麵",
-    "name": "丸亀製麺、期間限定「豚つけ汁うどん」9・2登場 3玉まで“同一価格”、濃厚魚介か旨辛か…選べる2種 - 山陽新聞デジタル｜さんデジ",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tMVR0dTBpVzV3RzJpUm5tVVotTVR1QW1MVTUzNExQMGFZNnVoMVFvZWlyRT",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tMVR0dTBpVzV3RzJpUm5tVVotTVR1QW1MVTUzNExQMGFZNnVoMVFvZWlyRTFZVjlBQjBOazdNclRsNExUeEszN0lIMnZDdU1uUTR5a0FYR2Q?oc=5",
-    "category": "men",
-    "published": "Fri, 23 Oct 2026 18:04:23 GMT",
-    "fetched_at": "2026-10-24T01:12:59.792312",
-    "menu_name": "豚つけ汁うどん",
-    "one_liner": "3玉まで同価格！濃厚で旨辛な選べるつけ汁"
-  },
-  {
-    "id": "8d38278feaa1f08fd6e8bcef7f8d6d6e",
-    "shop": "マクドナルド",
-    "name": "10/21(水)発売【マクドナルド】新作がさっそく話題！「想像以上のおいしさ♡」「これは大優勝！」 - TRILL",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KT20tX3lnRm1UbzBQQWVFamg2ckR2TlRrdXNyQkJORHlZN214X2tRTVdLZF",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KT20tX3lnRm1UbzBQQWVFamg2ckR2TlRrdXNyQkJORHlZN214X2tRTVdLZFpCVFc0a2o3ZmR5QUZSeks5a281ZUxsV1JOZ00?oc=5",
-    "category": "burger",
-    "published": "Fri, 23 Oct 2026 05:19:52 GMT",
-    "fetched_at": "2026-10-25T00:36:51.631346",
-    "menu_name": "新作",
-    "one_liner": "想像以上のおいしさと話題の新作"
-  },
-  {
-    "id": "c748a380577bfe9fd1cdf0a0c3afc71c",
-    "shop": "ココス",
-    "name": "牡蠣のクリームスープパスタ&牡蠣ときのこのアヒージョが登場!【ココス「今月のグルメ～11月～」】 - 食品産業新聞社ニュースWEB",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uRDZ3QXNBVlVxOUIyUzgyYUdNZ0tkUVl4SGpUNmd3dTZYSm5PWnI2ZFdJUi",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uRDZ3QXNBVlVxOUIyUzgyYUdNZ0tkUVl4SGpUNmd3dTZYSm5PWnI2ZFdJUi14ZFlEUFVXT0ZwZ3YtRFFreGNDVUNiaW1TVndRYmhMaQ?oc=5",
-    "category": "family",
-    "published": "Sat, 24 Oct 2026 01:22:14 GMT",
-    "fetched_at": "2026-10-25T00:37:29.152578",
-    "menu_name": "牡蠣のクリームスープパスタ&牡蠣ときのこのアヒージョ",
-    "one_liner": "旬の牡蠣を贅沢に使用した秋の味覚"
-  },
-  {
-    "id": "b3dfadc5f74d4986c38702aa815bb5ec",
-    "shop": "ジョナサン",
-    "name": "おいしく食べて無理なく健康に！竹脇まりなさん監修「PFCバランスメニュー」が『ジョナサン』など3ブランドに登場 - Excite エキサイト",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZHRUSUlyRDlvNUJIbno1NXVrMzJrZEZFTHlteEdCSHh6NmlMYklDWEpMVE",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZHRUSUlyRDlvNUJIbno1NXVrMzJrZEZFTHlteEdCSHh6NmlMYklDWEpMVEllQjluVHp6WDBORnoxR2tydWNWd3MxS1ZVS0hFOFBiWWtyMnlpeklmRnN5REtDOVFhTkc3Tm14cGJ0QmxsUlFCcHdR?oc=5",
-    "category": "family",
-    "published": "Fri, 23 Oct 2026 08:30:00 GMT",
-    "fetched_at": "2026-10-25T00:37:32.217811",
-    "menu_name": "PFCバランスメニュー",
-    "one_liner": "竹脇まりな監修の健康メニュー"
-  },
-  {
-    "id": "17ead18454a241280a12508ccdbba26b",
-    "shop": "はま寿司",
-    "name": "はま寿司10月14日から秋祭り第3弾|広島産牡蠣と信州産まいたけ天ぷら（おとなの週末） - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBXU2ZlTGthMmtvdVFHbDBqUW1DdnZkZ2U4OThNdDMzLWtPalY5MjRTMmh1Q1",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXU2ZlTGthMmtvdVFHbDBqUW1DdnZkZ2U4OThNdDMzLWtPalY5MjRTMmh1Q1B0aXRlaWNOVnR5ZlloWkxZS1NRck5sOUhFNUhrS3pxVjNxbUlxak9yaDVkaE1pd2owN05WczZRVlBrSENzOUd0NDhGTng3dWE2RTQ?oc=5",
-    "category": "sushi",
-    "published": "Fri, 23 Oct 2026 23:30:00 GMT",
-    "fetched_at": "2026-10-26T00:47:02.920928",
-    "menu_name": "広島産牡蠣と信州産まいたけ天ぷら",
-    "one_liner": "旬の牡蠣と舞茸を堪能する秋の味覚"
-  },
-  {
     "id": "e1204fe0501cc3e5bd9917e561613430",
     "shop": "ケンタッキーフライドチキン",
     "name": "2021年“月見”バーガー・サンド登場、マクドナルド・ケンタッキー・ロッテリアで販売開始 Rex Reed (tI4mkCkoUo) - Unisba Media",
@@ -108,18 +24,6 @@
     "one_liner": "大海老天3本の豪華なうどん"
   },
   {
-    "id": "eae9f8f4fdd6ffaa4213ce09927e8516",
-    "shop": "はなまるうどん",
-    "name": "【資さんうどん】朝定食に「肉豆腐定食」「肉豆腐貝汁定食」登場、関西・関東10店舗限定 - ニコニコニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZzlFSVJFSE1DSEF1dUpYWmhDUnRBaUEwdGdvcHR3Q1M1TFZsTGFkNmR0ZD",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tZzlFSVJFSE1DSEF1dUpYWmhDUnRBaUEwdGdvcHR3Q1M1TFZsTGFkNmR0ZDBhaEN0dGVzVW5INENKdkhTQnNvODg4X2QwSkx4T2lkag?oc=5",
-    "category": "men",
-    "published": "Fri, 23 Oct 2026 04:51:30 GMT",
-    "fetched_at": "2026-10-26T00:47:51.092857",
-    "menu_name": "肉豆腐定食、肉豆腐貝汁定食",
-    "one_liner": "資さんうどんの朝を彩る限定定食"
-  },
-  {
     "id": "5b5608eb342b3d2a70d0a9337c5d384e",
     "shop": "スシロー",
     "name": "【スシロー】国産ほたて貝柱が110円から!マヨ炙りと柚子のせとの“3種仕立て”で登場 新作の創作すしや天然本マグロねぎとろにも注目（めざましmedia） - Yahoo!ニュース",
@@ -142,18 +46,6 @@
     "fetched_at": "2026-10-27T01:39:24.232214",
     "menu_name": "牡蠣と旨ねた秋祭り",
     "one_liner": "牡蠣と大切りまぐろが110円"
-  },
-  {
-    "id": "47b975a55f2251e2c7a22588c34b048e",
-    "shop": "マクドナルド",
-    "name": "【マクドナルド】シャカシャカポテト やみつきブラックペッパー【新メニュー】 - https://foodfighter.jp/",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE43dTd4NHc3WDVzSjA5aUJhZnI0N0NVN09TMHNTVXUxRTgxVTJKWUlMal9qSU",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43dTd4NHc3WDVzSjA5aUJhZnI0N0NVN09TMHNTVXUxRTgxVTJKWUlMal9qSUp2WkMyVzlEd3ZXWnBlY0ktNl9MYzhZZTl2X0ZkTHBvT1lxR3hLQzg3U0E?oc=5",
-    "category": "burger",
-    "published": "Sat, 24 Oct 2026 01:00:39 GMT",
-    "fetched_at": "2026-10-27T01:39:30.564054",
-    "menu_name": "シャカシャカポテト やみつきブラックペッパー",
-    "one_liner": "黒胡椒が効いた刺激的な味わい"
   },
   {
     "id": "819c4155d7b0d23be7d84a5114087851",
@@ -348,18 +240,6 @@
     "one_liner": "アローラディグダが可愛いドーナツに！"
   },
   {
-    "id": "e34aacfdaf7702630b4bbb1b3f3730be",
-    "shop": "ミスタードーナツ",
-    "name": "ミスタードーナツ秋の定番「さつまいもド」進化して登場 厚み増した生地で“よりさつまいも”に 全5種が期間限定で発売へ - 山陽新聞",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xcDUwMzlYdFlvUHlMVjB3eTNXaUY5MWNDR1AtaHFZQW51cmE2d0I5cmk0Vl",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xcDUwMzlYdFlvUHlMVjB3eTNXaUY5MWNDR1AtaHFZQW51cmE2d0I5cmk0VlpSVENMTC1ndVA5bVRlV0g1NUowSkJVRmJrYXhlMUVhSW5fdDRmbVM5b0tnLVNPTGNyYjQ?oc=5",
-    "category": "cafe",
-    "published": "Fri, 23 Oct 2026 16:54:37 GMT",
-    "fetched_at": "2026-10-28T01:51:00.589793",
-    "menu_name": "さつまいもド",
-    "one_liner": "厚みが増した、よりさつまいもな生地"
-  },
-  {
     "id": "2cf4d135ee5c636efc5468e4a63816df",
     "shop": "ミスタードーナツ",
     "name": "【ミスド】歴代コラボポケモンたちが大集合のブランケット発売「両方ほしい」「好きなポケモン全部詰まってる」SNS反響 - Yahoo!ニュース",
@@ -370,18 +250,6 @@
     "fetched_at": "2026-10-28T01:51:00.590081",
     "menu_name": "歴代コラボポケモンたちが大集合のブランケット",
     "one_liner": "歴代ポケモンが勢揃いした限定ブランケット"
-  },
-  {
-    "id": "a69286bd3727cd8115b9f5e9871f08ff",
-    "shop": "コメダ珈琲店",
-    "name": "【コナズ珈琲】6年ぶりにグランドメニュー刷新！紫色のパンケーキなど新メニュー17種登場 待望のキッズメニューも - LASISA",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE5BUlhxc0toWm9MYUJsQVpVcUthcEJaZGVLNnRGLWVrYzdtdURkWWlWOHRPYn",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5BUlhxc0toWm9MYUJsQVpVcUthcEJaZGVLNnRGLWVrYzdtdURkWWlWOHRPYnY2N1oyV1V2WW5iREp3THcw?oc=5",
-    "category": "cafe",
-    "published": "Sat, 24 Oct 2026 03:04:16 GMT",
-    "fetched_at": "2026-10-28T01:51:02.008073",
-    "menu_name": "紫色のパンケーキなど新メニュー17種",
-    "one_liner": "6年ぶり刷新！彩り豊かな新メニュー"
   },
   {
     "id": "bae5309183ba8111842bacf18cd86daa",
@@ -514,18 +382,6 @@
     "fetched_at": "2026-10-29T01:59:15.808377",
     "menu_name": "ドトール×シナモロール福袋2027",
     "one_liner": "制服姿のシナモロールが可愛い豪華福袋"
-  },
-  {
-    "id": "3e34eb3849ee9f092c8f1d17b48f7b9e",
-    "shop": "ミスタードーナツ",
-    "name": "【ミスド×ポケモン】10月27日予約スタート！ 全部見せます♡期間限定のコラボドーナツ＆グッズ紹介！ - TRILL",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zRHljRVhGTEN1bG5DUG84RlZvYmR5Z282TDdjTC1KaXpoZnE2cTdKWERKRF",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zRHljRVhGTEN1bG5DUG84RlZvYmR5Z282TDdjTC1KaXpoZnE2cTdKWERKRFMxeUNyMG43TGowZ2dXbGVpQWhmRWFXRC01UnM?oc=5",
-    "category": "cafe",
-    "published": "Fri, 23 Oct 2026 04:20:00 GMT",
-    "fetched_at": "2026-10-29T01:59:18.869154",
-    "menu_name": "期間限定のコラボドーナツ＆グッズ",
-    "one_liner": "ミスドとポケモンの可愛い限定コラボ"
   },
   {
     "id": "cc1b5f388ecbfd57375345f6959b2e62",
@@ -780,18 +636,6 @@
     "one_liner": "モンゴル限定のご当地牛丼"
   },
   {
-    "id": "ed808c002b80b7a6b8ad39960b4a083f",
-    "shop": "吉野家",
-    "name": "【吉野家】牛すき鍋膳（ご飯増量・おかわり無料）【新メニュー】 - https://foodfighter.jp/",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE90UThlXzV4dTJlNy1xMlFSaVZNdnoyczZBcFNSbDdtN3VpZVIzRWVxMTZkWE",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90UThlXzV4dTJlNy1xMlFSaVZNdnoyczZBcFNSbDdtN3VpZVIzRWVxMTZkWE1YWVJLYU95UVhGVGQ1T3BnSUZkVUVSTVRQclo3LUtYVmliUWJnVE1CTnVIUDRB?oc=5",
-    "category": "don",
-    "published": "Sat, 24 Oct 2026 03:15:42 GMT",
-    "fetched_at": "2026-10-31T01:54:31.229664",
-    "menu_name": "牛すき鍋膳",
-    "one_liner": "ご飯増量・おかわり無料で満足"
-  },
-  {
     "id": "8088ad7e432d5d5f7b929f793ab9eb3f",
     "shop": "吉野家",
     "name": "いいね！吉野家に「牛肉豆腐丼」登場！ たっぷり“とうふ”が主役 - ASCII.jp",
@@ -912,18 +756,6 @@
     "one_liner": "振って楽しむ涼やかな新メニュー"
   },
   {
-    "id": "24f55f57f468b954fd99f06f4b65932c",
-    "shop": "丸亀製麵",
-    "name": "松岡昌宏と共同開発！累計販売数1200万食超えの「トマたま」が今年も。新作「海老カツトマたまカレーうどん」含む3種が登場！ - ウォーカープラス",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oLURnVmF4WHQ1TVNrSHRRYWp6MDhQSEdkWlhwX1Jxdm5uTkNfenE4VW15b2",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oLURnVmF4WHQ1TVNrSHRRYWp6MDhQSEdkWlhwX1Jxdm5uTkNfenE4VW15b2tCZWhZMkZmY2IwN2dseTNSWWg0MlpkOFYtUVBxRkZ2bXZn0gFbQVVfeXFMUEkzY1FrRzdqcWVnRHl4Tm5UR1pRMHhpWXBBS3Zfd2h0R0l4MmVpQ2R1QkM4ckpJbk45R1pGNFh5bG4yV2RGNXVmY1pSbnd1YW9pZ3daXzlUVm9MYw?oc=5",
-    "category": "men",
-    "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-02T01:56:27.475238",
-    "menu_name": "海老カツトマたまカレーうどん",
-    "one_liner": "累計1200万食超えの人気メニュー"
-  },
-  {
     "id": "ca86263f0477880c53468419e1a8a65c",
     "shop": "はま寿司",
     "name": "購入制限なくていいの〜！？即完売の予感【はま寿司】「これアタリじゃね？」限定の新作最強フェア始まる - ヨムーノ",
@@ -1030,18 +862,6 @@
     "fetched_at": "2026-11-03T03:46:43.605153",
     "menu_name": "大人のピザシリーズ（カチョエペペ、THE）",
     "one_liner": "素材にこだわった大人の贅沢ピザ"
-  },
-  {
-    "id": "aa207cd049f3ea518676211e368e1f2b",
-    "shop": "フレッシュネスバーガー",
-    "name": "クア・アイナ「トリュフ コルビージャック チーズバーガー」3種を期間限定販売。トリュフの芳醇な香り×チーズのコク - グルメ Watch",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5PajdRbDAzbVFRMTlNQzIyaDB4VzNBZHFTd04wd2RLdmZOaXFQNzFDU3pkaj",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PajdRbDAzbVFRMTlNQzIyaDB4VzNBZHFTd04wd2RLdmZOaXFQNzFDU3pkajc4RHV1THNBZGNJcDZyMkJVVTVpZnplNkh6VVc1REE5djBEYlZpQXlqZkU1WDdyUHE5RU1abHc?oc=5",
-    "category": "burger",
-    "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-04T02:46:08.351093",
-    "menu_name": "トリュフ コルビージャック チーズバーガー",
-    "one_liner": "トリュフの香りとチーズのコクが融合"
   },
   {
     "id": "b3d88ad8b631e69afed0f1bdbf6a86cb",
@@ -1606,18 +1426,6 @@
     "fetched_at": "2026-11-11T02:19:35.968972",
     "menu_name": "超大型バーガー",
     "one_liner": "特製ガーリックソースが食欲をそそる背徳の味"
-  },
-  {
-    "id": "9df95a31e2ae1e896e0eebdf0566fe91",
-    "shop": "バーガーキング",
-    "name": "【バーガーキング】マッシュルームワッパー新作「オータムスペシャル マッシュルームワッパー」新発売（オトナンサー） - Yahoo!ニュース",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50cGtiRG1Qc2QtNENoTTh3OHFLdlNYY0xjc0JETDhHSWl6NzVyV1l2S21tOX",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50cGtiRG1Qc2QtNENoTTh3OHFLdlNYY0xjc0JETDhHSWl6NzVyV1l2S21tOXF5OE4xM01TVFJlTGhtYmRUblBwWXBMekYwa1JtaHRzd1NiTzlMcnhFMDE4TW5BXzQ0NHVCWS15dkRHNGZSQ1RWMHhNZDVhNmh5TGc?oc=5",
-    "category": "burger",
-    "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-11T02:19:35.969436",
-    "menu_name": "オータムスペシャル マッシュルームワッパー",
-    "one_liner": "秋の味覚を堪能できる贅沢な新作バーガー"
   },
   {
     "id": "eaa9cba01373bf1daced4b911021fd0c",
@@ -2340,18 +2148,6 @@
     "one_liner": "希少部位ブレードミートの旨味"
   },
   {
-    "id": "32c3a48a35f55d45b7502b56dd455b9e",
-    "shop": "ジョナサン",
-    "name": "「ジョジョの奇妙な冒険」×Shokzコラボイヤホン発売！ ジョナサン＆ディオをイメージした限定モデル - アニメ！アニメ！",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kRzkxdk1XTFg4OTlPMFVqcjZSMWZSRmp2VGZyREc4OWxmYmpHNXlmdDdwZG",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kRzkxdk1XTFg4OTlPMFVqcjZSMWZSRmp2VGZyREc4OWxmYmpHNXlmdDdwZGg0cm1zUUJkOWJ2SkRLdGNYNmZnUGxKWGxmQ2RXZ3phcHB0bndwdjRjWlh5U21B?oc=5",
-    "category": "family",
-    "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-    "fetched_at": "2026-11-17T04:50:25.002551",
-    "menu_name": "「ジョジョの奇妙な冒険」×Shokzコラボイヤホン",
-    "one_liner": "ジョナサン＆ディオの限定コラボモデル"
-  },
-  {
     "id": "c87e26ff5c3144511c7a40f9eda58ece",
     "shop": "丸亀製麵",
     "name": "丸亀製麺、鴨が香ばしい「焼き鴨ねぎうどん」を発売。旨みが詰まった「牡蠣たまあんかけうどん」なども登場！ - グルメ Watch",
@@ -3046,5 +2842,41 @@
     "fetched_at": "2026-11-23T03:18:08.286177",
     "menu_name": "巡る鶏白湯",
     "one_liner": "世界で同時発売の記念ラーメン"
+  },
+  {
+    "id": "6d82f7412c699343b1338eeaeb636113",
+    "shop": "かっぱ寿司",
+    "name": "はごろもフーズと、かっぱ寿司がコラボ！「シーチキン」＊の旨みと甘口カレーのまろやかなコクが広がるお寿司とうどん全３品が登場。おこさまから大人まで、家族みんなで楽しめる食欲をそそるやみつきの味わいです。 - Infoseek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE43VGRfNzRFVzZMY25qVldSLUJ0UVNyQ05YcGFtRFFNTV9lRC0xUkhfNlR1UW",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43VGRfNzRFVzZMY25qVldSLUJ0UVNyQ05YcGFtRFFNTV9lRC0xUkhfNlR1UWt5QklzQy1fRWVVSFVJU2Y0ZlZjVUxrMWJ3UDZwUFd2WU5XSWJvdUpjQjVwYmZEYmlhQ1F6UER1eWpBR1RGQQ?oc=5",
+    "category": "sushi",
+    "published": "Fri, 20 Nov 2026 07:45:28 GMT",
+    "fetched_at": "2026-11-24T06:32:25.619276",
+    "menu_name": "シーチキンと甘口カレーのお寿司とうどん",
+    "one_liner": "旨みとコクが広がるやみつきの味わい"
+  },
+  {
+    "id": "d323f3fcff4b348a0a1ee584ae059a63",
+    "shop": "バーガーキング",
+    "name": "骨付きチキン24ピース バーガーキングの冬限定パック、11月27日発売 - にいがた経済新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE12LVJFa2lrU3lHMk0wdTl3ZHNBM2xqVnFZR3hfc2F4TlNGMnBRcGZvTHpoVT",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12LVJFa2lrU3lHMk0wdTl3ZHNBM2xqVnFZR3hfc2F4TlNGMnBRcGZvTHpoVTViV2Zjcmt2eFhMMzJCcWY5?oc=5",
+    "category": "burger",
+    "published": "Tue, 24 Nov 2026 06:08:20 GMT",
+    "fetched_at": "2026-11-24T06:32:30.046007",
+    "menu_name": "骨付きチキン24ピース",
+    "one_liner": "冬限定のボリューム満点チキンパック"
+  },
+  {
+    "id": "d312e449a83eace43d30c7155ea58af6",
+    "shop": "一風堂",
+    "name": "一風堂 41周年創業祭「パンどろぼう」とコラボ！ラーメンバーガー＆とんこつラーメンセット発売 - 久留米ファン",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WVmU1VVdZbGo0WFB2MDhJR1Y2VUpZQ0NpcGFzdVRiTHlmcVhobjZlTFBZdG",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WVmU1VVdZbGo0WFB2MDhJR1Y2VUpZQ0NpcGFzdVRiTHlmcVhobjZlTFBZdGpQaFhBSDNxWnEwTjJmREhIT3lDVTRVUUYyalpHbnZldVpB?oc=5",
+    "category": "ramen",
+    "published": "Sat, 31 Oct 2026 07:00:00 GMT",
+    "fetched_at": "2026-11-24T06:33:06.225351",
+    "menu_name": "ラーメンバーガー＆とんこつラーメンセット",
+    "one_liner": "パンどろぼうコラボの限定セット"
   }
 ]
